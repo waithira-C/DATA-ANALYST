@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+app/test-results/
+app/playwright-report/
+supabase/.temp/
+supabase/.branches/
+__pycache__/
+*.pyc
+.venv/

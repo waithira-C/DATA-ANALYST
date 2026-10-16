@@ -1,0 +1,5121 @@
+[
+  {
+    "id": "roadmap-sh-data-analyst",
+    "title": "Data Analyst Roadmap",
+    "url": "https://roadmap.sh/data-analyst",
+    "provider": "roadmap.sh",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 1,
+    "summary": "Interactive skill map of the data analyst role, from collecting and cleaning data to analysis and visualization; useful for seeing the whole path before starting.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-data-analytics-certificate",
+    "title": "Google Data Analytics Professional Certificate",
+    "url": "https://grow.google/certificates/data-analytics/",
+    "provider": "Google / Coursera",
+    "type": "course",
+    "cost": "freemium",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "spreadsheets",
+      "sql",
+      "visualization",
+      "tableau",
+      "r",
+      "career"
+    ],
+    "est_hours": 240,
+    "summary": "Beginner multi-course program covering the analysis process, spreadsheets, SQL, visualization and a capstone; individual courses can usually be audited, the certificate needs a subscription.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "coursera-foundations-data",
+    "title": "Foundations: Data, Data, Everywhere (Google DA course 1)",
+    "url": "https://www.coursera.org/learn/foundations-data",
+    "provider": "Google / Coursera",
+    "type": "course",
+    "cost": "freemium",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 20,
+    "summary": "First course of the Google certificate: introduces what analysts do, the data life cycle and the tools used in the rest of the program.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ibm-data-analyst-certificate",
+    "title": "IBM Data Analyst Professional Certificate",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+    "provider": "IBM / Coursera",
+    "type": "course",
+    "cost": "freemium",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "excel",
+      "sql",
+      "python",
+      "pandas",
+      "visualization"
+    ],
+    "est_hours": 130,
+    "summary": "Eleven-course beginner track spanning Excel, SQL, Python and dashboarding, ending with a capstone on a real survey dataset.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "coursera-google-vs-ibm-vs-meta",
+    "title": "Which Data Analytics Certificate Is Best? Google vs IBM vs Meta",
+    "url": "https://www.coursera.org/articles/google-vs-ibm-vs-meta-data-analysis-certificates",
+    "provider": "Coursera",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.25,
+    "summary": "Side-by-side comparison of the major entry-level analytics certificates by length, tools and focus to help pick a starting program.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "coursera-career-academy-data-analyst",
+    "title": "Data Analyst Learning Paths by Skill Level",
+    "url": "https://www.coursera.org/career-academy/roles/data-analyst",
+    "provider": "Coursera",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Overview of the data analyst role with suggested course sequences grouped by experience level.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-data-analytics-roadmap",
+    "title": "How to Get Started in Data Analytics",
+    "url": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
+    "provider": "freeCodeCamp",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Beginner roadmap covering what the job involves, the maths, Excel, SQL, Python and BI tools to learn, plus networking and soft skills.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-teach-yourself-data-analytics-30-days",
+    "title": "Teach Yourself Data Analytics in 30 Days",
+    "url": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+    "provider": "freeCodeCamp",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation"
+    ],
+    "est_hours": 0.5,
+    "summary": "A day-by-day self-study plan that strings free resources together into a one-month introduction to analytics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "edx-how-to-audit",
+    "title": "How to Audit a Course on edX",
+    "url": "https://www.edx.org/resources/how-to-audit-an-edx-class",
+    "provider": "edX",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation"
+    ],
+    "est_hours": 0.2,
+    "summary": "Explains the free audit track on edX, what it includes and what is locked behind the paid certificate.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "edx-essentials-of-data-literacy",
+    "title": "The Essentials of Data Literacy (DavidsonX)",
+    "url": "https://www.edx.org/learn/data-analysis/davidson-college-essentials-of-data-literacy",
+    "provider": "Davidson College / edX",
+    "type": "course",
+    "cost": "freemium",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "statistics",
+      "r"
+    ],
+    "est_hours": 16,
+    "summary": "Short introductory course on reading, questioning and summarizing data, with a light introduction to analysis in R; free to audit.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "alex-free-data-analyst-bootcamp-intro",
+    "title": "FREE Data Analyst Bootcamp!! (announcement)",
+    "url": "https://www.youtube.com/watch?v=rGx1QNdYzvs",
+    "provider": "Alex The Analyst (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.2,
+    "summary": "Short intro to Alex Freberg's free bootcamp playlist, explaining the order of topics and how the projects fit together.",
+    "youtube_id": "rGx1QNdYzvs",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "alex-data-analyst-bootcamp-playlist",
+    "title": "Data Analyst Bootcamp (playlist)",
+    "url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF",
+    "provider": "Alex The Analyst (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "sql",
+      "excel",
+      "tableau",
+      "powerbi",
+      "python",
+      "pandas",
+      "portfolio"
+    ],
+    "est_hours": 40,
+    "summary": "Long-running free playlist that walks through SQL, Excel, Tableau, Power BI and Python with portfolio projects along the way.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "alex-ultimate-bootcamp-24h",
+    "title": "Ultimate Data Analyst Bootcamp [24 Hours]",
+    "url": "https://www.youtube.com/watch?v=wQQR60KtnFY",
+    "provider": "Alex The Analyst (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "sql",
+      "excel",
+      "tableau",
+      "powerbi",
+      "python",
+      "pandas"
+    ],
+    "est_hours": 24,
+    "summary": "Single long video compiling the bootcamp: SQL, Excel, Tableau, Power BI, Python/pandas and cloud basics, with chapter timestamps.",
+    "youtube_id": "wQQR60KtnFY",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-data-analyst-bootcamp-35h",
+    "title": "Data Analyst Bootcamp (Free 35+ Hour Course)",
+    "url": "https://www.youtube.com/watch?v=MOzEvNYvbik",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "sql",
+      "excel",
+      "powerbi",
+      "python",
+      "git"
+    ],
+    "est_hours": 35,
+    "summary": "All-in-one free course bundling Luke Barousse's SQL, Excel, Power BI and Python lessons plus GitHub and AI tooling.",
+    "youtube_id": "MOzEvNYvbik",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-data-analysis-bootcamp-19h",
+    "title": "Data Analysis Bootcamp (19 hours) - freeCodeCamp",
+    "url": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+    "provider": "freeCodeCamp / Alex Freberg",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "sql",
+      "excel",
+      "tableau",
+      "powerbi",
+      "python",
+      "pandas"
+    ],
+    "est_hours": 19,
+    "summary": "freeCodeCamp-hosted bootcamp by Alex Freberg spanning SQL, Excel, Tableau, Power BI, Python and web scraping.",
+    "youtube_id": "PSNXoAs2FtQ",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-how-id-learn-data-analyst",
+    "title": "How I'd Learn to be a Data Analyst",
+    "url": "https://www.youtube.com/watch?v=_gF2Mj1354M",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "Luke Barousse's recommended order of skills and resources for a beginner aiming at a first analyst job.",
+    "youtube_id": "_gF2Mj1354M",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-top-courses-data-analyst",
+    "title": "Top Courses to Become a Data Analyst",
+    "url": "https://www.youtube.com/watch?v=aqRxZSrJLEc",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "Review of popular paid and free analyst courses and certificates and who each one suits.",
+    "youtube_id": "aqRxZSrJLEc",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-skills-interview",
+    "title": "Want to be a Data Analyst? Learn These Skills (w/ Luke Barousse)",
+    "url": "https://www.youtube.com/watch?v=p_CjpS5lC-w",
+    "provider": "YouTube",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Conversation on which technical skills matter most for entry-level analyst roles.",
+    "youtube_id": "p_CjpS5lC-w",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mo-chen-how-id-become-data-analyst",
+    "title": "How I'd Become a Data Analyst",
+    "url": "https://www.youtube.com/watch?v=d_2fGS6QVDo",
+    "provider": "Mo Chen (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "A working analytics manager's plan for career switchers: what to learn first and how to show it.",
+    "youtube_id": "d_2fGS6QVDo",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mo-chen-da-vs-ds",
+    "title": "Should You Be a Data Scientist or Data Analyst?",
+    "url": "https://www.youtube.com/watch?v=yRBEPkfPh_U",
+    "provider": "YouTube",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "Compares day-to-day work, skills and hiring expectations for analyst versus scientist roles.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mo-chen-best-resources-2024",
+    "title": "Best Resources and Courses for Data Analysis in 2024",
+    "url": "https://www.youtube.com/watch?v=0bOR4wvedHw",
+    "provider": "Mo Chen (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation"
+    ],
+    "est_hours": 0.3,
+    "summary": "Curated walkthrough of courses and free materials the creator recommends for each analyst skill.",
+    "youtube_id": "0bOR4wvedHw",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tina-huang-learn-data-science-2022",
+    "title": "How I Would Learn Data Science in 2022",
+    "url": "https://www.youtube.com/watch?v=Rt6eb9VOFII",
+    "provider": "Tina Huang (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation"
+    ],
+    "est_hours": 0.3,
+    "summary": "Tina Huang's minimal-effort self-study plan for data roles; much of the advice transfers to analytics.",
+    "youtube_id": "Rt6eb9VOFII",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ken-jee-how-i-would-learn-ds",
+    "title": "How I Would Learn Data Science (What Has Changed?)",
+    "url": "https://www.youtube.com/watch?v=41Clrh6nv1s",
+    "provider": "Ken Jee (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation"
+    ],
+    "est_hours": 0.3,
+    "summary": "Ken Jee's suggested learning sequence and project-first mindset for breaking into data work.",
+    "youtube_id": "41Clrh6nv1s",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "linkedin-learning-explore-career-data-analysis",
+    "title": "Explore a Career in Data Analysis (Learning Path)",
+    "url": "https://www.linkedin.com/learning/paths/explore-a-career-in-data-analysis",
+    "provider": "LinkedIn Learning",
+    "type": "course",
+    "cost": "paid",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 8,
+    "summary": "Short subscription path introducing the analyst role and core tools; often free via libraries or trials.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "analystbuilder-data-analyst-roadmap",
+    "title": "Data Analyst Roadmap (Analyst Builder)",
+    "url": "https://analystbuilder.com/roadmaps/data-analyst-roadmap",
+    "provider": "Analyst Builder",
+    "type": "article",
+    "cost": "free",
+    "level": 1,
+    "skills": [
+      "orientation",
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Step-by-step roadmap from Alex Freberg's platform linking each skill stage to practice material.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "gcfglobal-excel",
+    "title": "Excel: Foundations (GCFGlobal / LearnFree)",
+    "url": "https://edu.gcfglobal.org/en/excel/",
+    "provider": "GCFGlobal",
+    "type": "course",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel",
+      "spreadsheets"
+    ],
+    "est_hours": 6,
+    "summary": "Gentle, step-by-step lessons on the Excel interface, cell basics, simple formulas, formatting and charts with practice workbooks.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "gcfglobal-google-sheets",
+    "title": "Google Sheets Tutorial (GCFGlobal)",
+    "url": "https://edu.gcfglobal.org/en/googlespreadsheets/getting-started-with-google-sheets/full",
+    "provider": "GCFGlobal",
+    "type": "course",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "spreadsheets"
+    ],
+    "est_hours": 4,
+    "summary": "Free beginner course on creating, formatting, sorting and calculating in Google Sheets.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "microsoft-excel-help-learning",
+    "title": "Excel Help & Learning",
+    "url": "https://support.microsoft.com/en-us/excel/",
+    "provider": "Microsoft Support",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 2,
+    "summary": "Official hub of Excel how-tos, function references and short training videos, including XLOOKUP and PivotTables.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "microsoft-basic-tasks-excel",
+    "title": "Basic Tasks in Excel",
+    "url": "https://support.microsoft.com/en-us/office/basic-tasks-in-excel-dc775dd1-fa52-430f-9c3c-d998d1735fca",
+    "provider": "Microsoft Support",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 0.5,
+    "summary": "Official beginner walkthrough of opening workbooks, entering and formatting data and doing quick calculations.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-sheets-training-help",
+    "title": "Google Sheets Training and Help",
+    "url": "https://support.google.com/a/users/answer/9282959?hl=en",
+    "provider": "Google Workspace Learning Center",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "spreadsheets"
+    ],
+    "est_hours": 1,
+    "summary": "Official quick-start guides and productivity tips for Sheets, including a guide for people switching from Excel.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-sheets-cheat-sheet",
+    "title": "Google Sheets Cheat Sheet",
+    "url": "https://support.google.com/a/users/answer/9300022?hl=en",
+    "provider": "Google Workspace Learning Center",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "spreadsheets"
+    ],
+    "est_hours": 0.3,
+    "summary": "One-page reference for common Sheets tasks such as freezing headers, version history and everyday functions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excel-easy",
+    "title": "Excel Easy",
+    "url": "https://www.excel-easy.com/",
+    "provider": "Excel Easy",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 10,
+    "summary": "Large free tutorial site organised by chapter, from basics through functions, charts and pivot tables.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "trumpexcel-free-training",
+    "title": "Free Online Excel Training (12+ hours)",
+    "url": "https://trumpexcel.com/learn-excel/",
+    "provider": "TrumpExcel (Sumit Bansal)",
+    "type": "course",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 12,
+    "summary": "No-signup video course in 26 lessons covering formulas, lookups, text and date functions and charts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "teachexcel-tutorials",
+    "title": "Free Excel Video Tutorials (TeachExcel)",
+    "url": "https://www.teachexcel.com/excel-tutorials/index.php",
+    "provider": "TeachExcel",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": null,
+    "summary": "Library of short Excel videos grouped by topic and difficulty.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excelisfun-channel",
+    "title": "excelisfun (YouTube channel)",
+    "url": "https://www.youtube.com/user/ExcelIsFun",
+    "provider": "excelisfun / Mike Girvin",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": null,
+    "summary": "Thousands of Excel and Power BI videos plus full free college classes with downloadable workbooks.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excelisfun-365-basics-1",
+    "title": "Excel 365 Basics #1: Formulas, Functions, Formatting, Cell References",
+    "url": "https://www.youtube.com/watch?v=IInFoJxxPPA",
+    "provider": "excelisfun (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 1.5,
+    "summary": "First video of a free 10-part basics class with homework files; covers what Excel is and how formulas and references work.",
+    "youtube_id": "IInFoJxxPPA",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excelisfun-highline-class-01",
+    "title": "Highline Excel Class 01: Back to Basics",
+    "url": "https://www.youtube.com/watch?v=Wq7p4uoj4Vo",
+    "provider": "excelisfun (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 1,
+    "summary": "Opening lecture of Mike Girvin's college Excel class reviewing core spreadsheet mechanics.",
+    "youtube_id": "Wq7p4uoj4Vo",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-excel-full-course",
+    "title": "Microsoft Excel Tutorial for Beginners - Full Course",
+    "url": "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel",
+      "spreadsheets"
+    ],
+    "est_hours": 2.5,
+    "summary": "Project-based beginner course built around six practical workbooks; techniques also work in Google Sheets.",
+    "youtube_id": "Vl0H-qTclOg",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-spreadsheets-33-projects",
+    "title": "Master Spreadsheets by Building 33 Projects",
+    "url": "https://www.youtube.com/watch?v=BBk3DXgodmI",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel",
+      "spreadsheets"
+    ],
+    "est_hours": 4,
+    "summary": "Hands-on course of small spreadsheet projects that can be done in either Excel or Google Sheets.",
+    "youtube_id": "BBk3DXgodmI",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excel-full-course-4h",
+    "title": "Excel Full Course Tutorial (4+ Hours)",
+    "url": "https://www.youtube.com/watch?v=rro5t8eHXaY",
+    "provider": "YouTube",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 4,
+    "summary": "Long-form tutorial moving from basics to sorting, filtering, pivot tables, XLOOKUP and macros, with chapter markers.",
+    "youtube_id": "rro5t8eHXaY",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kevin-stratvert-channel",
+    "title": "Kevin Stratvert (YouTube channel)",
+    "url": "https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig",
+    "provider": "Kevin Stratvert",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel",
+      "powerbi"
+    ],
+    "est_hours": null,
+    "summary": "Former Microsoft PM's channel of clear, beginner-friendly Excel, Power Query and Power BI tutorials.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-how-i-use-excel",
+    "title": "How I Use Excel as a Data Analyst",
+    "url": "https://www.youtube.com/watch?v=lw6sPHH7twk",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 0.3,
+    "summary": "Shows which Excel features a working analyst relies on day to day.",
+    "youtube_id": "lw6sPHH7twk",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-excel-for-data-analytics",
+    "title": "Excel for Data Analytics - Full Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 6,
+    "summary": "Free analyst-focused Excel course with downloadable project files; optional paid tier adds problems and a certificate.",
+    "youtube_id": "pCJ15nGFgVg",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "benlcollins-how-to-use-google-sheets",
+    "title": "How to Use Google Sheets: A Beginner's Guide",
+    "url": "https://www.benlcollins.com/spreadsheets/how-to-use-google-sheets/",
+    "provider": "Ben Collins",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "spreadsheets"
+    ],
+    "est_hours": 1,
+    "summary": "Long beginner guide to Sheets from a Google Developer Expert, starting with SUM/COUNT/AVERAGE and basic formatting.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "benlcollins-sheets-essentials",
+    "title": "Google Sheets Essentials (course)",
+    "url": "https://courses.benlcollins.com/p/google-sheets-essentials",
+    "provider": "Ben Collins",
+    "type": "course",
+    "cost": "paid",
+    "level": 2,
+    "skills": [
+      "spreadsheets"
+    ],
+    "est_hours": 15,
+    "summary": "Paid video course of 44 short lessons on functions, data cleaning, pivot tables and charts in Google Sheets.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "xelplus-learn-excel-beginners",
+    "title": "How to Use Excel: Beginner's Guide with Free Practice File",
+    "url": "https://www.xelplus.com/learn-excel-beginners/",
+    "provider": "Xelplus (Leila Gharani)",
+    "type": "article",
+    "cost": "free",
+    "level": 2,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 1,
+    "summary": "Leila Gharani's suggested order for learning Excel, from data entry to formulas to lookups, with a practice workbook.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "coursera-analyze-data-to-answer-questions",
+    "title": "Analyze Data to Answer Questions (Google DA course)",
+    "url": "https://www.coursera.org/learn/analyze-data",
+    "provider": "Google / Coursera",
+    "type": "course",
+    "cost": "freemium",
+    "level": 3,
+    "skills": [
+      "spreadsheets",
+      "sql"
+    ],
+    "est_hours": 25,
+    "summary": "Google certificate course on organising, formatting and aggregating data with spreadsheets and SQL to answer business questions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "microsoft-mos-excel-associate",
+    "title": "Microsoft Office Specialist: Associate (MO-200 Excel)",
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-2019/",
+    "provider": "Microsoft / Certiport",
+    "type": "certification",
+    "cost": "paid",
+    "level": 3,
+    "skills": [
+      "excel",
+      "career"
+    ],
+    "est_hours": 20,
+    "summary": "Proctored Excel skills exam (worksheets, tables, formulas, charts) that counts toward the MOS Associate credential.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "exceljet-formulas",
+    "title": "Exceljet Formula Examples",
+    "url": "https://exceljet.net/formulas",
+    "provider": "Exceljet",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": null,
+    "summary": "Over a thousand worked formula examples (XLOOKUP, INDEX/MATCH, FILTER, SUMIFS, etc.) each with an explanation.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "exceljet-videos",
+    "title": "Exceljet Training Videos",
+    "url": "https://exceljet.net/videos",
+    "provider": "Exceljet",
+    "type": "video",
+    "cost": "freemium",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": null,
+    "summary": "Short focused clips with practice sheets on formulas, pivot tables, conditional formatting and shortcuts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "exceljet-home",
+    "title": "Exceljet: Functions & Shortcuts Reference",
+    "url": "https://exceljet.net/",
+    "provider": "Exceljet",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": null,
+    "summary": "Reference hub for Excel functions and keyboard shortcuts with featured formulas and videos.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excelfrog",
+    "title": "ExcelFrog Tutorials",
+    "url": "https://www.excelfrog.com/",
+    "provider": "ExcelFrog",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 4,
+    "summary": "Concise free tutorials on IF/IFS, VLOOKUP, INDEX MATCH and the COUNT family.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "chandoo-pivot-tables-tutorial",
+    "title": "Excel Pivot Tables Tutorial: What Is a Pivot Table and How to Make One",
+    "url": "https://chandoo.org/wp/excel-pivot-tables-tutorial/",
+    "provider": "Chandoo.org",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 1,
+    "summary": "Written guide plus video on creating, formatting, filtering and refreshing pivot tables.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "chandoo-pivot-table-video",
+    "title": "Make a Pivot Table in Excel (short)",
+    "url": "https://www.youtube.com/watch?v=TwTYWqv0Tm0",
+    "provider": "Chandoo (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 0.1,
+    "summary": "Very short demo of building a pivot table from a table in seconds.",
+    "youtube_id": "TwTYWqv0Tm0",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "chandoo-dynamic-dashboard",
+    "title": "Make Dynamic Dashboards Using Excel (video + workbook)",
+    "url": "https://chandoo.org/wp/dynamic-dashboard-video-tutorial/",
+    "provider": "Chandoo.org",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "visualization"
+    ],
+    "est_hours": 0.5,
+    "summary": "Older but still useful tutorial on combining pivot tables and slicers into an interactive dashboard.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "chandoo-videos",
+    "title": "Chandoo Excel, Power BI & Dashboard Videos",
+    "url": "https://chandoo.org/wp/videos/",
+    "provider": "Chandoo.org",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "powerbi",
+      "visualization"
+    ],
+    "est_hours": null,
+    "summary": "Index of Chandoo's free videos on formulas, Power Query, Power Pivot, dashboards and Power BI.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "chandoo-free-data-analyst-course",
+    "title": "FREE 14-Week Data Analyst Course (Chandoo)",
+    "url": "https://chandoo.org/wp/free-data-analyst-course/",
+    "provider": "Chandoo.org",
+    "type": "course",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "powerbi",
+      "sql",
+      "visualization"
+    ],
+    "est_hours": 60,
+    "summary": "Structured free course with videos, files and data covering advanced Excel, data modelling, DAX and dashboards.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "xelplus-pivot-tables-guide",
+    "title": "How to Create a Pivot Table in Excel: Complete Beginner's Guide",
+    "url": "https://www.xelplus.com/pivot-tables/",
+    "provider": "Xelplus (Leila Gharani)",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 1,
+    "summary": "Free illustrated guide to building, arranging, formatting and slicing a first pivot table.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "xelplus-pivot-table-tips",
+    "title": "10 Excel Pivot Table Tips & Tricks",
+    "url": "https://www.xelplus.com/pivot-table-pro-tips/",
+    "provider": "Xelplus (Leila Gharani)",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 0.5,
+    "summary": "Practical pivot table improvements such as grouping, show-values-as and layout tweaks.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "xelplus-advanced-pivot-tables",
+    "title": "Advanced Excel Pivot Tables: 10 Techniques",
+    "url": "https://www.xelplus.com/excel-advanced-pivot-tables/",
+    "provider": "Xelplus (Leila Gharani)",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 0.5,
+    "summary": "Next-step pivot techniques for analysts who already know the basics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "xelplus-pivot-mastery-course",
+    "title": "Excel Pivot Table Mastery: Basics to Dashboards",
+    "url": "https://www.xelplus.com/course/excel-pivot-tables/",
+    "provider": "Xelplus (Leila Gharani)",
+    "type": "course",
+    "cost": "paid",
+    "level": 3,
+    "skills": [
+      "excel",
+      "visualization"
+    ],
+    "est_hours": 8,
+    "summary": "Paid course of about eight hours on pivot tables through to pivot-driven dashboards, with practice files.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "xelplus-excel-dashboards-course",
+    "title": "Excel Dashboards Course",
+    "url": "https://www.xelplus.com/course/excel-dashboards/",
+    "provider": "Xelplus (Leila Gharani)",
+    "type": "course",
+    "cost": "paid",
+    "level": 3,
+    "skills": [
+      "excel",
+      "visualization",
+      "storytelling"
+    ],
+    "est_hours": null,
+    "summary": "Paid course on designing clear interactive dashboards in Excel.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "leila-gharani-channel",
+    "title": "Leila Gharani (YouTube channel)",
+    "url": "https://www.youtube.com/@LeilaGharani",
+    "provider": "Leila Gharani",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "powerbi"
+    ],
+    "est_hours": null,
+    "summary": "Popular channel of polished tutorials on Excel lookups, dynamic arrays, pivot tables, Power Query and Power BI.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-excel-formulas-functions",
+    "title": "Learn Excel Formulas and Functions (2 hours)",
+    "url": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 2,
+    "summary": "Covers logical functions, XLOOKUP, INDEX and dynamic-array functions such as FILTER, SORT and UNIQUE.",
+    "youtube_id": "gvhsKtjAmgc",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-excel-data-visualization",
+    "title": "Excel for Data Visualization",
+    "url": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "One-hour course on charts, pivot charts, KPIs and building a simple dashboard in Excel.",
+    "youtube_id": "VV8iRJ-DS0A",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excel-data-analysis-7h",
+    "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+    "url": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+    "provider": "YouTube",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 7,
+    "summary": "Long analysis-focused Excel course: cleaning, lookups, pivots and charts on sample business data.",
+    "youtube_id": "qrbf9DtR3_c",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excelisfun-power-query-1",
+    "title": "Power Query #1: Introduction to Power Query & Data Analysis",
+    "url": "https://www.youtube.com/watch?v=Kr5JFAq1aPQ",
+    "provider": "excelisfun (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "powerbi"
+    ],
+    "est_hours": 1,
+    "summary": "Start of a free series on importing and reshaping data with Power Query in Excel and Power BI.",
+    "youtube_id": "Kr5JFAq1aPQ",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "excelisfun-365-mecs-playlist",
+    "title": "Excel 365 & Power BI Intermediate to Advanced (365 MECS)",
+    "url": "https://www.youtube.com/playlist?list=PLrRPvpgDmw0nre_bTeBfJWjrnixKoyNtW",
+    "provider": "excelisfun (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "powerbi"
+    ],
+    "est_hours": 30,
+    "summary": "Free full course playlist on calculations and data analysis in Excel 365 and Power BI with homework files.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kevin-stratvert-power-query",
+    "title": "How to Use Microsoft Power Query",
+    "url": "https://www.youtube.com/watch?v=0aeZX1l4JT4",
+    "provider": "Kevin Stratvert (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "excel",
+      "powerbi"
+    ],
+    "est_hours": 0.5,
+    "summary": "Beginner walkthrough of cleaning and transforming data with Power Query instead of manual edits.",
+    "youtube_id": "0aeZX1l4JT4",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "benlcollins-home",
+    "title": "Ben Collins: Google Sheets Tutorials",
+    "url": "https://www.benlcollins.com/",
+    "provider": "Ben Collins",
+    "type": "article",
+    "cost": "free",
+    "level": 3,
+    "skills": [
+      "spreadsheets"
+    ],
+    "est_hours": null,
+    "summary": "Deep Google Sheets tutorials including the QUERY function, newer analytical functions and formula tips.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "edx-microsoft-intro-data-analysis-excel",
+    "title": "Introduction to Data Analysis using Excel (Microsoft)",
+    "url": "https://www.edx.org/learn/data-analysis/microsoft-introduction-to-data-analysis-using-excel",
+    "provider": "Microsoft / edX",
+    "type": "course",
+    "cost": "freemium",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 15,
+    "summary": "Course on pivot tables, slicers and formula-based reports in Excel; verified certificate costs extra.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "edx-ritx-data-processing-excel",
+    "title": "Data Processing and Analysis with Excel (RITx)",
+    "url": "https://www.edx.org/learn/excel/rochester-institute-of-technology-data-processing-and-analysis-with-excel",
+    "provider": "RIT / edX",
+    "type": "course",
+    "cost": "freemium",
+    "level": 3,
+    "skills": [
+      "excel"
+    ],
+    "est_hours": 20,
+    "summary": "University course on preparing, analysing and summarising data in Excel.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "khan-statistics-probability",
+    "title": "Khan Academy: Statistics and Probability",
+    "url": "https://www.khanacademy.org/math/statistics-probability",
+    "provider": "Khan Academy",
+    "type": "course",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 40,
+    "summary": "Complete free course with short videos and quizzes from descriptive stats through sampling, confidence intervals and significance tests.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "openintro-statistics",
+    "title": "OpenIntro Statistics (free PDF)",
+    "url": "https://www.openintro.org/book/os/",
+    "provider": "OpenIntro",
+    "type": "book",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 60,
+    "summary": "Widely used open textbook on data, probability, distributions, inference and regression; free PDF download.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "openintro-ims",
+    "title": "Introduction to Modern Statistics",
+    "url": "https://www.openintro.org/book/ims/",
+    "provider": "OpenIntro",
+    "type": "book",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics",
+      "r"
+    ],
+    "est_hours": 60,
+    "summary": "Open HTML textbook that teaches statistics through simulation and randomisation, with R-based examples.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "think-stats-3e",
+    "title": "Think Stats, 3rd Edition",
+    "url": "https://greenteapress.com/wp/think-stats-3e/",
+    "provider": "Green Tea Press (Allen Downey)",
+    "type": "book",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics",
+      "python"
+    ],
+    "est_hours": 40,
+    "summary": "Free book of runnable Jupyter notebooks teaching exploratory data analysis and statistics with Python.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mit-18-05",
+    "title": "MIT 18.05 Introduction to Probability and Statistics",
+    "url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/",
+    "provider": "MIT OpenCourseWare",
+    "type": "course",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics",
+      "r"
+    ],
+    "est_hours": 80,
+    "summary": "Full university course materials (readings, problem sets, R studios) on probability, Bayesian and frequentist inference and regression.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "seeing-theory",
+    "title": "Seeing Theory: A Visual Introduction to Probability and Statistics",
+    "url": "https://seeing-theory.brown.edu/",
+    "provider": "Brown University",
+    "type": "article",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 3,
+    "summary": "Interactive visualisations that build intuition for probability, distributions, inference and regression.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "openstax-intro-stats-2e",
+    "title": "Introductory Statistics 2e (OpenStax)",
+    "url": "https://openstax.org/details/books/introductory-statistics-2e",
+    "provider": "OpenStax",
+    "type": "book",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 60,
+    "summary": "Free peer-reviewed one-semester statistics textbook with many applied exercises, available as web view or PDF.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "psu-stat-200",
+    "title": "Penn State STAT 200: Elementary Statistics (course notes)",
+    "url": "https://online.stat.psu.edu/stat200/",
+    "provider": "Penn State",
+    "type": "course",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 40,
+    "summary": "Open course notes from Penn State covering descriptive statistics, probability, confidence intervals and hypothesis tests.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "stattrek-tutorials",
+    "title": "Stat Trek Free Online Tutorials",
+    "url": "https://stattrek.com/tutorials/free-online-courses",
+    "provider": "Stat Trek",
+    "type": "article",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 20,
+    "summary": "Plain-English tutorials on statistics, probability, regression, ANOVA and survey sampling with calculators.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "onlinestatbook",
+    "title": "Online Statistics Education (onlinestatbook)",
+    "url": "https://onlinestatbook.com/",
+    "provider": "Rice University et al.",
+    "type": "book",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 40,
+    "summary": "Public-domain interactive textbook with simulations, case studies and video presentations.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "cmu-oli-probability-statistics",
+    "title": "Probability & Statistics - Open & Free (CMU OLI)",
+    "url": "https://oli.cmu.edu/courses/probability-statistics-open-free/",
+    "provider": "Carnegie Mellon OLI",
+    "type": "course",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 40,
+    "summary": "Self-paced course on statistical reasoning with interactive exercises; activities can be done in Excel or R.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-statistics-8h",
+    "title": "Learn College-Level Statistics (8-hour course)",
+    "url": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 8,
+    "summary": "Lecture course on sampling, study design, summary statistics, the normal distribution and the central limit theorem.",
+    "youtube_id": "xxpc-HPKN28",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-statistics-fundamentals",
+    "title": "StatQuest: Statistics Fundamentals (playlist)",
+    "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9",
+    "provider": "StatQuest with Josh Starmer",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 8,
+    "summary": "Short, intuitive videos explaining core statistical ideas step by step; great for reviewing concepts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-playlists",
+    "title": "StatQuest with Josh Starmer (channel playlists)",
+    "url": "https://www.youtube.com/@statquest/playlists",
+    "provider": "StatQuest with Josh Starmer",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": null,
+    "summary": "All StatQuest playlists, from basic statistics to regression and machine learning.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-p-values",
+    "title": "p-values: What They Are and How to Interpret Them",
+    "url": "https://www.youtube.com/watch?v=vemZtEM63GY",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 0.2,
+    "summary": "Clear explanation of what a p-value does and does not tell you.",
+    "youtube_id": "vemZtEM63GY",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-calculate-p-values",
+    "title": "How to Calculate p-values",
+    "url": "https://www.youtube.com/watch?v=JQc3yx0-Q9E",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 0.4,
+    "summary": "Worked examples computing p-values for discrete and continuous data.",
+    "youtube_id": "JQc3yx0-Q9E",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-normal-distribution",
+    "title": "The Normal Distribution, Clearly Explained",
+    "url": "https://www.youtube.com/watch?v=rzFX5NWojp0",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 0.2,
+    "summary": "Introduces the bell curve, its parameters and why it shows up so often.",
+    "youtube_id": "rzFX5NWojp0",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-histograms",
+    "title": "Histograms, Clearly Explained",
+    "url": "https://www.youtube.com/watch?v=qBigTkBLU6g",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics",
+      "visualization"
+    ],
+    "est_hours": 0.1,
+    "summary": "Short primer on reading histograms and choosing bin widths.",
+    "youtube_id": "qBigTkBLU6g",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-quantiles",
+    "title": "Quantiles and Percentiles, Clearly Explained",
+    "url": "https://www.youtube.com/watch?v=IFKQLDmRK0Y",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 0.1,
+    "summary": "Explains quantiles, percentiles and how they summarise a distribution.",
+    "youtube_id": "IFKQLDmRK0Y",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-linear-regression",
+    "title": "The Essence of Linear Regression",
+    "url": "https://www.youtube.com/watch?v=aFDOzpTeg0s",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 0.3,
+    "summary": "Step-by-step intuition for fitting a line, R-squared and p-values in regression.",
+    "youtube_id": "aFDOzpTeg0s",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-one-two-tailed",
+    "title": "One or Two Tailed p-values",
+    "url": "https://www.youtube.com/watch?v=bsZGt-caXO4",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 4,
+    "skills": [
+      "statistics"
+    ],
+    "est_hours": 0.1,
+    "summary": "Why two-sided tests are usually the right default.",
+    "youtube_id": "bsZGt-caXO4",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sqlbolt",
+    "title": "SQLBolt: Learn SQL with Interactive Exercises",
+    "url": "https://sqlbolt.com/",
+    "provider": "SQLBolt",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 4,
+    "summary": "Bite-sized interactive lessons that run in the browser, from SELECT and filtering through joins, aggregates and table changes.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sqlzoo",
+    "title": "SQLZoo",
+    "url": "https://sqlzoo.net/wiki/SQL_Zoo",
+    "provider": "SQLZoo",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 8,
+    "summary": "Classic browser-based SQL tutorials with graded exercises on world, nobel and football datasets.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "select-star-sql",
+    "title": "Select Star SQL",
+    "url": "https://selectstarsql.com/",
+    "provider": "Select Star SQL (Zi Chong Kao)",
+    "type": "book",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 3,
+    "summary": "Free interactive book that teaches SQL by querying a real-world dataset, no signup required.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-sql-tutorial-intro",
+    "title": "Mode SQL Tutorial for Data Analysis",
+    "url": "https://mode.com/resources/sql-tutorial/introduction-to-sql",
+    "provider": "Mode",
+    "type": "course",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 10,
+    "summary": "Browser-based tutorial aimed at Excel users: basic, intermediate and advanced SQL lessons with practice problems.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "w3schools-sql",
+    "title": "W3Schools SQL Tutorial",
+    "url": "https://www.w3schools.com/sql/",
+    "provider": "W3Schools",
+    "type": "course",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 6,
+    "summary": "Reference-style tutorial with a try-it editor for every SQL keyword and function.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "w3schools-sql-exercises",
+    "title": "W3Schools SQL Exercises",
+    "url": "https://w3schools.com/SQL/exercise.asp",
+    "provider": "W3Schools",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 1,
+    "summary": "Quick fill-in exercises to check SQL syntax knowledge across all basic topics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-intro-to-sql",
+    "title": "Kaggle Learn: Intro to SQL",
+    "url": "https://www.kaggle.com/learn/intro-to-sql",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 3,
+    "summary": "Hands-on micro-course querying BigQuery public data: SELECT/WHERE, GROUP BY, ORDER BY, WITH and joins.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "cs50-sql",
+    "title": "CS50's Introduction to Databases with SQL",
+    "url": "https://cs50.harvard.edu/sql/",
+    "provider": "Harvard CS50",
+    "type": "course",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 40,
+    "summary": "Seven-week Harvard course on querying, relational modelling, joins, views and indexes with SQLite, Postgres and MySQL; free to follow.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "codecademy-learn-sql",
+    "title": "Codecademy: Learn SQL",
+    "url": "https://www.codecademy.com/learn/learn-sql",
+    "provider": "Codecademy",
+    "type": "course",
+    "cost": "freemium",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 5,
+    "summary": "Free interactive beginner course on creating, querying and updating tables; certificate requires a paid plan.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "codecademy-sql-multiple-tables",
+    "title": "Codecademy: Learn SQL - Multiple Tables",
+    "url": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+    "provider": "Codecademy",
+    "type": "course",
+    "cost": "freemium",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 2,
+    "summary": "Short interactive course on joins, unions and WITH clauses.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "codecademy-sql-aggregate-functions",
+    "title": "Codecademy: Learn SQL - Aggregate Functions",
+    "url": "https://www.codecademy.com/learn/learn-sql-aggregate-functions",
+    "provider": "Codecademy",
+    "type": "course",
+    "cost": "freemium",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 2,
+    "summary": "Practice COUNT, SUM, AVG, GROUP BY and HAVING in the browser.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "codecademy-analyze-data-with-sql",
+    "title": "Codecademy: Analyze Data with SQL (skill path)",
+    "url": "https://www.codecademy.com/learn/paths/analyze-data-with-sql",
+    "provider": "Codecademy",
+    "type": "course",
+    "cost": "paid",
+    "level": 5,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 18,
+    "summary": "Paid skill path with projects on analysing business data in SQL and preparing for technical screens.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datacamp-intro-to-sql",
+    "title": "DataCamp: Introduction to SQL",
+    "url": "https://www.datacamp.com/courses/introduction-to-sql",
+    "provider": "DataCamp",
+    "type": "course",
+    "cost": "freemium",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 2,
+    "summary": "Short in-browser beginner course; the first chapter is free, the rest needs a subscription.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datalemur-sql-tutorial",
+    "title": "DataLemur Free SQL Tutorial for Data Analysts",
+    "url": "https://datalemur.com/sql-tutorial",
+    "provider": "DataLemur",
+    "type": "course",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 10,
+    "summary": "30+ free lessons from basic to advanced SQL with in-browser exercises drawn from real interview problems.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-sql-full-database-course",
+    "title": "SQL Tutorial - Full Database Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 4.5,
+    "summary": "Classic beginner course on relational database concepts and SQL using MySQL.",
+    "youtube_id": "HXV3zeQKqGY",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-postgresql-full-course",
+    "title": "Learn SQL with PostgreSQL (4-hour course)",
+    "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 4,
+    "summary": "Beginner PostgreSQL course covering setup, querying, constraints and joins.",
+    "youtube_id": "qw--VYLpxG4",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-sql-for-data-analytics",
+    "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+    "url": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 4,
+    "summary": "Analyst-oriented SQL course using PostgreSQL and VS Code on a job-postings dataset.",
+    "youtube_id": "7mz73uXD9DA",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "baraa-sql-full-course-30h",
+    "title": "SQL Full Course for Beginners (30 Hours) - Zero to Hero",
+    "url": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+    "provider": "Data with Baraa (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 30,
+    "summary": "Very thorough visual SQL course from basics through joins, set operators, window functions and performance.",
+    "youtube_id": "SSKVgrwhzus",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "baraa-sql-bootcamp-playlist",
+    "title": "SQL Bootcamp Playlist - Zero to Hero",
+    "url": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe",
+    "provider": "Data with Baraa (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 30,
+    "summary": "The same SQL curriculum split into bite-sized videos for easier pacing.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "alex-mysql-basics-playlist",
+    "title": "MySQL Basics Tutorial Series",
+    "url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA",
+    "provider": "Alex The Analyst (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 3,
+    "summary": "Short beginner MySQL videos covering SELECT, WHERE, GROUP BY, ORDER BY and joins.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sql-murder-mystery",
+    "title": "The SQL Murder Mystery",
+    "url": "https://mystery.knightlab.com/",
+    "provider": "Northwestern Knight Lab",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 1.5,
+    "summary": "Detective game where you query a SQLite police database to solve a crime; a fun way to practise joins and filters.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sql-murder-mystery-walkthrough",
+    "title": "SQL Murder Mystery Walkthrough",
+    "url": "https://mystery.knightlab.com/walkthrough.html",
+    "provider": "Northwestern Knight Lab",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.5,
+    "summary": "Beginner primer for the game that introduces the SQL needed to start the investigation.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sql-practice-com",
+    "title": "SQL-Practice.com",
+    "url": "https://www.sql-practice.com/",
+    "provider": "SQL-Practice.com",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 5,
+    "summary": "About 70 graded exercises on hospital and Northwind databases, filterable by keyword and difficulty.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sql-easy",
+    "title": "SQL Easy: Interactive SQL Tutorial",
+    "url": "https://www.sql-easy.com/",
+    "provider": "Beekeeper Studio",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 3,
+    "summary": "31 bite-sized exercises on a real SQLite database in the browser with hints and instant feedback.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "w3resource-sqlite-exercises",
+    "title": "SQLite Exercises (w3resource)",
+    "url": "https://www.w3resource.com/sqlite-exercises/",
+    "provider": "w3resource",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 4,
+    "summary": "Graded exercise sets on SELECT, sorting, aggregates, subqueries and joins with solutions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "hackerrank-sql",
+    "title": "HackerRank SQL Practice",
+    "url": "https://www.hackerrank.com/domains/sql",
+    "provider": "HackerRank",
+    "type": "practice",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 15,
+    "summary": "Graded SQL challenges from basic SELECT to advanced joins, with a skills badge.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "learnsql-free-practice-resources",
+    "title": "Top 9 Free SQL Practice Resources",
+    "url": "https://learnsql.com/blog/top-9-free-sql-practice-resources/",
+    "provider": "LearnSQL.com",
+    "type": "article",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.3,
+    "summary": "Round-up of free places to practise SQL, from interactive tutorials to fiddles and games.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datacamp-free-sql-resources",
+    "title": "The Best Resources to Learn SQL for Free",
+    "url": "https://www.datacamp.com/blog/top-resources-to-learn-sql-for-free",
+    "provider": "DataCamp",
+    "type": "article",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.3,
+    "summary": "Curated list of free SQL courses, books and practice sites.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "postgresql-download",
+    "title": "PostgreSQL Downloads",
+    "url": "https://www.postgresql.org/download/",
+    "provider": "PostgreSQL Global Development Group",
+    "type": "tool",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.5,
+    "summary": "Official installers for the open-source PostgreSQL database for Windows, macOS and Linux.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "dbeaver-community",
+    "title": "DBeaver Community (download)",
+    "url": "https://dbeaver.io/download/",
+    "provider": "DBeaver",
+    "type": "tool",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.5,
+    "summary": "Free cross-database SQL client for browsing tables and running queries against Postgres, SQLite, MySQL and more.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "db-browser-sqlite",
+    "title": "DB Browser for SQLite",
+    "url": "https://sqlitebrowser.org/dl/",
+    "provider": "DB Browser for SQLite",
+    "type": "tool",
+    "cost": "free",
+    "level": 5,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.3,
+    "summary": "Lightweight visual tool for creating, browsing and querying SQLite database files.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-sql-window-functions",
+    "title": "Mode: SQL Window Functions",
+    "url": "https://mode.com/resources/sql-tutorial/sql-window-functions",
+    "provider": "Mode",
+    "type": "course",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 1,
+    "summary": "Hands-on lesson on running totals, ROW_NUMBER, RANK, NTILE, LAG and LEAD using a bike-share dataset.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-popular-window-functions",
+    "title": "The Top 5 Most Popular Window Functions",
+    "url": "https://mode.com/blog/most-popular-window-functions-and-how-to-use-them/",
+    "provider": "Mode",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.3,
+    "summary": "Practical patterns such as running sums and picking the latest row per group.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-moving-averages-sql",
+    "title": "Moving Averages in SQL",
+    "url": "https://mode.com/blog/moving-averages-in-sql/",
+    "provider": "Mode",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.3,
+    "summary": "How to smooth noisy daily metrics with window-frame averages.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "postgres-tutorial-window",
+    "title": "PostgreSQL Tutorial: Window Functions",
+    "url": "https://www.postgresql.org/docs/current/tutorial-window.html",
+    "provider": "PostgreSQL Docs",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.5,
+    "summary": "Official introduction to PARTITION BY, ORDER BY within OVER, and named windows.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "postgres-functions-window",
+    "title": "PostgreSQL Reference: Window Functions",
+    "url": "https://www.postgresql.org/docs/current/functions-window.html",
+    "provider": "PostgreSQL Docs",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.3,
+    "summary": "Reference list of ranking and value window functions and how frames affect them.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "neon-postgresql-cte",
+    "title": "PostgreSQL CTE Tutorial",
+    "url": "https://neon.com/postgresql/postgresql-tutorial/postgresql-cte",
+    "provider": "Neon (PostgreSQL Tutorial)",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 0.5,
+    "summary": "Example-driven guide to common table expressions, including recursive CTEs and combining CTEs with window functions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-advanced-sql",
+    "title": "Kaggle Learn: Advanced SQL",
+    "url": "https://www.kaggle.com/learn/advanced-sql",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 4,
+    "summary": "Follow-up micro-course on JOINs/UNIONs, analytic (window) functions, nested data and query efficiency in BigQuery.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "pgexercises",
+    "title": "PostgreSQL Exercises (pgexercises)",
+    "url": "https://pgexercises.com/",
+    "provider": "pgexercises.com",
+    "type": "practice",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 8,
+    "summary": "About 80 exercises on a country-club database, building up to aggregates, window functions and recursive queries.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datalemur-questions",
+    "title": "DataLemur SQL Interview Questions",
+    "url": "https://datalemur.com/questions",
+    "provider": "DataLemur",
+    "type": "practice",
+    "cost": "freemium",
+    "level": 6,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 20,
+    "summary": "200+ company-tagged SQL problems with an in-browser editor; many are free, some solutions need premium.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datalemur-window-functions-questions",
+    "title": "12 SQL Window Functions Interview Questions",
+    "url": "https://datalemur.com/blog/sql-window-functions-interview-questions",
+    "provider": "DataLemur",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 1,
+    "summary": "Worked interview-style problems focused on ranking, LAG/LEAD and running totals.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "leetcode-sql-50",
+    "title": "LeetCode SQL 50 Study Plan",
+    "url": "https://leetcode.com/studyplan/top-sql-50/",
+    "provider": "LeetCode",
+    "type": "practice",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 20,
+    "summary": "Fifty basic-to-intermediate SQL problems designed as a month-long practice plan.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "leetcode-advanced-sql-50",
+    "title": "LeetCode Advanced SQL 50",
+    "url": "https://leetcode.com/studyplan/premium-sql-50/",
+    "provider": "LeetCode",
+    "type": "practice",
+    "cost": "paid",
+    "level": 6,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 25,
+    "summary": "Premium plan of 50 harder, high-frequency SQL interview questions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "hackerrank-sql-advanced",
+    "title": "HackerRank SQL (Advanced) Skills",
+    "url": "https://www.hackerrank.com/skills-directory/sql_advanced",
+    "provider": "HackerRank",
+    "type": "practice",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 5,
+    "summary": "Outline and challenges for advanced joins, CTEs, window functions and correlated subqueries.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "stratascratch-advanced-sql",
+    "title": "Advanced SQL Interview Questions You Must Know",
+    "url": "https://www.stratascratch.com/blog/advanced-sql-interview-questions-you-must-know-how-to-answer",
+    "provider": "StrataScratch",
+    "type": "article",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 1,
+    "summary": "Walkthroughs of hard real-company SQL problems with step-by-step solution logic.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-sql-intermediate-project",
+    "title": "SQL for Data Analytics - Intermediate Course + Project",
+    "url": "https://www.youtube.com/watch?v=QKIGsShyEsQ",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql",
+      "portfolio"
+    ],
+    "est_hours": 4,
+    "summary": "Continues the beginner course with intermediate SQL and an end-to-end analysis project.",
+    "youtube_id": "QKIGsShyEsQ",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "baraa-sql-eda-project",
+    "title": "SQL Exploratory Data Analysis (EDA) Project",
+    "url": "https://www.youtube.com/watch?v=6cJ5Ji8zSDg",
+    "provider": "Data with Baraa (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 6,
+    "skills": [
+      "sql",
+      "portfolio"
+    ],
+    "est_hours": 2,
+    "summary": "Guided project exploring a sales database with SQL to produce business insights.",
+    "youtube_id": "6cJ5Ji8zSDg",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datacamp-associate-data-analyst-sql",
+    "title": "DataCamp: Associate Data Analyst in SQL (track)",
+    "url": "https://www.datacamp.com/tracks/associate-data-analyst-in-sql",
+    "provider": "DataCamp",
+    "type": "course",
+    "cost": "paid",
+    "level": 6,
+    "skills": [
+      "sql"
+    ],
+    "est_hours": 39,
+    "summary": "Subscription track of SQL courses from basics to data manipulation and reporting.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "analystbuilder-questions",
+    "title": "Analyst Builder Practice Questions",
+    "url": "https://analystbuilder.com/questions?type=technical",
+    "provider": "Analyst Builder",
+    "type": "practice",
+    "cost": "freemium",
+    "level": 6,
+    "skills": [
+      "sql",
+      "python",
+      "interview"
+    ],
+    "est_hours": 15,
+    "summary": "SQL and Python practice problems in MySQL, PostgreSQL or SQL Server; some free, more with a subscription.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-learn-get-started-data-analytics",
+    "title": "Get Started with Microsoft Data Analytics (learning path)",
+    "url": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/",
+    "provider": "Microsoft Learn",
+    "type": "course",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi",
+      "orientation"
+    ],
+    "est_hours": 3,
+    "summary": "Free introductory modules on the analyst role and the Power BI ecosystem.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-learn-prepare-data-power-bi",
+    "title": "Prepare Data for Analysis with Power BI (learning path)",
+    "url": "https://learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/",
+    "provider": "Microsoft Learn",
+    "type": "course",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 8,
+    "summary": "PL-300 aligned path on connecting sources, cleaning and transforming in Power Query and loading data for modelling.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-learn-prepare-visualize-power-bi",
+    "title": "Prepare and Visualize Data with Microsoft Power BI",
+    "url": "https://learn.microsoft.com/en-us/training/paths/prepare-visualize-data-power-bi/",
+    "provider": "Microsoft Learn",
+    "type": "course",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi",
+      "visualization"
+    ],
+    "est_hours": 6,
+    "summary": "Beginner path from connecting and shaping data to building an interactive report.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-learn-pl-300t00",
+    "title": "Course PL-300T00: Design and Manage Analytics Solutions Using Power BI",
+    "url": "https://learn.microsoft.com/en-us/training/courses/pl-300t00",
+    "provider": "Microsoft Learn",
+    "type": "course",
+    "cost": "freemium",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 24,
+    "summary": "Official course outline for PL-300; self-paced modules are free, instructor-led delivery is paid.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-power-bi-data-analyst-cert",
+    "title": "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/",
+    "provider": "Microsoft",
+    "type": "certification",
+    "cost": "paid",
+    "level": 7,
+    "skills": [
+      "powerbi",
+      "career"
+    ],
+    "est_hours": 60,
+    "summary": "Proctored exam on preparing, modelling, visualising and securing data in Power BI; renewable yearly via free online assessment.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-practice-assessments",
+    "title": "Practice Assessments for Microsoft Certifications",
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications",
+    "provider": "Microsoft Learn",
+    "type": "practice",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 2,
+    "summary": "Free unlimited practice tests, including one for PL-300, with explanations for each answer.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ms-pl-300-exam-readiness",
+    "title": "Preparing for PL-300: Prepare the Data (Exam Readiness Zone)",
+    "url": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data",
+    "provider": "Microsoft Learn",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 1,
+    "summary": "First of a four-part official video series reviewing PL-300 exam objectives.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "power-bi-desktop-download",
+    "title": "Download Power BI Desktop",
+    "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop",
+    "provider": "Microsoft",
+    "type": "tool",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 0.3,
+    "summary": "Official instructions for installing the free Power BI Desktop authoring tool via Microsoft Store or direct download.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "power-bi-desktop-getting-started",
+    "title": "Get Started with Power BI Desktop",
+    "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started",
+    "provider": "Microsoft Learn",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 1,
+    "summary": "Official guided tour: get data, shape it, build visuals and publish a report.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "dax-guide",
+    "title": "DAX Guide",
+    "url": "https://dax.guide/",
+    "provider": "SQLBI",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": null,
+    "summary": "Complete reference of DAX functions with syntax, examples and product compatibility.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "sqlbi-dax-guides",
+    "title": "SQLBI DAX Articles & Guides",
+    "url": "https://www.sqlbi.com/guides/dax/",
+    "provider": "SQLBI",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": null,
+    "summary": "Expert articles explaining DAX concepts such as filter context and CALCULATE.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "guy-in-a-cube-channel",
+    "title": "Guy in a Cube (YouTube channel)",
+    "url": "https://www.youtube.com/guyinacube",
+    "provider": "Guy in a Cube",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": null,
+    "summary": "Weekly Power BI and Fabric tutorials and live Q&A from two Microsoft team members.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "guy-in-a-cube-start-journey",
+    "title": "Start Your Power BI Journey with Guy in a Cube",
+    "url": "https://www.youtube.com/watch?v=XogUe3nvPto",
+    "provider": "Guy in a Cube (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 0.2,
+    "summary": "Orientation video pointing new users to the channel's beginner material.",
+    "youtube_id": "XogUe3nvPto",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "guy-in-a-cube-beginner-30min",
+    "title": "Power BI Tutorial for Beginners (Step-by-Step in 30 Minutes)",
+    "url": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
+    "provider": "Guy in a Cube (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 0.5,
+    "summary": "Quick end-to-end build of a first Power BI report.",
+    "youtube_id": "OmW9YvxSl1E",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "guy-in-a-cube-beginner-2025",
+    "title": "Power BI Beginner's Tutorial (2025)",
+    "url": "https://www.youtube.com/watch?v=MikekdopYhE",
+    "provider": "Guy in a Cube (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 1,
+    "summary": "Builds a simple data model and report from scratch with current Power BI features.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kevin-stratvert-power-bi-beginners",
+    "title": "How to Use Microsoft Power BI - Tutorial for Beginners",
+    "url": "https://www.youtube.com/watch?v=TmhQCQr_DCA",
+    "provider": "Kevin Stratvert (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 0.5,
+    "summary": "Widely watched beginner tutorial covering import, Power Query cleanup, relationships, visuals and publishing.",
+    "youtube_id": "TmhQCQr_DCA",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-power-bi-for-data-analytics",
+    "title": "Power BI for Data Analytics - Full Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi"
+    ],
+    "est_hours": 6,
+    "summary": "Free analyst-focused Power BI course with project files covering Power Query, modelling, DAX and dashboards.",
+    "youtube_id": "FwjaHCVNBWA",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "maven-analytics-channel",
+    "title": "Maven Analytics (YouTube channel)",
+    "url": "https://www.youtube.com/channel/UCFqInmJykuVFKzi6uQl_ySg",
+    "provider": "Maven Analytics",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi",
+      "tableau",
+      "excel",
+      "sql"
+    ],
+    "est_hours": null,
+    "summary": "Tutorials and feature walkthroughs for Excel, SQL, Power BI and Tableau from an analytics training company.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-free-training-videos",
+    "title": "Tableau Free Training Videos",
+    "url": "https://www.tableau.com/learn/training",
+    "provider": "Tableau",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau"
+    ],
+    "est_hours": 5,
+    "summary": "Official short videos on connecting data, the workspace, maps, charts, dashboards and Tableau Prep.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-learn",
+    "title": "Learn Data and Analytics for Free with Tableau",
+    "url": "https://www.tableau.com/learn",
+    "provider": "Tableau",
+    "type": "course",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "visualization"
+    ],
+    "est_hours": null,
+    "summary": "Hub for Tableau's free getting-started videos, tutorials, webinars and community resources.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-public-how-to-videos",
+    "title": "Tableau Public How-To Videos",
+    "url": "https://public.tableau.com/app/learn/how-to-videos",
+    "provider": "Tableau Public",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau"
+    ],
+    "est_hours": 2,
+    "summary": "Step-by-step videos building a dashboard with the Superstore sample data.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-public",
+    "title": "Tableau Public",
+    "url": "https://www.tableau.com/products/public",
+    "provider": "Tableau",
+    "type": "tool",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "visualization",
+      "portfolio"
+    ],
+    "est_hours": 0.3,
+    "summary": "Free Tableau edition (desktop app and web authoring) for learning and publishing public vizzes; not for private or commercial data.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-viz-gallery",
+    "title": "Tableau Viz Gallery",
+    "url": "https://www.tableau.com/viz-gallery",
+    "provider": "Tableau",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "visualization",
+      "storytelling"
+    ],
+    "est_hours": null,
+    "summary": "Curated showcase of high-quality vizzes; many can be downloaded to study how they were built.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "trailhead-tableau-desktop-trail",
+    "title": "Get Started with Data Visualization in Tableau Desktop (Trailhead)",
+    "url": "https://trailhead.salesforce.com/content/learn/trails/get-started-with-data-visualization-in-tableau-desktop",
+    "provider": "Salesforce Trailhead",
+    "type": "course",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau"
+    ],
+    "est_hours": 3,
+    "summary": "Free trail of modules on the Tableau workflow, building charts and presenting results.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "trailhead-tableau-basics",
+    "title": "Visualize Data with Tableau Basics (Trailhead)",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/learn-about-tableau",
+    "provider": "Salesforce Trailhead",
+    "type": "course",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau"
+    ],
+    "est_hours": 0.5,
+    "summary": "Short free module introducing Tableau products and features.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-certification",
+    "title": "Tableau Certification (Desktop Foundations / Specialist)",
+    "url": "https://www.tableau.com/learn/certification",
+    "provider": "Tableau / Salesforce",
+    "type": "certification",
+    "cost": "paid",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "career"
+    ],
+    "est_hours": 30,
+    "summary": "Overview of Tableau credentials; the entry-level Desktop exam suits learners with a few months of practice.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-desktop-specialist-exam-guide",
+    "title": "Tableau Desktop Specialist Exam Prep Guide (PDF)",
+    "url": "https://mkt.tableau.com/files/DesktopSpecialist_ExamGuide.pdf",
+    "provider": "Tableau",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Official exam guide listing domains, weightings and format for the entry-level Tableau Desktop exam.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-certified-data-analyst",
+    "title": "Salesforce Certified Tableau Data Analyst",
+    "url": "https://www.tableau.com/learn/certification/certified-data-analyst",
+    "provider": "Tableau / Salesforce",
+    "type": "certification",
+    "cost": "paid",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "career"
+    ],
+    "est_hours": 60,
+    "summary": "Intermediate Tableau certification covering data prep, analysis and dashboard publishing.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-tableau-crash-course",
+    "title": "Tableau for Data Science and Data Visualization - Crash Course",
+    "url": "https://www.youtube.com/watch?v=TPMlZxRRaBQ",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "visualization"
+    ],
+    "est_hours": 0.5,
+    "summary": "Half-hour crash course on building interactive visualisations in Tableau.",
+    "youtube_id": "TPMlZxRRaBQ",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "baraa-tableau-21h",
+    "title": "Tableau Ultimate Full Course (21 Hours) for Beginners",
+    "url": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+    "provider": "Data with Baraa (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "visualization"
+    ],
+    "est_hours": 21,
+    "summary": "Very detailed visual Tableau course from fundamentals to calculations, charts and dashboards.",
+    "youtube_id": "K3pXnbniUcM",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "looker-studio-quick-start",
+    "title": "Looker Studio Quick Start Guide",
+    "url": "https://cloud.google.com/looker/docs/studio/quick-start-guide?hl=en",
+    "provider": "Google Cloud",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 0.5,
+    "summary": "Six steps to create a report: connect data, add charts, view and share; defines connectors, dimensions and metrics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "looker-studio-create-report",
+    "title": "Looker Studio Tutorial: Create a New Report",
+    "url": "https://support.google.com/looker-studio/answer/6292570?hl=en",
+    "provider": "Google",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Hands-on walkthrough building a dashboard from Google Analytics demo data.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "think-with-looker-studio",
+    "title": "Think with Looker Studio",
+    "url": "https://docs.cloud.google.com/looker/docs/studio/think-with-looker-studio",
+    "provider": "Google Cloud",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 0.3,
+    "summary": "Conceptual overview of the connect-model-visualise-share workflow in Looker Studio.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "storytelling-with-data-blog",
+    "title": "Storytelling with Data Blog",
+    "url": "https://www.storytellingwithdata.com/blog",
+    "provider": "Storytelling with Data",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization",
+      "storytelling"
+    ],
+    "est_hours": null,
+    "summary": "Cole Nussbaumer Knaflic's team on improving graphs, chart makeovers and presenting data clearly.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fundamentals-of-data-visualization",
+    "title": "Fundamentals of Data Visualization (Claus Wilke)",
+    "url": "https://clauswilke.com/dataviz/",
+    "provider": "Claus O. Wilke",
+    "type": "book",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization",
+      "storytelling"
+    ],
+    "est_hours": 15,
+    "summary": "Free online book on choosing chart types, using colour well and avoiding common figure mistakes.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "data-to-viz",
+    "title": "From Data to Viz",
+    "url": "https://www.data-to-viz.com/",
+    "provider": "Yan Holtz & Conor Healy",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Decision tree that suggests suitable chart types for your data format, plus a gallery of common caveats.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "data-viz-project",
+    "title": "Data Viz Project",
+    "url": "https://datavizproject.com/",
+    "provider": "Ferdio",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Catalogue of 150+ chart types searchable by function, data input and shape.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "data-viz-catalogue",
+    "title": "The Data Visualisation Catalogue",
+    "url": "https://datavizcatalogue.com/",
+    "provider": "Severino Ribecca",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Reference of chart types with anatomy, use cases and tools, filterable by what you want to show.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ft-visual-vocabulary",
+    "title": "Financial Times Visual Vocabulary",
+    "url": "https://ft-interactive.github.io/visual-vocabulary/",
+    "provider": "Financial Times",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization",
+      "storytelling"
+    ],
+    "est_hours": 0.5,
+    "summary": "Chart-selection guide organised by the data relationship you want to emphasise (ranking, change over time, part-to-whole...).",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "rss-choosing-visualisation",
+    "title": "Best Practices for Data Visualisation: Choosing a Visualisation Type",
+    "url": "https://royal-statistical-society.github.io/datavisguide/docs/choosing.html",
+    "provider": "Royal Statistical Society",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization"
+    ],
+    "est_hours": 0.5,
+    "summary": "Guidance on matching chart type to data and audience, pointing to chart-chooser tools.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "makeover-monday-tableau-blog",
+    "title": "Viz the #MakeoverMonday Challenge",
+    "url": "https://www.tableau.com/blog/viz-makeovermonday-challenge",
+    "provider": "Tableau",
+    "type": "practice",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization",
+      "tableau",
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Explains the weekly community challenge of redesigning a chart from a supplied dataset.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "makeover-monday-vizwiz",
+    "title": "Makeover Monday Challenges (VizWiz)",
+    "url": "https://www.vizwiz.com/p/makeover-monday-challenges.html",
+    "provider": "VizWiz (Andy Kriebel)",
+    "type": "practice",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "visualization",
+      "tableau"
+    ],
+    "est_hours": null,
+    "summary": "Archive of Makeover Monday weeks with links to datasets and community makeovers.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "workout-wednesday-vizwiz",
+    "title": "Workout Wednesday (VizWiz)",
+    "url": "https://www.vizwiz.com/p/workout-wednesday.html",
+    "provider": "VizWiz",
+    "type": "practice",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau",
+      "visualization"
+    ],
+    "est_hours": null,
+    "summary": "Weekly rebuild-this-viz Tableau challenges that stretch calculation and formatting skills.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "workout-wednesday-tableau-blog",
+    "title": "Make Time to Exercise Your Data Skills with Workout Wednesday",
+    "url": "https://www.tableau.com/blog/make-time-exercise-your-data-skills-workout-wednesday",
+    "provider": "Tableau",
+    "type": "article",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "tableau"
+    ],
+    "est_hours": 0.2,
+    "summary": "Introduction to the Workout Wednesday community project and how to take part.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "workout-wednesday-power-bi",
+    "title": "Workout Wednesdays for Power BI",
+    "url": "https://www.sqlservercentral.com/blogs/workout-wednesdays-for-power-bi-in-2021",
+    "provider": "SQLServerCentral",
+    "type": "practice",
+    "cost": "free",
+    "level": 7,
+    "skills": [
+      "powerbi",
+      "visualization"
+    ],
+    "est_hours": null,
+    "summary": "Announcement of the Power BI edition of Workout Wednesday, with the challenge format and how to share solutions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-learn",
+    "title": "Kaggle Learn (all micro-courses)",
+    "url": "https://www.kaggle.com/learn",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas",
+      "sql",
+      "visualization"
+    ],
+    "est_hours": null,
+    "summary": "Free hands-on micro-courses with in-browser notebooks and completion certificates.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-python",
+    "title": "Kaggle Learn: Python",
+    "url": "https://www.kaggle.com/learn/python",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 5,
+    "summary": "Core Python for data work: functions, booleans, lists, loops, strings, dictionaries and libraries.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-pandas",
+    "title": "Kaggle Learn: Pandas",
+    "url": "https://www.kaggle.com/learn/pandas",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 4,
+    "summary": "Exercises on reading data, selecting, summarising, grouping, sorting, handling types and missing values, and combining tables.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-data-cleaning",
+    "title": "Kaggle Learn: Data Cleaning",
+    "url": "https://www.kaggle.com/learn/data-cleaning",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 4,
+    "summary": "Handling missing values, scaling, parsing dates, character encodings and inconsistent entries.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-data-visualization",
+    "title": "Kaggle Learn: Data Visualization",
+    "url": "https://www.kaggle.com/learn/data-visualization",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "visualization"
+    ],
+    "est_hours": 4,
+    "summary": "Seaborn-based course on line, bar, heatmap, scatter and distribution plots, ending with your own project.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-intro-to-ml",
+    "title": "Kaggle Learn: Intro to Machine Learning",
+    "url": "https://www.kaggle.com/learn/intro-to-machine-learning/course",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 3,
+    "summary": "Optional stretch: first predictive models, validation, over/underfitting and random forests.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-time-series",
+    "title": "Kaggle Learn: Time Series",
+    "url": "https://www.kaggle.com/learn/time-series",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 5,
+    "summary": "Optional stretch on trend, seasonality, lag features and forecasting.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-feature-engineering",
+    "title": "Kaggle Learn: Feature Engineering",
+    "url": "https://www.kaggle.com/learn/feature-engineering",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 5,
+    "summary": "Optional stretch on creating features with pandas, clustering, PCA and target encoding.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-geospatial-analysis",
+    "title": "Kaggle Learn: Geospatial Analysis",
+    "url": "https://www.kaggle.com/learn/geospatial-analysis",
+    "provider": "Kaggle",
+    "type": "course",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "visualization"
+    ],
+    "est_hours": 4,
+    "summary": "Maps with GeoPandas, coordinate systems, interactive maps and proximity analysis.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "python-official-tutorial",
+    "title": "The Python Tutorial (official docs)",
+    "url": "https://docs.python.org/3/tutorial/index.html",
+    "provider": "Python Software Foundation",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 10,
+    "summary": "Official tour of Python syntax, data structures, modules, errors and the standard library.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "pandas-10-minutes",
+    "title": "10 Minutes to pandas",
+    "url": "https://pandas.pydata.org/docs/user_guide/10min.html",
+    "provider": "pandas",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "pandas"
+    ],
+    "est_hours": 1,
+    "summary": "Official quick tour of creating, selecting, grouping, merging and reshaping DataFrames.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "pandas-getting-started",
+    "title": "pandas: Getting Started",
+    "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+    "provider": "pandas",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "pandas"
+    ],
+    "est_hours": 2,
+    "summary": "Official installation notes and intro tutorials, including comparisons with SQL and spreadsheets.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "python-for-data-analysis-3e",
+    "title": "Python for Data Analysis, 3E (open access)",
+    "url": "https://wesmckinney.com/book/",
+    "provider": "Wes McKinney",
+    "type": "book",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 30,
+    "summary": "The pandas creator's book, free to read online, covering NumPy, pandas, cleaning, aggregation and time series.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "python-data-science-handbook",
+    "title": "Python Data Science Handbook",
+    "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+    "provider": "Jake VanderPlas",
+    "type": "book",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas",
+      "visualization"
+    ],
+    "est_hours": 25,
+    "summary": "Free online book of notebooks on IPython, NumPy, pandas, Matplotlib and scikit-learn.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "automate-the-boring-stuff",
+    "title": "Automate the Boring Stuff with Python",
+    "url": "https://www.automatetheboringstuff.com",
+    "provider": "Al Sweigart",
+    "type": "book",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 20,
+    "summary": "Beginner programming book (free online) with practical scripts for files, spreadsheets and web tasks.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "corey-schafer-pandas-playlist",
+    "title": "Corey Schafer: Pandas Tutorials (playlist)",
+    "url": "https://www.youtube.com/playlist?list=PLSLQ7uyfNIItZf404-TviaeM01pnebr5K",
+    "provider": "Corey Schafer (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 6,
+    "summary": "Clear multi-part series on loading, selecting, filtering, grouping, cleaning and time-series data in pandas.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "corey-schafer-pandas-part-1",
+    "title": "Python Pandas Tutorial (Part 1): Getting Started",
+    "url": "https://www.youtube.com/watch?v=ZyhVh-qRZPA",
+    "provider": "Corey Schafer (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 0.5,
+    "summary": "Installing pandas and loading a real survey dataset into a DataFrame.",
+    "youtube_id": "ZyhVh-qRZPA",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "corey-schafer-pandas-part-2",
+    "title": "Python Pandas Tutorial (Part 2): DataFrame and Series Basics",
+    "url": "https://www.youtube.com/watch?v=zmdjNSmRXF4",
+    "provider": "Corey Schafer (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 0.5,
+    "summary": "Selecting rows and columns with loc and iloc.",
+    "youtube_id": "zmdjNSmRXF4",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "corey-schafer-pandas-part-10",
+    "title": "Python Pandas Tutorial (Part 10): Dates and Time Series",
+    "url": "https://www.youtube.com/watch?v=UFuo7EHI8zc",
+    "provider": "Corey Schafer (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 0.6,
+    "summary": "Parsing dates, filtering by time and resampling.",
+    "youtube_id": "UFuo7EHI8zc",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "corey-schafer-pandas-part-11",
+    "title": "Python Pandas Tutorial (Part 11): Reading/Writing Data",
+    "url": "https://www.youtube.com/watch?v=N6hyN6BW6ao",
+    "provider": "Corey Schafer (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 0.5,
+    "summary": "Moving data between pandas and CSV, Excel, JSON and SQL.",
+    "youtube_id": "N6hyN6BW6ao",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "corey-schafer-jupyter",
+    "title": "Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough",
+    "url": "https://www.youtube.com/watch?v=HW29067qVWk",
+    "provider": "Corey Schafer (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 0.4,
+    "summary": "How to install and use Jupyter notebooks effectively.",
+    "youtube_id": "HW29067qVWk",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-data-analysis-with-python-4h",
+    "title": "Learn Data Analysis with Python (4-hour course)",
+    "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas",
+      "visualization"
+    ],
+    "est_hours": 4,
+    "summary": "Cleaning and transforming data with NumPy and pandas, plus Matplotlib/Seaborn charts.",
+    "youtube_id": "r-uOLxNrNk8",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-pandas-python-data-analysis-5h",
+    "title": "Learn Pandas & Python for Data Analysis [Full Course]",
+    "url": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 5,
+    "summary": "Seven practical projects from pandas basics to data cleaning and wrangling.",
+    "youtube_id": "gtjxAH8uaP0",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "luke-python-for-data-analytics",
+    "title": "Python for Data Analytics - Full Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=wUSDVGivd-8",
+    "provider": "Luke Barousse (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas",
+      "visualization"
+    ],
+    "est_hours": 10,
+    "summary": "Free analyst-focused Python course on a job-postings dataset with notes and practice problems.",
+    "youtube_id": "wUSDVGivd-8",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datacamp-data-analyst-python",
+    "title": "DataCamp: Data Analyst in Python (track)",
+    "url": "https://www.datacamp.com/tracks/data-analyst-with-python",
+    "provider": "DataCamp",
+    "type": "course",
+    "cost": "paid",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas",
+      "statistics"
+    ],
+    "est_hours": 36,
+    "summary": "Subscription track of nine courses from Python basics through pandas, visualisation and statistics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "seaborn-tutorial",
+    "title": "An Introduction to seaborn",
+    "url": "https://seaborn.pydata.org/tutorial/introduction.html",
+    "provider": "seaborn",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Official tutorial on statistical plotting with seaborn on top of pandas and matplotlib.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "matplotlib-quick-start",
+    "title": "Matplotlib Quick Start Guide",
+    "url": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "provider": "Matplotlib",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Official guide to figures, axes and the two plotting interfaces.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "plotly-express",
+    "title": "Plotly Express in Python",
+    "url": "https://plotly.com/python/plotly-express/",
+    "provider": "Plotly",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Docs for the high-level interactive charting API, with many one-line examples.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "anaconda-download",
+    "title": "Anaconda Distribution",
+    "url": "https://www.anaconda.com/download",
+    "provider": "Anaconda",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 0.5,
+    "summary": "Installer bundling Python, Jupyter, JupyterLab and common data libraries for local analysis.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "jupyter-install-docs",
+    "title": "Installing Jupyter Notebook",
+    "url": "https://docs.jupyter.org/en/latest/install/notebook-classic.html",
+    "provider": "Project Jupyter",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 0.3,
+    "summary": "Official instructions for installing the notebook interface with Anaconda or pip.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-colab",
+    "title": "Google Colab",
+    "url": "https://colab.research.google.com/",
+    "provider": "Google",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 0.2,
+    "summary": "Free hosted Jupyter notebooks in the browser; nothing to install, needs a Google account.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "vscode-jupyter-notebooks",
+    "title": "Jupyter Notebooks in VS Code",
+    "url": "https://code.visualstudio.com/docs/datascience/jupyter-notebooks",
+    "provider": "Visual Studio Code",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python"
+    ],
+    "est_hours": 0.5,
+    "summary": "Running notebooks inside VS Code, choosing kernels and inspecting DataFrames.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "vscode-data-science-tutorial",
+    "title": "Data Science in VS Code Tutorial",
+    "url": "https://code.visualstudio.com/docs/datascience/data-science-tutorial",
+    "provider": "Visual Studio Code",
+    "type": "article",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 1,
+    "summary": "Guided setup of a Python environment and a small end-to-end analysis in VS Code.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "vscode-data-wrangler",
+    "title": "Data Wrangler in VS Code",
+    "url": "https://code.visualstudio.com/docs/datascience/data-wrangler",
+    "provider": "Visual Studio Code",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "est_hours": 0.3,
+    "summary": "Visual data-cleaning tool that generates pandas code as you work.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "r4ds-2e",
+    "title": "R for Data Science (2e)",
+    "url": "https://r4ds.hadley.nz/",
+    "provider": "Wickham, Cetinkaya-Rundel & Grolemund",
+    "type": "book",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "r",
+      "visualization"
+    ],
+    "est_hours": 40,
+    "summary": "Free online book on importing, tidying, transforming and visualising data with the tidyverse; the R alternative to pandas.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "rstudio-desktop",
+    "title": "RStudio Desktop (Posit)",
+    "url": "https://posit.co/download/rstudio-desktop",
+    "provider": "Posit",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "r"
+    ],
+    "est_hours": 0.3,
+    "summary": "Free IDE for R; install R from CRAN first.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "cran-r-project",
+    "title": "CRAN: The R Project",
+    "url": "https://cran.r-project.org/",
+    "provider": "R Foundation",
+    "type": "tool",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "r"
+    ],
+    "est_hours": 0.2,
+    "summary": "Official download site for the R language and its packages.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "islr-statlearning",
+    "title": "An Introduction to Statistical Learning (free PDF, R and Python editions)",
+    "url": "https://statlearning.com",
+    "provider": "James, Witten, Hastie, Tibshirani",
+    "type": "book",
+    "cost": "free",
+    "level": 8,
+    "skills": [
+      "statistics",
+      "python",
+      "r"
+    ],
+    "est_hours": 60,
+    "summary": "Free textbook on regression, classification and resampling with labs; a stretch resource beyond core analyst work.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "udacity-ab-testing",
+    "title": "Introduction to A/B Testing (Udacity, with Google)",
+    "url": "https://www.udacity.com/course/ab-testing--ud257",
+    "provider": "Udacity",
+    "type": "course",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "statistics",
+      "business"
+    ],
+    "est_hours": 30,
+    "summary": "Free course on choosing metrics, sizing experiments, analysing results and ethics, taught by Google practitioners.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "udacity-ab-testing-business-analysts",
+    "title": "A/B Testing for Business Analysts (Udacity)",
+    "url": "https://www.udacity.com/course/ab-testing-business-analysts--ud979",
+    "provider": "Udacity",
+    "type": "course",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "business"
+    ],
+    "est_hours": 10,
+    "summary": "Designing business experiments, randomised and matched-pair designs, and interpreting results.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "evan-miller-how-not-to-ab-test",
+    "title": "How Not To Run an A/B Test",
+    "url": "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+    "provider": "Evan Miller",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "statistics"
+    ],
+    "est_hours": 0.3,
+    "summary": "Classic essay on why peeking and stopping early inflates false positives, and how to fix sample size in advance.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "evan-miller-sample-size",
+    "title": "Sample Size Calculator (Evan's Awesome A/B Tools)",
+    "url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+    "provider": "Evan Miller",
+    "type": "tool",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "statistics"
+    ],
+    "est_hours": 0.2,
+    "summary": "Calculator for subjects needed per variant given baseline rate, minimum detectable effect, power and significance.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "evan-miller-ab-tools",
+    "title": "Evan's Awesome A/B Tools",
+    "url": "https://www.evanmiller.org/ab-testing/",
+    "provider": "Evan Miller",
+    "type": "tool",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "statistics"
+    ],
+    "est_hours": 0.5,
+    "summary": "Suite of free calculators: chi-squared, t-test, sequential sampling, survival curves and more.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "evan-miller-low-base-rate",
+    "title": "The Low Base Rate Problem",
+    "url": "https://www.evanmiller.org/the-low-base-rate-problem.html",
+    "provider": "Evan Miller",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "statistics"
+    ],
+    "est_hours": 0.3,
+    "summary": "Why experiments on low conversion rates need very large samples.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "hbr-refresher-ab-testing",
+    "title": "A Refresher on A/B Testing",
+    "url": "https://hbr.org/2017/06/a-refresher-on-ab-testing",
+    "provider": "Harvard Business Review",
+    "type": "article",
+    "cost": "freemium",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "business"
+    ],
+    "est_hours": 0.2,
+    "summary": "Manager-friendly overview of randomisation, blocking, multivariate tests and common mistakes.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "hbr-pick-metrics-ahead",
+    "title": "When Designing an A/B Test, Pick Your Metrics Ahead of Time",
+    "url": "https://hbr.org/tip/2017/12/when-designing-an-ab-test-pick-your-metrics-ahead-of-time",
+    "provider": "Harvard Business Review",
+    "type": "article",
+    "cost": "freemium",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "business"
+    ],
+    "est_hours": 0.1,
+    "summary": "Short tip on avoiding metric-shopping after a test runs.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "hbr-4-analytics-concepts",
+    "title": "4 Analytics Concepts Every Manager Should Understand",
+    "url": "https://hbr.org/2018/10/4-analytics-concepts-every-manager-should-understand",
+    "provider": "Harvard Business Review",
+    "type": "article",
+    "cost": "freemium",
+    "level": 9,
+    "skills": [
+      "business",
+      "statistics"
+    ],
+    "est_hours": 0.2,
+    "summary": "Business framing of core analytical ideas analysts must explain to stakeholders.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "hbr-guide-data-analytics-basics",
+    "title": "HBR Guide to Data Analytics Basics for Managers",
+    "url": "https://store.hbr.org/product/hbr-guide-to-data-analytics-basics-for-managers-toolkit-updated-and-expanded/10849",
+    "provider": "Harvard Business Review",
+    "type": "book",
+    "cost": "paid",
+    "level": 9,
+    "skills": [
+      "business",
+      "storytelling"
+    ],
+    "est_hours": 6,
+    "summary": "Paid guide on asking the right questions of data and communicating results to decision-makers.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "trustworthy-online-controlled-experiments",
+    "title": "Trustworthy Online Controlled Experiments (Kohavi, Tang, Xu)",
+    "url": "https://www.goodreads.com/book/show/51635906",
+    "provider": "Cambridge University Press",
+    "type": "book",
+    "cost": "paid",
+    "level": 9,
+    "skills": [
+      "ab-testing",
+      "business",
+      "statistics"
+    ],
+    "est_hours": 15,
+    "summary": "Practitioner book on running reliable online experiments: metrics, OEC, trustworthiness checks and pitfalls.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-sql-analytics-training",
+    "title": "Mode SQL Analytics Training (business cases)",
+    "url": "https://mode.com/resources/sql-tutorial/sql-business-analytics-training",
+    "provider": "Mode",
+    "type": "practice",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "sql",
+      "business",
+      "ab-testing"
+    ],
+    "est_hours": 6,
+    "summary": "Three realistic case studies that require strong SQL: engagement drop, search analysis and A/B test validation.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-drop-in-user-engagement",
+    "title": "Case: Investigating a Drop in User Engagement",
+    "url": "https://mode.com/sql-tutorial/a-drop-in-user-engagement/",
+    "provider": "Mode",
+    "type": "practice",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "sql",
+      "business"
+    ],
+    "est_hours": 2,
+    "summary": "Diagnose a weekly engagement dip by ranking hypotheses and testing them with SQL cohorts and segments.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mode-validating-ab-test",
+    "title": "Case: Validating A/B Test Results",
+    "url": "https://mode.com/resources/sql-tutorial/validating-ab-test-results",
+    "provider": "Mode",
+    "type": "practice",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "sql",
+      "ab-testing"
+    ],
+    "est_hours": 2,
+    "summary": "Check whether a surprising experiment result holds up by examining assignment and metric logic.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "amplitude-product-analytics-guide",
+    "title": "What Is Product Analytics? A Data-Backed Guide",
+    "url": "https://amplitude.com/explore/analytics/product-analytics-guide",
+    "provider": "Amplitude",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 0.5,
+    "summary": "Overview of product analytics: events, funnels, retention and setting up a tracking plan.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "amplitude-product-metrics",
+    "title": "15 Important Product Metrics You Should Track",
+    "url": "https://amplitude.com/blog/product-metrics-guide",
+    "provider": "Amplitude",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 0.3,
+    "summary": "Definitions of common product KPIs such as activation, retention, stickiness and churn.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "amplitude-north-star",
+    "title": "Find Your North Star (North Star Framework hub)",
+    "url": "https://amplitude.com/north-star-hub",
+    "provider": "Amplitude",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 1,
+    "summary": "Resources on choosing one metric that reflects customer value and leads revenue.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "amplitude-7-percent-retention",
+    "title": "The 7% Retention Rule Explained",
+    "url": "https://amplitude.com/blog/7-percent-retention-rule",
+    "provider": "Amplitude",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 0.2,
+    "summary": "Benchmark-based discussion of early retention as a signal of long-term product health (vendor data).",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "amplitude-customer-analytics",
+    "title": "What Is Customer Analytics? Metrics & Best Practices",
+    "url": "https://amplitude.com/blog/customer-analytics-metrics",
+    "provider": "Amplitude",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 0.3,
+    "summary": "Customer-level metrics such as lifetime value, segmentation and cohort comparisons.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mixpanel-product-analytics",
+    "title": "What Is Product Analytics? A Complete Guide",
+    "url": "https://mixpanel.com/blog/what-is-product-management-analytics/",
+    "provider": "Mixpanel",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 0.5,
+    "summary": "Explains goals vs KPIs vs metrics, cohort analysis and avoiding vanity metrics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mixpanel-north-star-vs-kpi-tree",
+    "title": "North Star Maps vs Algebraic KPI Trees",
+    "url": "https://mixpanel.com/blog/north-star-framework-vs-kpi-tree/",
+    "provider": "Mixpanel",
+    "type": "article",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 0.3,
+    "summary": "Two ways to break a top-level metric into drivers analysts can measure and influence.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ga4-demo-account",
+    "title": "Google Analytics Demo Account",
+    "url": "https://support.google.com/analytics/answer/10993011?hl=en",
+    "provider": "Google",
+    "type": "dataset",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business",
+      "visualization"
+    ],
+    "est_hours": 1,
+    "summary": "Fully functional GA4 account with real e-commerce demo data for practising web and marketing analysis.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ga-analytics-academy",
+    "title": "Analytics Academy on Skillshop",
+    "url": "https://support.google.com/analytics/answer/15440208?hl=en",
+    "provider": "Google",
+    "type": "course",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business"
+    ],
+    "est_hours": 6,
+    "summary": "Free Google Analytics courses and certification hosted on Skillshop.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-skillshop",
+    "title": "Google Skillshop",
+    "url": "https://skillshop.withgoogle.com/",
+    "provider": "Google",
+    "type": "certification",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "business",
+      "career"
+    ],
+    "est_hours": null,
+    "summary": "Free training and certifications for Google Analytics and Google's marketing tools.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "fcc-python-eda-ab-testing",
+    "title": "Learn Python for Data Science: EDA, A/B Testing & BI Case Studies",
+    "url": "https://www.youtube.com/watch?v=FTpmwX94_Yo",
+    "provider": "freeCodeCamp",
+    "type": "video",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "python",
+      "pandas",
+      "ab-testing",
+      "business"
+    ],
+    "est_hours": 5.5,
+    "summary": "Python analytics course with A/B testing fundamentals and two end-to-end business case studies.",
+    "youtube_id": "FTpmwX94_Yo",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "statquest-statistical-power",
+    "title": "Statistical Power, Clearly Explained",
+    "url": "https://www.youtube.com/watch?v=Rsc5znwR5FA",
+    "provider": "StatQuest (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 9,
+    "skills": [
+      "statistics",
+      "ab-testing"
+    ],
+    "est_hours": 0.2,
+    "summary": "Intuition for power and why sample size matters before running an experiment.",
+    "youtube_id": "Rsc5znwR5FA",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-advanced-da-bi-certificates",
+    "title": "Google Advanced Data Analytics & Business Intelligence Certificates (announcement)",
+    "url": "https://blog.coursera.org/google-advanced-data-analytics-business-intelligence-certificates/",
+    "provider": "Coursera Blog",
+    "type": "certification",
+    "cost": "paid",
+    "level": 9,
+    "skills": [
+      "business",
+      "statistics",
+      "python",
+      "career"
+    ],
+    "est_hours": 150,
+    "summary": "Describes Google's follow-on certificates for learners who finished the entry-level program.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ibm-data-analyst-capstone",
+    "title": "IBM Data Analyst Capstone Project",
+    "url": "https://www.coursera.org/learn/ibm-data-analyst-capstone-project",
+    "provider": "IBM / Coursera",
+    "type": "course",
+    "cost": "freemium",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "python",
+      "sql",
+      "visualization"
+    ],
+    "est_hours": 20,
+    "summary": "Capstone using developer-survey data: collect, wrangle, analyse and build a dashboard for a portfolio piece.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "alex-portfolio-project-sql",
+    "title": "Data Analyst Portfolio Project: SQL Data Exploration",
+    "url": "https://www.youtube.com/watch?v=qfyynHBFOsM",
+    "provider": "Alex The Analyst (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "sql"
+    ],
+    "est_hours": 1.5,
+    "summary": "First of a guided project series exploring COVID data in SQL before visualising it in Tableau.",
+    "youtube_id": "qfyynHBFOsM",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "mo-chen-portfolio-projects-playlist",
+    "title": "Data Analysis Portfolio Projects (playlist)",
+    "url": "https://www.youtube.com/playlist?list=PLodYDTuHA29aa_5UPCNg_g5fyleHxTZPU",
+    "provider": "Mo Chen (YouTube)",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": 5,
+    "summary": "Collection of project walkthroughs showing how to scope and present analyst portfolio work.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15",
+    "dead": true
+  },
+  {
+    "id": "mo-chen-channel",
+    "title": "Mo Chen (YouTube channel)",
+    "url": "https://www.youtube.com/@mo-chen",
+    "provider": "Mo Chen",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career",
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Career-switcher focused channel on analyst job hunting, portfolios and day-to-day work.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ken-jee-channel",
+    "title": "Ken Jee (YouTube channel)",
+    "url": "https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg",
+    "provider": "Ken Jee",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career",
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Data career advice, project ideas and the 66 Days of Data habit challenge.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tina-huang-first-data-job",
+    "title": "How to Land Your First Data Science Job (Tina Huang)",
+    "url": "https://www.youtube.com/watch?v=a5rIgAjMNQM",
+    "provider": "YouTube",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career",
+      "interview"
+    ],
+    "est_hours": 1,
+    "summary": "Talk on resumes, projects and interview preparation for first data roles.",
+    "youtube_id": "a5rIgAjMNQM",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "maven-portfolio-guide",
+    "title": "How to Build a Strong Data Analyst Project Portfolio",
+    "url": "https://mavenanalytics.io/blog/how-to-build-a-strong-data-analyst-project-portfolio",
+    "provider": "Maven Analytics",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "storytelling"
+    ],
+    "est_hours": 0.3,
+    "summary": "Advice on framing each project around a business question and leading with the key dashboard.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "careerfoundry-portfolio-guide",
+    "title": "How to Build a Data Analyst Portfolio That Will Get You Hired",
+    "url": "https://careerfoundry.com/en/blog/data-analytics/data-analyst-portfolio/",
+    "provider": "CareerFoundry",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": 0.3,
+    "summary": "What to include: varied data sources, documented cleaning and a range of analysis methods.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "365ds-portfolio-guide",
+    "title": "How to Build a Data Analyst Portfolio: 8-Step Guide",
+    "url": "https://365datascience.com/career-advice/how-to-build-a-data-analyst-portfolio/",
+    "provider": "365 Data Science",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": 0.3,
+    "summary": "Step-by-step checklist from choosing projects to publishing them.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "edgewood-portfolio-guide",
+    "title": "How to Build a Data Analyst Portfolio (Edgewood)",
+    "url": "https://online.edgewood.edu/blog/how-to-build-a-data-analyst-portfolio/",
+    "provider": "Edgewood University",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": 0.3,
+    "summary": "Suggests a case-study structure: problem, data, method, insights and recommendations.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "maven-data-playground",
+    "title": "Maven Analytics Data Playground",
+    "url": "https://mavenanalytics.io/data-playground",
+    "provider": "Maven Analytics",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Free practice datasets (retail, finance, sports, healthcare...) sized for portfolio projects; some need a free login.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "maven-restaurant-orders",
+    "title": "Maven Dataset: Restaurant Orders",
+    "url": "https://mavenanalytics.io/data-playground/restaurant-orders",
+    "provider": "Maven Analytics",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "sql",
+      "excel"
+    ],
+    "est_hours": null,
+    "summary": "Small fictional restaurant order dataset ideal for a first SQL or Excel project.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "maven-marketing-campaign",
+    "title": "Maven Dataset: Marketing Campaign Results",
+    "url": "https://mavenanalytics.io/data-playground/marketing-campaign-results",
+    "provider": "Maven Analytics",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "business",
+      "ab-testing"
+    ],
+    "est_hours": null,
+    "summary": "Customer-level campaign data suited to segmentation and response analysis.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "maven-crm-sales",
+    "title": "Maven Dataset: CRM Sales Opportunities",
+    "url": "https://mavenanalytics.io/data-playground/crm-sales-opportunities",
+    "provider": "Maven Analytics",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "powerbi",
+      "tableau"
+    ],
+    "est_hours": null,
+    "summary": "B2B sales pipeline data good for a sales dashboard project.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kaggle-datasets",
+    "title": "Kaggle Datasets",
+    "url": "https://www.kaggle.com/datasets",
+    "provider": "Kaggle",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Hundreds of thousands of public datasets searchable by topic, size, file type and licence.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "data-gov",
+    "title": "Data.gov",
+    "url": "https://www.data.gov/",
+    "provider": "U.S. General Services Administration",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "U.S. government open-data catalogue linking to hundreds of thousands of federal, state and local datasets.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "our-world-in-data",
+    "title": "Our World in Data",
+    "url": "https://ourworldindata.org/",
+    "provider": "Our World in Data",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "visualization"
+    ],
+    "est_hours": null,
+    "summary": "CC-BY research data and charts on global development topics, each downloadable as CSV with metadata.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "owid-reuse-data",
+    "title": "Our World in Data: Easier to Reuse Our Data",
+    "url": "https://ourworldindata.org/easier-to-reuse-our-data",
+    "provider": "Our World in Data",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": 0.2,
+    "summary": "How to download chart data as CSV/JSON or pull it by URL for your own analysis.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-dataset-search",
+    "title": "Google Dataset Search",
+    "url": "https://datasetsearch.research.google.com/",
+    "provider": "Google",
+    "type": "dataset",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Search engine for datasets across government, academic and news publishers, filterable by format and licence.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "tableau-public-about",
+    "title": "Tableau Public: Build a Public Portfolio",
+    "url": "https://public.tableau.com/app/about",
+    "provider": "Tableau Public",
+    "type": "tool",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "tableau"
+    ],
+    "est_hours": null,
+    "summary": "Free profile for publishing interactive dashboards that recruiters can explore.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "github-pages",
+    "title": "GitHub Pages",
+    "url": "https://pages.github.com/",
+    "provider": "GitHub",
+    "type": "tool",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "git"
+    ],
+    "est_hours": 1,
+    "summary": "Free static hosting for a personal portfolio site straight from a GitHub repository.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "github-pages-quickstart",
+    "title": "Quickstart for GitHub Pages",
+    "url": "https://docs.github.com/en/pages/quickstart",
+    "provider": "GitHub Docs",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "portfolio",
+      "git"
+    ],
+    "est_hours": 0.5,
+    "summary": "Official step-by-step guide to publishing a username.github.io site.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "git-scm-learn",
+    "title": "Git - Learn (incl. Pro Git book)",
+    "url": "https://git-scm.com/learn",
+    "provider": "git-scm.com",
+    "type": "book",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "git"
+    ],
+    "est_hours": 10,
+    "summary": "Official Git learning page with the free Pro Git book, videos and cheat sheets.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "pro-git-repo",
+    "title": "Pro Git 2nd Edition (source)",
+    "url": "https://github.com/progit/progit2",
+    "provider": "Scott Chacon & Ben Straub",
+    "type": "book",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "git"
+    ],
+    "est_hours": 10,
+    "summary": "Open-source repository of the Pro Git book under a Creative Commons licence.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "github-learning-resources",
+    "title": "Git and GitHub Learning Resources",
+    "url": "https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources",
+    "provider": "GitHub Docs",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "git"
+    ],
+    "est_hours": 1,
+    "summary": "Official list of GitHub Skills interactive courses, videos and docs for learning version control.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datalemur-sql-cheat-sheet",
+    "title": "SQL Interview Cheat Sheet",
+    "url": "https://datalemur.com/blog/sql-interview-cheat-sheet",
+    "provider": "DataLemur",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 0.5,
+    "summary": "Condensed reference of SQL syntax and patterns most often tested in interviews.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datalemur-data-analyst-sql-questions",
+    "title": "SQL Interview Questions for Data Analysts",
+    "url": "https://datalemur.com/blog/data-analyst-sql-interview-questions",
+    "provider": "DataLemur",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 1,
+    "summary": "Analyst-specific SQL interview problems with explanations.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datalemur-cram-sql-interviews",
+    "title": "How to Cram for SQL Interview Tests & Assessments",
+    "url": "https://datalemur.com/blog/how-to-cram-for-sql-interview-tests-assessments",
+    "provider": "DataLemur",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 0.3,
+    "summary": "Short-timeline study plan for take-home or timed SQL assessments.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "stratascratch-sql-ultimate-guide",
+    "title": "SQL Interview Questions You Must Prepare: The Ultimate Guide",
+    "url": "https://www.stratascratch.com/blog/sql-interview-questions-you-must-prepare-the-ultimate-guide",
+    "provider": "StrataScratch",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 1,
+    "summary": "Structured guide covering conceptual and coding SQL questions with real company examples.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "stratascratch-data-analyst-sql",
+    "title": "SQL Interview Questions for the Data Analyst Position",
+    "url": "https://www.stratascratch.com/blog/sql-interview-questions-for-the-data-analyst-position",
+    "provider": "StrataScratch",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 0.5,
+    "summary": "Analyst-role SQL problems with worked solutions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "stratascratch-500-sql-questions",
+    "title": "500 SQL Interview Questions from Real Companies",
+    "url": "https://www.stratascratch.com/blog/500-sql-interview-questions-from-real-companies",
+    "provider": "StrataScratch",
+    "type": "practice",
+    "cost": "freemium",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 30,
+    "summary": "Large bank of company-tagged SQL questions; many free, full access with a subscription.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "interview-query-data-analyst-questions",
+    "title": "Data Analyst Interview Questions (Interview Query)",
+    "url": "https://interviewquery.com/p/data-analyst-interview-questions",
+    "provider": "Interview Query",
+    "type": "article",
+    "cost": "freemium",
+    "level": 10,
+    "skills": [
+      "interview",
+      "sql",
+      "statistics",
+      "business"
+    ],
+    "est_hours": 1,
+    "summary": "Overview of SQL, statistics, product-sense and behavioural questions asked of analysts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "interview-query-sql-platforms",
+    "title": "Best Platforms to Practice SQL",
+    "url": "https://www.interviewquery.com/p/platforms-to-practice-sql",
+    "provider": "Interview Query",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 0.3,
+    "summary": "Compares SQL practice platforms by purpose: beginners, interview prep and real-world data.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "nau-data-analyst-interview-guide",
+    "title": "Top Data Analyst Interview Questions (2025 Guide)",
+    "url": "https://frankecareer.nau.edu/blog/2025/06/24/top-data-analyst-interview-questions-2025-guide/",
+    "provider": "Northern Arizona University Career",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "interview",
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "University career-office guide covering the interview process, STAR answers and common technical prompts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "analystbuilder-mysql-interview-course",
+    "title": "MySQL Interview Crash Course (Analyst Builder)",
+    "url": "https://analystbuilder.com/courses/mysql-interview-crash-course",
+    "provider": "Analyst Builder",
+    "type": "course",
+    "cost": "freemium",
+    "level": 10,
+    "skills": [
+      "sql",
+      "interview"
+    ],
+    "est_hours": 6,
+    "summary": "Lessons and real interview-style questions to prepare for SQL technical rounds.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "analystbuilder-home",
+    "title": "Analyst Builder",
+    "url": "https://analystbuilder.com/",
+    "provider": "Analyst Builder",
+    "type": "practice",
+    "cost": "freemium",
+    "level": 10,
+    "skills": [
+      "sql",
+      "python",
+      "interview",
+      "portfolio"
+    ],
+    "est_hours": null,
+    "summary": "Alex Freberg's platform of practice questions, courses and projects; free tier plus paid plans.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "enhancv-data-analyst-resume",
+    "title": "Data Analyst Resume Examples & Guide",
+    "url": "https://enhancv.com/resume-examples/data-analyst/",
+    "provider": "Enhancv",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Annotated resume examples with section-by-section advice on summaries, skills and quantified impact.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "beamjobs-data-analyst-resume",
+    "title": "Data Analyst Resume Examples",
+    "url": "https://www.beamjobs.com/resumes/data-analyst-resume-examples",
+    "provider": "BeamJobs",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Many sample resumes for entry-level and specialised analyst roles.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "analytixlabs-resume-guide",
+    "title": "Data Analyst Resume: A Complete Guide",
+    "url": "https://www.analytixlabs.co.in/blog/data-analyst-resume-a-complete-guide/",
+    "provider": "AnalytixLabs",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.5,
+    "summary": "Explains how to present projects in place of experience for fresher resumes, with examples by level.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "linkedin-student-profile-tips",
+    "title": "Student Job Seekers: Tips to Building the Perfect LinkedIn Profile",
+    "url": "https://www.linkedin.com/blog/member/product/student-job-seekers-tips-to-building-the-perfect-linkedin-profile",
+    "provider": "LinkedIn",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.2,
+    "summary": "Official advice on photos, headlines, summaries and listing projects or volunteer work.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "linkedin-find-jobs-help",
+    "title": "Find Jobs on LinkedIn (Help)",
+    "url": "https://www.linkedin.com/help/linkedin/answer/a509392",
+    "provider": "LinkedIn",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.2,
+    "summary": "Official tips on job search, Open to Work and tracking applications.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "linkedin-learning-become-data-analyst",
+    "title": "Become a Data Analyst (LinkedIn Learning path)",
+    "url": "https://www.linkedin.com/learning/paths/become-a-data-analyst",
+    "provider": "LinkedIn Learning",
+    "type": "course",
+    "cost": "paid",
+    "level": 10,
+    "skills": [
+      "career",
+      "excel",
+      "sql",
+      "powerbi"
+    ],
+    "est_hours": 41,
+    "summary": "Subscription path of about a dozen courses across analyst tools and soft skills, with a certificate.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "coursera-data-analytics-certifications",
+    "title": "Popular Data Analytics Certifications: 2026 Guide",
+    "url": "https://www.coursera.org/articles/data-analytics-certification",
+    "provider": "Coursera",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "Survey of common analytics certificates and what each signals to employers.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "coursera-google-career-certificates",
+    "title": "Google Career Certificates on Coursera",
+    "url": "https://www.coursera.org/google-career-certificates",
+    "provider": "Google / Coursera",
+    "type": "certification",
+    "cost": "paid",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": null,
+    "summary": "Listing of Google's professional certificates, including Data Analytics, Advanced Data Analytics and Business Intelligence.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "comptia-data-plus",
+    "title": "CompTIA Data+ vs Other Certifications",
+    "url": "https://www.comptia.org/en-us/blog/comptia-data-vs.-other-certifications-is-data-worth-the-investment",
+    "provider": "CompTIA",
+    "type": "certification",
+    "cost": "paid",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 40,
+    "summary": "Explains the vendor-neutral Data+ exam domains and how it compares with tool-specific certificates.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "google-comptia-dual-credential",
+    "title": "Google Advanced Data Analytics + CompTIA Data+ Dual Credential",
+    "url": "https://www.credly.com/org/coursera/badge/google-advanced-data-analytics-certificate-comptia-",
+    "provider": "Credly / Coursera",
+    "type": "certification",
+    "cost": "paid",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": null,
+    "summary": "Badge description for learners who complete Google's advanced certificate and pass Data+.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datatalks-club-slack",
+    "title": "DataTalks.Club Slack Community",
+    "url": "https://datatalks.club/slack.html",
+    "provider": "DataTalks.Club",
+    "type": "community",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": null,
+    "summary": "Large free Slack community for data professionals with career channels and course cohorts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datatalks-club-courses",
+    "title": "Guide to Free Online Courses at DataTalks.Club",
+    "url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
+    "provider": "DataTalks.Club",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career",
+      "python",
+      "sql"
+    ],
+    "est_hours": null,
+    "summary": "Free open-source zoomcamps (data engineering, ML and more) for after you land the analyst basics.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "reddit-dataanalysis",
+    "title": "r/dataanalysis",
+    "url": "https://www.reddit.com/r/dataanalysis/",
+    "provider": "Reddit",
+    "type": "community",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": null,
+    "summary": "Subreddit for analysis techniques, tools and resources; career-entry questions are redirected to r/DataAnalysisCareers.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "reddit-dataanalysiscareers",
+    "title": "r/DataAnalysisCareers",
+    "url": "https://www.reddit.com/r/DataAnalysisCareers/",
+    "provider": "Reddit",
+    "type": "community",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": null,
+    "summary": "Companion subreddit for breaking-in, certificate, resume and interview questions.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "reddit-analytics",
+    "title": "r/analytics",
+    "url": "https://www.reddit.com/r/analytics/",
+    "provider": "Reddit",
+    "type": "community",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career",
+      "business"
+    ],
+    "est_hours": null,
+    "summary": "Discussion community for working analytics professionals on tools, careers and practice.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "skyvia-best-subreddits",
+    "title": "Best Subreddits for Data Analysts",
+    "url": "https://skyvia.com/blog/best-subreddits-for-data-analysts/",
+    "provider": "Skyvia",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.2,
+    "summary": "Guide to which subreddits suit beginners, practitioners and specific tools.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "superdatascience-avery-smith",
+    "title": "SDS 893: How to Jumpstart Your Data Career (Avery Smith)",
+    "url": "https://superdatascience.com/893",
+    "provider": "Super Data Science Podcast",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career",
+      "portfolio"
+    ],
+    "est_hours": 1,
+    "summary": "Podcast episode with Avery Smith on a project-first ladder for landing a first data job.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "talkpython-land-first-data-job",
+    "title": "Talk Python #455: Land Your First Data Job",
+    "url": "https://talkpython.fm/455",
+    "provider": "Talk Python To Me",
+    "type": "video",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 1,
+    "summary": "Podcast interview with Avery Smith on skills, projects and job-search tactics for aspiring analysts.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "datacamp-best-analytics-courses",
+    "title": "The Best Analytics Courses for All Levels",
+    "url": "https://www.datacamp.com/blog/best-analytics-courses",
+    "provider": "DataCamp",
+    "type": "article",
+    "cost": "free",
+    "level": 10,
+    "skills": [
+      "career"
+    ],
+    "est_hours": 0.3,
+    "summary": "Vendor round-up of analytics courses by level, useful for planning next steps after this path.",
+    "youtube_id": null,
+    "verified_at": "2026-10-15"
+  }
+]

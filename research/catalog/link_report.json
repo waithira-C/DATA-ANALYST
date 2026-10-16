@@ -1,0 +1,2469 @@
+{
+  "checked_at": "2026-10-15T09:58:44+00:00",
+  "total": 307,
+  "counts": {
+    "ok": 284,
+    "blocked": 21,
+    "ok_ssl_warning": 1,
+    "dead": 1
+  },
+  "dead_count": 1,
+  "results": [
+    {
+      "id": "roadmap-sh-data-analyst",
+      "url": "https://roadmap.sh/data-analyst",
+      "status": 200,
+      "final_url": "https://roadmap.sh/data-analyst",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-data-analytics-certificate",
+      "url": "https://grow.google/certificates/data-analytics/",
+      "status": 200,
+      "final_url": "https://grow.google/intl/ssa-en/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "coursera-foundations-data",
+      "url": "https://www.coursera.org/learn/foundations-data",
+      "status": 200,
+      "final_url": "https://www.coursera.org/learn/foundations-data",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ibm-data-analyst-certificate",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+      "status": 200,
+      "final_url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "coursera-google-vs-ibm-vs-meta",
+      "url": "https://www.coursera.org/articles/google-vs-ibm-vs-meta-data-analysis-certificates",
+      "status": 200,
+      "final_url": "https://www.coursera.org/articles/google-vs-ibm-vs-meta-data-analysis-certificates",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "coursera-career-academy-data-analyst",
+      "url": "https://www.coursera.org/career-academy/roles/data-analyst",
+      "status": 200,
+      "final_url": "https://www.coursera.org/career-academy/roles/data-analyst",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-data-analytics-roadmap",
+      "url": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
+      "status": 200,
+      "final_url": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-teach-yourself-data-analytics-30-days",
+      "url": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+      "status": 200,
+      "final_url": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "edx-how-to-audit",
+      "url": "https://www.edx.org/resources/how-to-audit-an-edx-class",
+      "status": 200,
+      "final_url": "https://www.edx.org/resources/how-to-audit-an-edx-class",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "edx-essentials-of-data-literacy",
+      "url": "https://www.edx.org/learn/data-analysis/davidson-college-essentials-of-data-literacy",
+      "status": 200,
+      "final_url": "https://www.edx.org/learn/r-programming/davidson-college-the-essentials-of-data-literacy-online-course",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "alex-free-data-analyst-bootcamp-intro",
+      "url": "https://www.youtube.com/watch?v=rGx1QNdYzvs",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=rGx1QNdYzvs",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "alex-data-analyst-bootcamp-playlist",
+      "url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF",
+      "status": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "alex-ultimate-bootcamp-24h",
+      "url": "https://www.youtube.com/watch?v=wQQR60KtnFY",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=wQQR60KtnFY",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-data-analyst-bootcamp-35h",
+      "url": "https://www.youtube.com/watch?v=MOzEvNYvbik",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=MOzEvNYvbik",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-data-analysis-bootcamp-19h",
+      "url": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-how-id-learn-data-analyst",
+      "url": "https://www.youtube.com/watch?v=_gF2Mj1354M",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=_gF2Mj1354M",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-top-courses-data-analyst",
+      "url": "https://www.youtube.com/watch?v=aqRxZSrJLEc",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=aqRxZSrJLEc",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-skills-interview",
+      "url": "https://www.youtube.com/watch?v=p_CjpS5lC-w",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=p_CjpS5lC-w",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mo-chen-how-id-become-data-analyst",
+      "url": "https://www.youtube.com/watch?v=d_2fGS6QVDo",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=d_2fGS6QVDo",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mo-chen-da-vs-ds",
+      "url": "https://www.youtube.com/watch?v=yRBEPkfPh_U",
+      "status": 403,
+      "final_url": "https://www.youtube.com/watch?v=yRBEPkfPh_U",
+      "verdict": "blocked",
+      "error": "YouTube oEmbed 403 (embedding disabled or private)"
+    },
+    {
+      "id": "mo-chen-best-resources-2024",
+      "url": "https://www.youtube.com/watch?v=0bOR4wvedHw",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=0bOR4wvedHw",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tina-huang-learn-data-science-2022",
+      "url": "https://www.youtube.com/watch?v=Rt6eb9VOFII",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=Rt6eb9VOFII",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ken-jee-how-i-would-learn-ds",
+      "url": "https://www.youtube.com/watch?v=41Clrh6nv1s",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=41Clrh6nv1s",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "linkedin-learning-explore-career-data-analysis",
+      "url": "https://www.linkedin.com/learning/paths/explore-a-career-in-data-analysis",
+      "status": 200,
+      "final_url": "https://www.linkedin.com/learning/paths/explore-a-career-in-data-analysis",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "analystbuilder-data-analyst-roadmap",
+      "url": "https://analystbuilder.com/roadmaps/data-analyst-roadmap",
+      "status": 200,
+      "final_url": "https://analystbuilder.com/roadmaps/data-analyst-roadmap",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "gcfglobal-excel",
+      "url": "https://edu.gcfglobal.org/en/excel/",
+      "status": 200,
+      "final_url": "https://www.learnfree.org/series/excel-foundations",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "gcfglobal-google-sheets",
+      "url": "https://edu.gcfglobal.org/en/googlespreadsheets/getting-started-with-google-sheets/full",
+      "status": 200,
+      "final_url": "https://www.learnfree.org/series/google-sheets",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "microsoft-excel-help-learning",
+      "url": "https://support.microsoft.com/en-us/excel/",
+      "status": 200,
+      "final_url": "https://support.microsoft.com/en-us/excel/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "microsoft-basic-tasks-excel",
+      "url": "https://support.microsoft.com/en-us/office/basic-tasks-in-excel-dc775dd1-fa52-430f-9c3c-d998d1735fca",
+      "status": 200,
+      "final_url": "https://support.microsoft.com/en-us/excel/basic-tasks-in-excel",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-sheets-training-help",
+      "url": "https://support.google.com/a/users/answer/9282959?hl=en",
+      "status": 200,
+      "final_url": "https://support.google.com/a/users/answer/9282959?hl=en",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-sheets-cheat-sheet",
+      "url": "https://support.google.com/a/users/answer/9300022?hl=en",
+      "status": 200,
+      "final_url": "https://support.google.com/a/users/answer/9300022?hl=en",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excel-easy",
+      "url": "https://www.excel-easy.com/",
+      "status": 200,
+      "final_url": "https://www.excel-easy.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "trumpexcel-free-training",
+      "url": "https://trumpexcel.com/learn-excel/",
+      "status": 200,
+      "final_url": "https://trumpexcel.com/learn-excel/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "teachexcel-tutorials",
+      "url": "https://www.teachexcel.com/excel-tutorials/index.php",
+      "status": 200,
+      "final_url": "https://www.teachexcel.com/excel-tutorials/index.php",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excelisfun-channel",
+      "url": "https://www.youtube.com/user/ExcelIsFun",
+      "status": 200,
+      "final_url": "https://www.youtube.com/user/ExcelIsFun",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excelisfun-365-basics-1",
+      "url": "https://www.youtube.com/watch?v=IInFoJxxPPA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=IInFoJxxPPA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excelisfun-highline-class-01",
+      "url": "https://www.youtube.com/watch?v=Wq7p4uoj4Vo",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=Wq7p4uoj4Vo",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-excel-full-course",
+      "url": "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-spreadsheets-33-projects",
+      "url": "https://www.youtube.com/watch?v=BBk3DXgodmI",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=BBk3DXgodmI",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excel-full-course-4h",
+      "url": "https://www.youtube.com/watch?v=rro5t8eHXaY",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=rro5t8eHXaY",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kevin-stratvert-channel",
+      "url": "https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig",
+      "status": 200,
+      "final_url": "https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-how-i-use-excel",
+      "url": "https://www.youtube.com/watch?v=lw6sPHH7twk",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=lw6sPHH7twk",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-excel-for-data-analytics",
+      "url": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "benlcollins-how-to-use-google-sheets",
+      "url": "https://www.benlcollins.com/spreadsheets/how-to-use-google-sheets/",
+      "status": 200,
+      "final_url": "https://www.benlcollins.com/spreadsheets/how-to-use-google-sheets/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "benlcollins-sheets-essentials",
+      "url": "https://courses.benlcollins.com/p/google-sheets-essentials",
+      "status": 200,
+      "final_url": "https://courses.benlcollins.com/p/google-sheets-essentials",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "xelplus-learn-excel-beginners",
+      "url": "https://www.xelplus.com/learn-excel-beginners/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "coursera-analyze-data-to-answer-questions",
+      "url": "https://www.coursera.org/learn/analyze-data",
+      "status": 200,
+      "final_url": "https://www.coursera.org/learn/analyze-data",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "microsoft-mos-excel-associate",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-2019/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-2019/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "exceljet-formulas",
+      "url": "https://exceljet.net/formulas",
+      "status": 200,
+      "final_url": "https://exceljet.net/formulas",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "exceljet-videos",
+      "url": "https://exceljet.net/videos",
+      "status": 200,
+      "final_url": "https://exceljet.net/videos",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "exceljet-home",
+      "url": "https://exceljet.net/",
+      "status": 200,
+      "final_url": "https://exceljet.net/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excelfrog",
+      "url": "https://www.excelfrog.com/",
+      "status": 200,
+      "final_url": "https://www.excelfrog.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "chandoo-pivot-tables-tutorial",
+      "url": "https://chandoo.org/wp/excel-pivot-tables-tutorial/",
+      "status": 200,
+      "final_url": "https://chandoo.org/wp/excel-pivot-tables-tutorial/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "chandoo-pivot-table-video",
+      "url": "https://www.youtube.com/watch?v=TwTYWqv0Tm0",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=TwTYWqv0Tm0",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "chandoo-dynamic-dashboard",
+      "url": "https://chandoo.org/wp/dynamic-dashboard-video-tutorial/",
+      "status": 200,
+      "final_url": "https://chandoo.org/wp/dynamic-dashboard-video-tutorial/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "chandoo-videos",
+      "url": "https://chandoo.org/wp/videos/",
+      "status": 200,
+      "final_url": "https://chandoo.org/wp/videos/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "chandoo-free-data-analyst-course",
+      "url": "https://chandoo.org/wp/free-data-analyst-course/",
+      "status": 200,
+      "final_url": "https://chandoo.org/wp/free-data-analyst-course/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "xelplus-pivot-tables-guide",
+      "url": "https://www.xelplus.com/pivot-tables/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "xelplus-pivot-table-tips",
+      "url": "https://www.xelplus.com/pivot-table-pro-tips/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "xelplus-advanced-pivot-tables",
+      "url": "https://www.xelplus.com/excel-advanced-pivot-tables/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "xelplus-pivot-mastery-course",
+      "url": "https://www.xelplus.com/course/excel-pivot-tables/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "xelplus-excel-dashboards-course",
+      "url": "https://www.xelplus.com/course/excel-dashboards/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "leila-gharani-channel",
+      "url": "https://www.youtube.com/@LeilaGharani",
+      "status": 200,
+      "final_url": "https://www.youtube.com/@LeilaGharani",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-excel-formulas-functions",
+      "url": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-excel-data-visualization",
+      "url": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excel-data-analysis-7h",
+      "url": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excelisfun-power-query-1",
+      "url": "https://www.youtube.com/watch?v=Kr5JFAq1aPQ",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=Kr5JFAq1aPQ",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "excelisfun-365-mecs-playlist",
+      "url": "https://www.youtube.com/playlist?list=PLrRPvpgDmw0nre_bTeBfJWjrnixKoyNtW",
+      "status": 401,
+      "final_url": "https://www.youtube.com/playlist?list=PLrRPvpgDmw0nre_bTeBfJWjrnixKoyNtW",
+      "verdict": "blocked",
+      "error": "YouTube oEmbed 401 (embedding disabled or private)"
+    },
+    {
+      "id": "kevin-stratvert-power-query",
+      "url": "https://www.youtube.com/watch?v=0aeZX1l4JT4",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=0aeZX1l4JT4",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "benlcollins-home",
+      "url": "https://www.benlcollins.com/",
+      "status": 200,
+      "final_url": "https://www.benlcollins.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "edx-microsoft-intro-data-analysis-excel",
+      "url": "https://www.edx.org/learn/data-analysis/microsoft-introduction-to-data-analysis-using-excel",
+      "status": 200,
+      "final_url": "https://www.edx.org/learn/data-analysis",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "edx-ritx-data-processing-excel",
+      "url": "https://www.edx.org/learn/excel/rochester-institute-of-technology-data-processing-and-analysis-with-excel",
+      "status": 200,
+      "final_url": "https://www.edx.org/learn/excel/rochester-institute-of-technology-data-processing-and-analysis-with-excel",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "khan-statistics-probability",
+      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "status": 200,
+      "final_url": "https://www.khanacademy.org/math/statistics-probability",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "openintro-statistics",
+      "url": "https://www.openintro.org/book/os/",
+      "status": 200,
+      "final_url": "https://www.openintro.org/book/os/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "openintro-ims",
+      "url": "https://www.openintro.org/book/ims/",
+      "status": 200,
+      "final_url": "https://www.openintro.org/book/ims/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "think-stats-3e",
+      "url": "https://greenteapress.com/wp/think-stats-3e/",
+      "status": 200,
+      "final_url": "https://greenteapress.com/wp/think-stats-3e/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mit-18-05",
+      "url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/",
+      "status": 200,
+      "final_url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "seeing-theory",
+      "url": "https://seeing-theory.brown.edu/",
+      "status": 200,
+      "final_url": "https://seeing-theory.brown.edu/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "openstax-intro-stats-2e",
+      "url": "https://openstax.org/details/books/introductory-statistics-2e",
+      "status": 200,
+      "final_url": "https://openstax.org/details/books/introductory-statistics-2e",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "psu-stat-200",
+      "url": "https://online.stat.psu.edu/stat200/",
+      "status": 200,
+      "final_url": "https://online.stat.psu.edu/stat200/",
+      "verdict": "ok_ssl_warning",
+      "error": "certificate could not be verified locally"
+    },
+    {
+      "id": "stattrek-tutorials",
+      "url": "https://stattrek.com/tutorials/free-online-courses",
+      "status": 200,
+      "final_url": "https://stattrek.com/tutorials/free-online-courses",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "onlinestatbook",
+      "url": "https://onlinestatbook.com/",
+      "status": 200,
+      "final_url": "https://onlinestatbook.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "cmu-oli-probability-statistics",
+      "url": "https://oli.cmu.edu/courses/probability-statistics-open-free/",
+      "status": 200,
+      "final_url": "https://oli.cmu.edu/courses/probability-statistics-open-free/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-statistics-8h",
+      "url": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-statistics-fundamentals",
+      "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9",
+      "status": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-playlists",
+      "url": "https://www.youtube.com/@statquest/playlists",
+      "status": 200,
+      "final_url": "https://www.youtube.com/@statquest/playlists",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-p-values",
+      "url": "https://www.youtube.com/watch?v=vemZtEM63GY",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=vemZtEM63GY",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-calculate-p-values",
+      "url": "https://www.youtube.com/watch?v=JQc3yx0-Q9E",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=JQc3yx0-Q9E",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-normal-distribution",
+      "url": "https://www.youtube.com/watch?v=rzFX5NWojp0",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=rzFX5NWojp0",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-histograms",
+      "url": "https://www.youtube.com/watch?v=qBigTkBLU6g",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=qBigTkBLU6g",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-quantiles",
+      "url": "https://www.youtube.com/watch?v=IFKQLDmRK0Y",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=IFKQLDmRK0Y",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-linear-regression",
+      "url": "https://www.youtube.com/watch?v=aFDOzpTeg0s",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=aFDOzpTeg0s",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-one-two-tailed",
+      "url": "https://www.youtube.com/watch?v=bsZGt-caXO4",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=bsZGt-caXO4",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sqlbolt",
+      "url": "https://sqlbolt.com/",
+      "status": 200,
+      "final_url": "https://sqlbolt.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sqlzoo",
+      "url": "https://sqlzoo.net/wiki/SQL_Zoo",
+      "status": 200,
+      "final_url": "https://sqlzoo.net/wiki/SQL_Zoo",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "select-star-sql",
+      "url": "https://selectstarsql.com/",
+      "status": 200,
+      "final_url": "https://selectstarsql.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-sql-tutorial-intro",
+      "url": "https://mode.com/resources/sql-tutorial/introduction-to-sql",
+      "status": 200,
+      "final_url": "https://www.thoughtspot.com/sql-tutorial/introduction-to-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "w3schools-sql",
+      "url": "https://www.w3schools.com/sql/",
+      "status": 200,
+      "final_url": "https://www.w3schools.com/sql/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "w3schools-sql-exercises",
+      "url": "https://w3schools.com/SQL/exercise.asp",
+      "status": 200,
+      "final_url": "https://www.w3schools.com:443/SQL/sql_exercises.asp",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-intro-to-sql",
+      "url": "https://www.kaggle.com/learn/intro-to-sql",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/intro-to-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "cs50-sql",
+      "url": "https://cs50.harvard.edu/sql/",
+      "status": 200,
+      "final_url": "https://cs50.harvard.edu/sql/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "codecademy-learn-sql",
+      "url": "https://www.codecademy.com/learn/learn-sql",
+      "status": 200,
+      "final_url": "https://www.codecademy.com/learn/learn-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "codecademy-sql-multiple-tables",
+      "url": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+      "status": 200,
+      "final_url": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "codecademy-sql-aggregate-functions",
+      "url": "https://www.codecademy.com/learn/learn-sql-aggregate-functions",
+      "status": 200,
+      "final_url": "https://www.codecademy.com/learn/learn-sql-aggregate-functions",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "codecademy-analyze-data-with-sql",
+      "url": "https://www.codecademy.com/learn/paths/analyze-data-with-sql",
+      "status": 200,
+      "final_url": "https://www.codecademy.com/learn/paths/analyze-data-with-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datacamp-intro-to-sql",
+      "url": "https://www.datacamp.com/courses/introduction-to-sql",
+      "status": 200,
+      "final_url": "https://www.datacamp.com/courses/introduction-to-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datalemur-sql-tutorial",
+      "url": "https://datalemur.com/sql-tutorial",
+      "status": 200,
+      "final_url": "https://datalemur.com/sql-tutorial",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-sql-full-database-course",
+      "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-postgresql-full-course",
+      "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-sql-for-data-analytics",
+      "url": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "baraa-sql-full-course-30h",
+      "url": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "baraa-sql-bootcamp-playlist",
+      "url": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe",
+      "status": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "alex-mysql-basics-playlist",
+      "url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sql-murder-mystery",
+      "url": "https://mystery.knightlab.com/",
+      "status": 200,
+      "final_url": "https://mystery.knightlab.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sql-murder-mystery-walkthrough",
+      "url": "https://mystery.knightlab.com/walkthrough.html",
+      "status": 200,
+      "final_url": "https://mystery.knightlab.com/walkthrough.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sql-practice-com",
+      "url": "https://www.sql-practice.com/",
+      "status": 200,
+      "final_url": "https://www.sql-practice.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sql-easy",
+      "url": "https://www.sql-easy.com/",
+      "status": 200,
+      "final_url": "https://www.sql-easy.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "w3resource-sqlite-exercises",
+      "url": "https://www.w3resource.com/sqlite-exercises/",
+      "status": 200,
+      "final_url": "https://www.w3resource.com/sqlite-exercises/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "hackerrank-sql",
+      "url": "https://www.hackerrank.com/domains/sql",
+      "status": 200,
+      "final_url": "https://www.hackerrank.com/domains/sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "learnsql-free-practice-resources",
+      "url": "https://learnsql.com/blog/top-9-free-sql-practice-resources/",
+      "status": 200,
+      "final_url": "https://learnsql.com/blog/top-9-free-sql-practice-resources/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datacamp-free-sql-resources",
+      "url": "https://www.datacamp.com/blog/top-resources-to-learn-sql-for-free",
+      "status": 200,
+      "final_url": "https://www.datacamp.com/blog/top-resources-to-learn-sql-for-free",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "postgresql-download",
+      "url": "https://www.postgresql.org/download/",
+      "status": 200,
+      "final_url": "https://www.postgresql.org/download/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "dbeaver-community",
+      "url": "https://dbeaver.io/download/",
+      "status": 200,
+      "final_url": "https://dbeaver.io/download/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "db-browser-sqlite",
+      "url": "https://sqlitebrowser.org/dl/",
+      "status": 200,
+      "final_url": "https://sqlitebrowser.org/dl/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-sql-window-functions",
+      "url": "https://mode.com/resources/sql-tutorial/sql-window-functions",
+      "status": 200,
+      "final_url": "https://www.thoughtspot.com/sql-tutorial/sql-window-functions",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-popular-window-functions",
+      "url": "https://mode.com/blog/most-popular-window-functions-and-how-to-use-them/",
+      "status": 200,
+      "final_url": "https://mode.com/blog/most-popular-window-functions-and-how-to-use-them/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-moving-averages-sql",
+      "url": "https://mode.com/blog/moving-averages-in-sql/",
+      "status": 200,
+      "final_url": "https://mode.com/blog/moving-averages-in-sql/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "postgres-tutorial-window",
+      "url": "https://www.postgresql.org/docs/current/tutorial-window.html",
+      "status": 200,
+      "final_url": "https://www.postgresql.org/docs/current/tutorial-window.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "postgres-functions-window",
+      "url": "https://www.postgresql.org/docs/current/functions-window.html",
+      "status": 200,
+      "final_url": "https://www.postgresql.org/docs/current/functions-window.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "neon-postgresql-cte",
+      "url": "https://neon.com/postgresql/postgresql-tutorial/postgresql-cte",
+      "status": 200,
+      "final_url": "https://neon.com/postgresql/tutorial/cte",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-advanced-sql",
+      "url": "https://www.kaggle.com/learn/advanced-sql",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/advanced-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "pgexercises",
+      "url": "https://pgexercises.com/",
+      "status": 200,
+      "final_url": "https://pgexercises.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datalemur-questions",
+      "url": "https://datalemur.com/questions",
+      "status": 200,
+      "final_url": "https://datalemur.com/questions",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datalemur-window-functions-questions",
+      "url": "https://datalemur.com/blog/sql-window-functions-interview-questions",
+      "status": 200,
+      "final_url": "https://datalemur.com/blog/sql-window-functions-interview-questions",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "leetcode-sql-50",
+      "url": "https://leetcode.com/studyplan/top-sql-50/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "leetcode-advanced-sql-50",
+      "url": "https://leetcode.com/studyplan/premium-sql-50/",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "hackerrank-sql-advanced",
+      "url": "https://www.hackerrank.com/skills-directory/sql_advanced",
+      "status": 200,
+      "final_url": "https://www.hackerrank.com/skills-directory/sql_advanced",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "stratascratch-advanced-sql",
+      "url": "https://www.stratascratch.com/blog/advanced-sql-interview-questions-you-must-know-how-to-answer",
+      "status": 200,
+      "final_url": "https://www.stratascratch.com/blog/advanced-sql-interview-questions-you-must-know-how-to-answer",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-sql-intermediate-project",
+      "url": "https://www.youtube.com/watch?v=QKIGsShyEsQ",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=QKIGsShyEsQ",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "baraa-sql-eda-project",
+      "url": "https://www.youtube.com/watch?v=6cJ5Ji8zSDg",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=6cJ5Ji8zSDg",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datacamp-associate-data-analyst-sql",
+      "url": "https://www.datacamp.com/tracks/associate-data-analyst-in-sql",
+      "status": 200,
+      "final_url": "https://www.datacamp.com/tracks/associate-data-analyst-in-sql",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "analystbuilder-questions",
+      "url": "https://analystbuilder.com/questions?type=technical",
+      "status": 200,
+      "final_url": "https://analystbuilder.com/questions?type=technical",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-learn-get-started-data-analytics",
+      "url": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-learn-prepare-data-power-bi",
+      "url": "https://learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-learn-prepare-visualize-power-bi",
+      "url": "https://learn.microsoft.com/en-us/training/paths/prepare-visualize-data-power-bi/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/training/paths/prepare-visualize-data-power-bi/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-learn-pl-300t00",
+      "url": "https://learn.microsoft.com/en-us/training/courses/pl-300t00",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/training/courses/pl-300t00",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-power-bi-data-analyst-cert",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-practice-assessments",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ms-pl-300-exam-readiness",
+      "url": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "power-bi-desktop-download",
+      "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "power-bi-desktop-getting-started",
+      "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "dax-guide",
+      "url": "https://dax.guide/",
+      "status": 200,
+      "final_url": "https://dax.guide/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "sqlbi-dax-guides",
+      "url": "https://www.sqlbi.com/guides/dax/",
+      "status": 200,
+      "final_url": "https://www.sqlbi.com/guides/dax/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "guy-in-a-cube-channel",
+      "url": "https://www.youtube.com/guyinacube",
+      "status": 200,
+      "final_url": "https://www.youtube.com/guyinacube",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "guy-in-a-cube-start-journey",
+      "url": "https://www.youtube.com/watch?v=XogUe3nvPto",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=XogUe3nvPto",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "guy-in-a-cube-beginner-30min",
+      "url": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "guy-in-a-cube-beginner-2025",
+      "url": "https://www.youtube.com/watch?v=MikekdopYhE",
+      "status": 403,
+      "final_url": "https://www.youtube.com/watch?v=MikekdopYhE",
+      "verdict": "blocked",
+      "error": "YouTube oEmbed 403 (embedding disabled or private)"
+    },
+    {
+      "id": "kevin-stratvert-power-bi-beginners",
+      "url": "https://www.youtube.com/watch?v=TmhQCQr_DCA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=TmhQCQr_DCA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-power-bi-for-data-analytics",
+      "url": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "maven-analytics-channel",
+      "url": "https://www.youtube.com/channel/UCFqInmJykuVFKzi6uQl_ySg",
+      "status": 200,
+      "final_url": "https://www.youtube.com/channel/UCFqInmJykuVFKzi6uQl_ySg",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tableau-free-training-videos",
+      "url": "https://www.tableau.com/learn/training",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "tableau-learn",
+      "url": "https://www.tableau.com/learn",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "tableau-public-how-to-videos",
+      "url": "https://public.tableau.com/app/learn/how-to-videos",
+      "status": 200,
+      "final_url": "https://public.tableau.com/app/learn/how-to-videos",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tableau-public",
+      "url": "https://www.tableau.com/products/public",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "tableau-viz-gallery",
+      "url": "https://www.tableau.com/viz-gallery",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "trailhead-tableau-desktop-trail",
+      "url": "https://trailhead.salesforce.com/content/learn/trails/get-started-with-data-visualization-in-tableau-desktop",
+      "status": 200,
+      "final_url": "https://trailhead.salesforce.com/content/learn/trails/get-started-with-data-visualization-in-tableau-desktop",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "trailhead-tableau-basics",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/learn-about-tableau",
+      "status": 200,
+      "final_url": "https://trailhead.salesforce.com/content/learn/modules/learn-about-tableau",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tableau-certification",
+      "url": "https://www.tableau.com/learn/certification",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "tableau-desktop-specialist-exam-guide",
+      "url": "https://mkt.tableau.com/files/DesktopSpecialist_ExamGuide.pdf",
+      "status": 200,
+      "final_url": "https://mkt.tableau.com/files/DesktopSpecialist_ExamGuide.pdf",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tableau-certified-data-analyst",
+      "url": "https://www.tableau.com/learn/certification/certified-data-analyst",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "fcc-tableau-crash-course",
+      "url": "https://www.youtube.com/watch?v=TPMlZxRRaBQ",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=TPMlZxRRaBQ",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "baraa-tableau-21h",
+      "url": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "looker-studio-quick-start",
+      "url": "https://cloud.google.com/looker/docs/studio/quick-start-guide?hl=en",
+      "status": 200,
+      "final_url": "https://docs.cloud.google.com/data-studio/quick-start-guide?hl=en",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "looker-studio-create-report",
+      "url": "https://support.google.com/looker-studio/answer/6292570?hl=en",
+      "status": 200,
+      "final_url": "https://docs.cloud.google.com/data-studio/tutorial-create-a-new-report?hl=en&visit_id=639276551033407685-2267681869&rd=1",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "think-with-looker-studio",
+      "url": "https://docs.cloud.google.com/looker/docs/studio/think-with-looker-studio",
+      "status": 200,
+      "final_url": "https://docs.cloud.google.com/data-studio/think",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "storytelling-with-data-blog",
+      "url": "https://www.storytellingwithdata.com/blog",
+      "status": 200,
+      "final_url": "https://www.storytellingwithdata.com/blog",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fundamentals-of-data-visualization",
+      "url": "https://clauswilke.com/dataviz/",
+      "status": 200,
+      "final_url": "https://clauswilke.com/dataviz/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "data-to-viz",
+      "url": "https://www.data-to-viz.com/",
+      "status": 200,
+      "final_url": "https://www.data-to-viz.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "data-viz-project",
+      "url": "https://datavizproject.com/",
+      "status": 200,
+      "final_url": "https://datavizproject.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "data-viz-catalogue",
+      "url": "https://datavizcatalogue.com/",
+      "status": 200,
+      "final_url": "https://datavizcatalogue.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ft-visual-vocabulary",
+      "url": "https://ft-interactive.github.io/visual-vocabulary/",
+      "status": 200,
+      "final_url": "https://ft-interactive.github.io/visual-vocabulary/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "rss-choosing-visualisation",
+      "url": "https://royal-statistical-society.github.io/datavisguide/docs/choosing.html",
+      "status": 200,
+      "final_url": "https://royal-statistical-society.github.io/datavisguide/docs/choosing.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "makeover-monday-tableau-blog",
+      "url": "https://www.tableau.com/blog/viz-makeovermonday-challenge",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "makeover-monday-vizwiz",
+      "url": "https://www.vizwiz.com/p/makeover-monday-challenges.html",
+      "status": 200,
+      "final_url": "https://www.vizwiz.com/p/makeover-monday-challenges.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "workout-wednesday-vizwiz",
+      "url": "https://www.vizwiz.com/p/workout-wednesday.html",
+      "status": 200,
+      "final_url": "https://www.vizwiz.com/p/workout-wednesday.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "workout-wednesday-tableau-blog",
+      "url": "https://www.tableau.com/blog/make-time-exercise-your-data-skills-workout-wednesday",
+      "status": 403,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "workout-wednesday-power-bi",
+      "url": "https://www.sqlservercentral.com/blogs/workout-wednesdays-for-power-bi-in-2021",
+      "status": 200,
+      "final_url": "https://www.sqlservercentral.com/blogs/workout-wednesdays-for-power-bi-in-2021",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-learn",
+      "url": "https://www.kaggle.com/learn",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-python",
+      "url": "https://www.kaggle.com/learn/python",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/python",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-pandas",
+      "url": "https://www.kaggle.com/learn/pandas",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/pandas",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-data-cleaning",
+      "url": "https://www.kaggle.com/learn/data-cleaning",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/data-cleaning",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-data-visualization",
+      "url": "https://www.kaggle.com/learn/data-visualization",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/data-visualization",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-intro-to-ml",
+      "url": "https://www.kaggle.com/learn/intro-to-machine-learning/course",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/intro-to-machine-learning/course",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-time-series",
+      "url": "https://www.kaggle.com/learn/time-series",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/time-series",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-feature-engineering",
+      "url": "https://www.kaggle.com/learn/feature-engineering",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/feature-engineering",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-geospatial-analysis",
+      "url": "https://www.kaggle.com/learn/geospatial-analysis",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/learn/geospatial-analysis",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "python-official-tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "status": 200,
+      "final_url": "https://docs.python.org/3/tutorial/index.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "pandas-10-minutes",
+      "url": "https://pandas.pydata.org/docs/user_guide/10min.html",
+      "status": 200,
+      "final_url": "https://pandas.pydata.org/docs/user_guide/10min.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "pandas-getting-started",
+      "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+      "status": 200,
+      "final_url": "https://pandas.pydata.org/docs/getting_started/index.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "python-for-data-analysis-3e",
+      "url": "https://wesmckinney.com/book/",
+      "status": 200,
+      "final_url": "https://wesmckinney.com/book/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "python-data-science-handbook",
+      "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "status": 200,
+      "final_url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "automate-the-boring-stuff",
+      "url": "https://www.automatetheboringstuff.com",
+      "status": 200,
+      "final_url": "https://automatetheboringstuff.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "corey-schafer-pandas-playlist",
+      "url": "https://www.youtube.com/playlist?list=PLSLQ7uyfNIItZf404-TviaeM01pnebr5K",
+      "status": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLSLQ7uyfNIItZf404-TviaeM01pnebr5K",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "corey-schafer-pandas-part-1",
+      "url": "https://www.youtube.com/watch?v=ZyhVh-qRZPA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=ZyhVh-qRZPA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "corey-schafer-pandas-part-2",
+      "url": "https://www.youtube.com/watch?v=zmdjNSmRXF4",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=zmdjNSmRXF4",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "corey-schafer-pandas-part-10",
+      "url": "https://www.youtube.com/watch?v=UFuo7EHI8zc",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=UFuo7EHI8zc",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "corey-schafer-pandas-part-11",
+      "url": "https://www.youtube.com/watch?v=N6hyN6BW6ao",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=N6hyN6BW6ao",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "corey-schafer-jupyter",
+      "url": "https://www.youtube.com/watch?v=HW29067qVWk",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=HW29067qVWk",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-data-analysis-with-python-4h",
+      "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-pandas-python-data-analysis-5h",
+      "url": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "luke-python-for-data-analytics",
+      "url": "https://www.youtube.com/watch?v=wUSDVGivd-8",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=wUSDVGivd-8",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datacamp-data-analyst-python",
+      "url": "https://www.datacamp.com/tracks/data-analyst-with-python",
+      "status": 200,
+      "final_url": "https://www.datacamp.com/tracks/data-analyst-with-python",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "seaborn-tutorial",
+      "url": "https://seaborn.pydata.org/tutorial/introduction.html",
+      "status": 200,
+      "final_url": "https://seaborn.pydata.org/tutorial/introduction.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "matplotlib-quick-start",
+      "url": "https://matplotlib.org/stable/users/explain/quick_start.html",
+      "status": 200,
+      "final_url": "https://matplotlib.org/stable/users/explain/quick_start.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "plotly-express",
+      "url": "https://plotly.com/python/plotly-express/",
+      "status": 200,
+      "final_url": "https://plotly.com/python/plotly-express/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "anaconda-download",
+      "url": "https://www.anaconda.com/download",
+      "status": 200,
+      "final_url": "https://www.anaconda.com/download",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "jupyter-install-docs",
+      "url": "https://docs.jupyter.org/en/latest/install/notebook-classic.html",
+      "status": 200,
+      "final_url": "https://docs.jupyter.org/en/latest/install/notebook-classic.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-colab",
+      "url": "https://colab.research.google.com/",
+      "status": 200,
+      "final_url": "https://colab.research.google.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "vscode-jupyter-notebooks",
+      "url": "https://code.visualstudio.com/docs/datascience/jupyter-notebooks",
+      "status": 200,
+      "final_url": "https://code.visualstudio.com/docs/datascience/jupyter-notebooks",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "vscode-data-science-tutorial",
+      "url": "https://code.visualstudio.com/docs/datascience/data-science-tutorial",
+      "status": 200,
+      "final_url": "https://code.visualstudio.com/docs/datascience/data-science-tutorial",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "vscode-data-wrangler",
+      "url": "https://code.visualstudio.com/docs/datascience/data-wrangler",
+      "status": 200,
+      "final_url": "https://code.visualstudio.com/docs/datascience/data-wrangler",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "r4ds-2e",
+      "url": "https://r4ds.hadley.nz/",
+      "status": 200,
+      "final_url": "https://r4ds.hadley.nz/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "rstudio-desktop",
+      "url": "https://posit.co/download/rstudio-desktop",
+      "status": 200,
+      "final_url": "https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads?ref=rstudio-legacy",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "cran-r-project",
+      "url": "https://cran.r-project.org/",
+      "status": 200,
+      "final_url": "https://cran.r-project.org/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "islr-statlearning",
+      "url": "https://statlearning.com",
+      "status": 200,
+      "final_url": "https://www.statlearning.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "udacity-ab-testing",
+      "url": "https://www.udacity.com/course/ab-testing--ud257",
+      "status": 200,
+      "final_url": "https://www.udacity.com/course/ab-testing--ud257",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "udacity-ab-testing-business-analysts",
+      "url": "https://www.udacity.com/course/ab-testing-business-analysts--ud979",
+      "status": 200,
+      "final_url": "https://www.udacity.com/course/ab-testing-business-analysts--ud979",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "evan-miller-how-not-to-ab-test",
+      "url": "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+      "status": 200,
+      "final_url": "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "evan-miller-sample-size",
+      "url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+      "status": 200,
+      "final_url": "https://www.evanmiller.org/ab-testing/sample-size.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "evan-miller-ab-tools",
+      "url": "https://www.evanmiller.org/ab-testing/",
+      "status": 200,
+      "final_url": "https://www.evanmiller.org/ab-testing/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "evan-miller-low-base-rate",
+      "url": "https://www.evanmiller.org/the-low-base-rate-problem.html",
+      "status": 200,
+      "final_url": "https://www.evanmiller.org/the-low-base-rate-problem.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "hbr-refresher-ab-testing",
+      "url": "https://hbr.org/2017/06/a-refresher-on-ab-testing",
+      "status": 200,
+      "final_url": "https://hbr.org/2017/06/a-refresher-on-ab-testing",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "hbr-pick-metrics-ahead",
+      "url": "https://hbr.org/tip/2017/12/when-designing-an-ab-test-pick-your-metrics-ahead-of-time",
+      "status": 200,
+      "final_url": "https://hbr.org/tip/2017/12/when-designing-an-ab-test-pick-your-metrics-ahead-of-time",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "hbr-4-analytics-concepts",
+      "url": "https://hbr.org/2018/10/4-analytics-concepts-every-manager-should-understand",
+      "status": 200,
+      "final_url": "https://hbr.org/2018/10/4-analytics-concepts-every-manager-should-understand",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "hbr-guide-data-analytics-basics",
+      "url": "https://store.hbr.org/product/hbr-guide-to-data-analytics-basics-for-managers-toolkit-updated-and-expanded/10849",
+      "status": 200,
+      "final_url": "https://store.hbr.org/product/hbr-guide-to-data-analytics-basics-for-managers-toolkit-updated-and-expanded/10849",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "trustworthy-online-controlled-experiments",
+      "url": "https://www.goodreads.com/book/show/51635906",
+      "status": 200,
+      "final_url": "https://www.goodreads.com/book/show/51635906",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-sql-analytics-training",
+      "url": "https://mode.com/resources/sql-tutorial/sql-business-analytics-training",
+      "status": 200,
+      "final_url": "https://www.thoughtspot.com/sql-tutorial/sql-business-analytics-training",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-drop-in-user-engagement",
+      "url": "https://mode.com/sql-tutorial/a-drop-in-user-engagement/",
+      "status": 200,
+      "final_url": "https://www.thoughtspot.com/sql-tutorial/a-drop-in-user-engagement",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mode-validating-ab-test",
+      "url": "https://mode.com/resources/sql-tutorial/validating-ab-test-results",
+      "status": 200,
+      "final_url": "https://www.thoughtspot.com/sql-tutorial/validating-ab-test-results",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "amplitude-product-analytics-guide",
+      "url": "https://amplitude.com/explore/analytics/product-analytics-guide",
+      "status": 200,
+      "final_url": "https://amplitude.com/explore/analytics/product-analytics-guide",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "amplitude-product-metrics",
+      "url": "https://amplitude.com/blog/product-metrics-guide",
+      "status": 200,
+      "final_url": "https://amplitude.com/blog/product-metrics-guide",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "amplitude-north-star",
+      "url": "https://amplitude.com/north-star-hub",
+      "status": 200,
+      "final_url": "https://amplitude.com/north-star-hub",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "amplitude-7-percent-retention",
+      "url": "https://amplitude.com/blog/7-percent-retention-rule",
+      "status": 200,
+      "final_url": "https://amplitude.com/blog/7-percent-retention-rule",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "amplitude-customer-analytics",
+      "url": "https://amplitude.com/blog/customer-analytics-metrics",
+      "status": 200,
+      "final_url": "https://amplitude.com/blog/customer-analytics-metrics",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mixpanel-product-analytics",
+      "url": "https://mixpanel.com/blog/what-is-product-management-analytics/",
+      "status": 200,
+      "final_url": "https://mixpanel.com/blog/what-is-product-management-analytics/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mixpanel-north-star-vs-kpi-tree",
+      "url": "https://mixpanel.com/blog/north-star-framework-vs-kpi-tree/",
+      "status": 200,
+      "final_url": "https://mixpanel.com/blog/north-star-framework-vs-kpi-tree/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ga4-demo-account",
+      "url": "https://support.google.com/analytics/answer/10993011?hl=en",
+      "status": 200,
+      "final_url": "https://support.google.com/analytics/answer/10993011?hl=en",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ga-analytics-academy",
+      "url": "https://support.google.com/analytics/answer/15440208?hl=en",
+      "status": 200,
+      "final_url": "https://support.google.com/analytics/answer/15440208?hl=en",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-skillshop",
+      "url": "https://skillshop.withgoogle.com/",
+      "status": 200,
+      "final_url": "https://skillshop.withgoogle.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "fcc-python-eda-ab-testing",
+      "url": "https://www.youtube.com/watch?v=FTpmwX94_Yo",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=FTpmwX94_Yo",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "statquest-statistical-power",
+      "url": "https://www.youtube.com/watch?v=Rsc5znwR5FA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=Rsc5znwR5FA",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-advanced-da-bi-certificates",
+      "url": "https://blog.coursera.org/google-advanced-data-analytics-business-intelligence-certificates/",
+      "status": 200,
+      "final_url": "https://blog.coursera.org/google-advanced-data-analytics-business-intelligence-certificates/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ibm-data-analyst-capstone",
+      "url": "https://www.coursera.org/learn/ibm-data-analyst-capstone-project",
+      "status": 200,
+      "final_url": "https://www.coursera.org/learn/ibm-data-analyst-capstone-project",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "alex-portfolio-project-sql",
+      "url": "https://www.youtube.com/watch?v=qfyynHBFOsM",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=qfyynHBFOsM",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "mo-chen-portfolio-projects-playlist",
+      "url": "https://www.youtube.com/playlist?list=PLodYDTuHA29aa_5UPCNg_g5fyleHxTZPU",
+      "status": 404,
+      "final_url": "https://www.youtube.com/playlist?list=PLodYDTuHA29aa_5UPCNg_g5fyleHxTZPU",
+      "verdict": "dead",
+      "error": "YouTube oEmbed 404 (video/playlist unavailable)"
+    },
+    {
+      "id": "mo-chen-channel",
+      "url": "https://www.youtube.com/@mo-chen",
+      "status": 200,
+      "final_url": "https://www.youtube.com/@mo-chen",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "ken-jee-channel",
+      "url": "https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg",
+      "status": 200,
+      "final_url": "https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tina-huang-first-data-job",
+      "url": "https://www.youtube.com/watch?v=a5rIgAjMNQM",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=a5rIgAjMNQM",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "maven-portfolio-guide",
+      "url": "https://mavenanalytics.io/blog/how-to-build-a-strong-data-analyst-project-portfolio",
+      "status": 200,
+      "final_url": "https://mavenanalytics.io/blog/how-to-build-a-strong-data-analyst-project-portfolio",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "careerfoundry-portfolio-guide",
+      "url": "https://careerfoundry.com/en/blog/data-analytics/data-analyst-portfolio/",
+      "status": 200,
+      "final_url": "https://careerfoundry.com/en/blog/data-analytics/data-analyst-portfolio/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "365ds-portfolio-guide",
+      "url": "https://365datascience.com/career-advice/how-to-build-a-data-analyst-portfolio/",
+      "status": 200,
+      "final_url": "https://365datascience.com/career-advice/how-to-build-a-data-analyst-portfolio/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "edgewood-portfolio-guide",
+      "url": "https://online.edgewood.edu/blog/how-to-build-a-data-analyst-portfolio/",
+      "status": 200,
+      "final_url": "https://online.edgewood.edu/blog/how-to-build-a-data-analyst-portfolio/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "maven-data-playground",
+      "url": "https://mavenanalytics.io/data-playground",
+      "status": 200,
+      "final_url": "https://mavenanalytics.io/data-playground",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "maven-restaurant-orders",
+      "url": "https://mavenanalytics.io/data-playground/restaurant-orders",
+      "status": 200,
+      "final_url": "https://mavenanalytics.io/data-playground/restaurant-orders",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "maven-marketing-campaign",
+      "url": "https://mavenanalytics.io/data-playground/marketing-campaign-results",
+      "status": 200,
+      "final_url": "https://mavenanalytics.io/data-playground/marketing-campaign-results",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "maven-crm-sales",
+      "url": "https://mavenanalytics.io/data-playground/crm-sales-opportunities",
+      "status": 200,
+      "final_url": "https://mavenanalytics.io/data-playground/crm-sales-opportunities",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "kaggle-datasets",
+      "url": "https://www.kaggle.com/datasets",
+      "status": 200,
+      "final_url": "https://www.kaggle.com/datasets",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "data-gov",
+      "url": "https://www.data.gov/",
+      "status": 200,
+      "final_url": "https://data.gov/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "our-world-in-data",
+      "url": "https://ourworldindata.org/",
+      "status": 200,
+      "final_url": "https://ourworldindata.org/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "owid-reuse-data",
+      "url": "https://ourworldindata.org/easier-to-reuse-our-data",
+      "status": 200,
+      "final_url": "https://ourworldindata.org/easier-to-reuse-our-data",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-dataset-search",
+      "url": "https://datasetsearch.research.google.com/",
+      "status": 200,
+      "final_url": "https://datasetsearch.research.google.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "tableau-public-about",
+      "url": "https://public.tableau.com/app/about",
+      "status": 200,
+      "final_url": "https://public.tableau.com/app/about",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "github-pages",
+      "url": "https://pages.github.com/",
+      "status": 200,
+      "final_url": "https://pages.github.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "github-pages-quickstart",
+      "url": "https://docs.github.com/en/pages/quickstart",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pages/quickstart",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "git-scm-learn",
+      "url": "https://git-scm.com/learn",
+      "status": 200,
+      "final_url": "https://git-scm.com/learn",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "pro-git-repo",
+      "url": "https://github.com/progit/progit2",
+      "status": 200,
+      "final_url": "https://github.com/progit/progit2",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "github-learning-resources",
+      "url": "https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datalemur-sql-cheat-sheet",
+      "url": "https://datalemur.com/blog/sql-interview-cheat-sheet",
+      "status": 200,
+      "final_url": "https://datalemur.com/blog/sql-interview-cheat-sheet",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datalemur-data-analyst-sql-questions",
+      "url": "https://datalemur.com/blog/data-analyst-sql-interview-questions",
+      "status": 200,
+      "final_url": "https://datalemur.com/blog/data-analyst-sql-interview-questions",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datalemur-cram-sql-interviews",
+      "url": "https://datalemur.com/blog/how-to-cram-for-sql-interview-tests-assessments",
+      "status": 200,
+      "final_url": "https://datalemur.com/blog/how-to-cram-for-sql-interview-tests-assessments",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "stratascratch-sql-ultimate-guide",
+      "url": "https://www.stratascratch.com/blog/sql-interview-questions-you-must-prepare-the-ultimate-guide",
+      "status": 200,
+      "final_url": "https://www.stratascratch.com/blog/sql-interview-questions-you-must-prepare-the-ultimate-guide",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "stratascratch-data-analyst-sql",
+      "url": "https://www.stratascratch.com/blog/sql-interview-questions-for-the-data-analyst-position",
+      "status": 200,
+      "final_url": "https://www.stratascratch.com/blog/sql-interview-questions-for-the-data-analyst-position",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "stratascratch-500-sql-questions",
+      "url": "https://www.stratascratch.com/blog/500-sql-interview-questions-from-real-companies",
+      "status": 200,
+      "final_url": "https://www.stratascratch.com/blog/500-sql-interview-questions-from-real-companies",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "interview-query-data-analyst-questions",
+      "url": "https://interviewquery.com/p/data-analyst-interview-questions",
+      "status": 429,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "interview-query-sql-platforms",
+      "url": "https://www.interviewquery.com/p/platforms-to-practice-sql",
+      "status": 429,
+      "final_url": null,
+      "verdict": "blocked",
+      "error": "HTTP 429"
+    },
+    {
+      "id": "nau-data-analyst-interview-guide",
+      "url": "https://frankecareer.nau.edu/blog/2025/06/24/top-data-analyst-interview-questions-2025-guide/",
+      "status": 200,
+      "final_url": "https://frankecareer.nau.edu/blog/2025/06/24/top-data-analyst-interview-questions-2025-guide/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "analystbuilder-mysql-interview-course",
+      "url": "https://analystbuilder.com/courses/mysql-interview-crash-course",
+      "status": 200,
+      "final_url": "https://analystbuilder.com/courses/mysql-interview-crash-course",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "analystbuilder-home",
+      "url": "https://analystbuilder.com/",
+      "status": 200,
+      "final_url": "https://analystbuilder.com/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "enhancv-data-analyst-resume",
+      "url": "https://enhancv.com/resume-examples/data-analyst/",
+      "status": 200,
+      "final_url": "https://enhancv.com/resume-examples/data-analyst/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "beamjobs-data-analyst-resume",
+      "url": "https://www.beamjobs.com/resumes/data-analyst-resume-examples",
+      "status": 200,
+      "final_url": "https://www.beamjobs.com/resumes/data-analyst-resume-examples",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "analytixlabs-resume-guide",
+      "url": "https://www.analytixlabs.co.in/blog/data-analyst-resume-a-complete-guide/",
+      "status": 200,
+      "final_url": "https://www.analytixlabs.co.in/blog/data-analyst-resume-a-complete-guide/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "linkedin-student-profile-tips",
+      "url": "https://www.linkedin.com/blog/member/product/student-job-seekers-tips-to-building-the-perfect-linkedin-profile",
+      "status": 200,
+      "final_url": "https://www.linkedin.com/blog/member/product/student-job-seekers-tips-to-building-the-perfect-linkedin-profile",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "linkedin-find-jobs-help",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a509392",
+      "status": 200,
+      "final_url": "https://www.linkedin.com/help/linkedin/answer/a509392",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "linkedin-learning-become-data-analyst",
+      "url": "https://www.linkedin.com/learning/paths/become-a-data-analyst",
+      "status": 200,
+      "final_url": "https://www.linkedin.com/learning/paths/become-a-data-analyst",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "coursera-data-analytics-certifications",
+      "url": "https://www.coursera.org/articles/data-analytics-certification",
+      "status": 200,
+      "final_url": "https://www.coursera.org/articles/data-analytics-certification",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "coursera-google-career-certificates",
+      "url": "https://www.coursera.org/google-career-certificates",
+      "status": 200,
+      "final_url": "https://www.coursera.org/google-career-certificates",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "comptia-data-plus",
+      "url": "https://www.comptia.org/en-us/blog/comptia-data-vs.-other-certifications-is-data-worth-the-investment",
+      "status": 200,
+      "final_url": "https://www.comptia.org/en-us/blog/comptia-data-vs.-other-certifications-is-data-worth-the-investment",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "google-comptia-dual-credential",
+      "url": "https://www.credly.com/org/coursera/badge/google-advanced-data-analytics-certificate-comptia-",
+      "status": 200,
+      "final_url": "https://www.credly.com/org/coursera/badge/google-advanced-data-analytics-certificate-comptia-",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datatalks-club-slack",
+      "url": "https://datatalks.club/slack.html",
+      "status": 200,
+      "final_url": "https://datatalks.club/slack.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datatalks-club-courses",
+      "url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
+      "status": 200,
+      "final_url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "reddit-dataanalysis",
+      "url": "https://www.reddit.com/r/dataanalysis/",
+      "status": 200,
+      "final_url": "https://www.reddit.com/r/dataanalysis/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "reddit-dataanalysiscareers",
+      "url": "https://www.reddit.com/r/DataAnalysisCareers/",
+      "status": 200,
+      "final_url": "https://www.reddit.com/r/DataAnalysisCareers/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "reddit-analytics",
+      "url": "https://www.reddit.com/r/analytics/",
+      "status": 200,
+      "final_url": "https://www.reddit.com/r/analytics/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "skyvia-best-subreddits",
+      "url": "https://skyvia.com/blog/best-subreddits-for-data-analysts/",
+      "status": 200,
+      "final_url": "https://skyvia.com/blog/best-subreddits-for-data-analysts/",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "superdatascience-avery-smith",
+      "url": "https://superdatascience.com/893",
+      "status": 200,
+      "final_url": "https://www.superdatascience.com/podcast/sds-893-how-to-jumpstart-your-data-career-by-applying-like-a-scientist-with-avery-smith",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "talkpython-land-first-data-job",
+      "url": "https://talkpython.fm/455",
+      "status": 200,
+      "final_url": "https://talkpython.fm/episodes/show/455/land-your-first-data-job",
+      "verdict": "ok",
+      "error": null
+    },
+    {
+      "id": "datacamp-best-analytics-courses",
+      "url": "https://www.datacamp.com/blog/best-analytics-courses",
+      "status": 200,
+      "final_url": "https://www.datacamp.com/blog/best-analytics-courses",
+      "verdict": "ok",
+      "error": null
+    }
+  ]
+}
