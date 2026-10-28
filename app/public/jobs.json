@@ -1,5 +1,608 @@
 [
   {
+    "id": "himalayas:https://himalayas.app/companies/geico-jobs/jobs/senior-principal-data-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/geico-jobs/jobs/senior-principal-data-analyst",
+    "title": "Senior Principal Data Analyst",
+    "company": "GEICO",
+    "company_logo": null,
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/geico-jobs/jobs/senior-principal-data-analyst?utm_source=api",
+    "description_snippet": "Why Join GEICO? At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.",
+    "salary": "$100k–$300k",
+    "tags": [
+      "data analyst",
+      "principal data analyst",
+      "business intelligence analyst",
+      "senior staff data analyst",
+      "senior level data analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T11:30:46.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/codekeeper/jobs/business-analyst-product-focused-5901125046",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/codekeeper/jobs/business-analyst-product-focused-5901125046",
+    "title": "Business Analyst (Product-Focused)",
+    "company": "Codekeeper",
+    "company_logo": "https://cdn-images.himalayas.app/5ta430h2m88lxqwyb9qhozx2u28u",
+    "location": "Remote — South Africa only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/codekeeper/jobs/business-analyst-product-focused-5901125046?utm_source=api",
+    "description_snippet": "Business Analyst (Product-Focused) Do you have a structured, analytical mindset with a passion for user experience and well-functioning systems?",
+    "salary": "$10k–$100k",
+    "tags": [
+      "business analyst",
+      "product analyst",
+      "requirements analyst",
+      "ux analyst",
+      "product business analyst",
+      "business product analyst",
+      "product focused business analysis",
+      "product functional analyst",
+      "full time"
+    ],
+    "seniority": "mid",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T10:45:23.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/tailored-brands-inc/jobs/data-analyst-mastercard-test-learn",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/tailored-brands-inc/jobs/data-analyst-mastercard-test-learn",
+    "title": "Data Analyst - Mastercard Test & Learn",
+    "company": "Tailored Brands",
+    "company_logo": "https://cdn-images.himalayas.app/wq17prvbw7qlubr9as7oywsfhb4m",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/tailored-brands-inc/jobs/data-analyst-mastercard-test-learn?utm_source=api",
+    "description_snippet": "Tailored Brands, Inc. is a leading omni-channel specialty retailer of menswear, including suits and a broad selection of business casual offerings as well as the largest provider of tuxedo rental products in the U.",
+    "salary": "$70k–$146k",
+    "tags": [
+      "data analyst",
+      "business intelligence analyst",
+      "analytics consultant",
+      "quantitative analyst",
+      "credit card data analyst",
+      "full time"
+    ],
+    "seniority": "mid",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T10:22:55.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/bare-international/jobs/power-bi-developer-contract",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/bare-international/jobs/power-bi-developer-contract",
+    "title": "Power BI Developer (Contract)",
+    "company": "BARE International",
+    "company_logo": "https://cdn-images.himalayas.app/xzttiytk6i1n4kswxbikmqw11n9g",
+    "location": "Remote — India only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/bare-international/jobs/power-bi-developer-contract?utm_source=api",
+    "description_snippet": "About BARE International BARE International is a globally recognized customer experience research company specializing in mystery shopping, compliance and process audits, market research, and business intelligence and analytics.",
+    "salary": null,
+    "tags": [
+      "power bi developer",
+      "business intelligence developer",
+      "data visualization developer",
+      "analytics engineer",
+      "business intelligence analyst",
+      "power bi report developer",
+      "mid level power bi developer",
+      "power bi development",
+      "developer",
+      "contractor"
+    ],
+    "seniority": "mid",
+    "role_family": "bi",
+    "posted_at": "2026-10-28T09:41:17.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/target-group/jobs/senior-data-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/target-group/jobs/senior-data-analyst",
+    "title": "Senior Data Analyst",
+    "company": "Target Group",
+    "company_logo": "https://cdn-images.himalayas.app/yxnkoetrv23rxvmwd8mlp2iii84b",
+    "location": "Remote — United Kingdom only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/target-group/jobs/senior-data-analyst?utm_source=api",
+    "description_snippet": "Senior Data AnalystLocation: Remote or Hybrid (Cardiff) |Salary: Up to £48,000 | Contract: Permanent Join Target Group as a Senior Data Analyst and play a central role in protecting data quality across day-to-day services and client migrations.",
+    "salary": "£48k",
+    "tags": [
+      "data analyst",
+      "business intelligence analyst",
+      "data management analyst",
+      "analytics engineer",
+      "senior level data analyst",
+      "senior data analyst jobs",
+      "senior data analyst roles",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T09:39:18.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/paralucent/jobs/business-analyst-sap-finance-remote-india-pl5346",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/paralucent/jobs/business-analyst-sap-finance-remote-india-pl5346",
+    "title": "Business Analyst (SAP Finance) -Remote India (PL5346)",
+    "company": "Paralucent",
+    "company_logo": "https://cdn-images.himalayas.app/51sne65iuiiiu8v1726cn2y8tcq5",
+    "location": "Remote — India only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/paralucent/jobs/business-analyst-sap-finance-remote-india-pl5346?utm_source=api",
+    "description_snippet": "Business Analyst (SAP Finance) - India - Remote Location: Fully Remote from India Working Hours:Must be able to provide significant overlap with Canadian business hours, with availability until at least3:00 PM EST Contract: 6 months contract MUST have 8+ years as a Business Analyst with strong…",
+    "salary": null,
+    "tags": [
+      "business analyst",
+      "sap business analyst",
+      "sap finance consultant",
+      "functional business analyst",
+      "sap finance business analyst",
+      "remote senior business analyst",
+      "senior sap financial analyst",
+      "senior sap finance consultant",
+      "contractor"
+    ],
+    "seniority": "senior",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T09:13:07.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/amerisourcebergen/jobs/business-intelligence-analyst-ii",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/amerisourcebergen/jobs/business-intelligence-analyst-ii",
+    "title": "Business Intelligence Analyst II",
+    "company": "AmerisourceBergen",
+    "company_logo": "https://cdn-images.himalayas.app/aq2w4r9cfozdwlhf6xnk1q4y5bmq",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/amerisourcebergen/jobs/business-intelligence-analyst-ii?utm_source=api",
+    "description_snippet": "Our team members are at the heart of everything we do.",
+    "salary": "$62k–$98k",
+    "tags": [
+      "business intelligence analyst",
+      "data analyst",
+      "analytics engineer",
+      "reporting analyst",
+      "business intelligence engineer",
+      "data analyst ii",
+      "business intelligence reporting analyst",
+      "full time"
+    ],
+    "seniority": "mid",
+    "role_family": "bi",
+    "posted_at": "2026-10-28T09:02:19.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/relx/jobs/talent-capability-delivery-insights-partner",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/relx/jobs/talent-capability-delivery-insights-partner",
+    "title": "Talent & Capability Delivery & Insights Partner",
+    "company": "RELX",
+    "company_logo": "https://cdn-images.himalayas.app/iqx6hcw5jkeopwsr5qib6gtx475i",
+    "location": "Remote — United Kingdom only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/relx/jobs/talent-capability-delivery-insights-partner?utm_source=api",
+    "description_snippet": "Are you passionate about shaping talent and capability solutions that improve how organisations identify, develop and retain talent?",
+    "salary": null,
+    "tags": [
+      "talent partner",
+      "talent and capability partner",
+      "hr business partner",
+      "people analytics consultant",
+      "talent strategy partner",
+      "talent and learning consultant",
+      "talent solutions partner",
+      "talent enablement manager",
+      "learning and development partner",
+      "talent and performance analyst",
+      "full time"
+    ],
+    "seniority": "mid",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T08:58:43.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/digitall-nature-corp/jobs/senior-business-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/digitall-nature-corp/jobs/senior-business-analyst",
+    "title": "Senior Business Analyst",
+    "company": "DIGITALL Nature Corp",
+    "company_logo": "https://cdn-images.himalayas.app/7dajirl4a9grdu8297zaz3aapomq",
+    "location": "Remote — Bulgaria only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/digitall-nature-corp/jobs/senior-business-analyst?utm_source=api",
+    "description_snippet": "At DIGITALL we dont just deliver technology we deliver the future!",
+    "salary": null,
+    "tags": [
+      "business analyst",
+      "senior business analyst",
+      "product business analyst",
+      "agile business analyst",
+      "senior business analysis",
+      "senior staff business analyst",
+      "senior it business analyst",
+      "senior business systems analyst",
+      "senior business systems analysis",
+      "senior business process analyst",
+      "lead business analyst",
+      "senior business information analyst"
+    ],
+    "seniority": "senior",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T08:55:38.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "greenhouse:sumup:8907454002",
+    "source": "greenhouse",
+    "external_id": "sumup:8907454002",
+    "title": "Senior Risk & Fraud Prevention Analyst",
+    "company": "SumUp",
+    "company_logo": null,
+    "location": "Berlin, Germany",
+    "remote": false,
+    "url": "https://sumup.com/careers/positions/8907454002?gh_jid=8907454002",
+    "description_snippet": "Senior Risk & Fraud Prevention Analyst Berlin, Germany · Office-first · Permanent, full-time Team description Global Fraud Prevention protects SumUp's banking products, from issued cards to cash in and cash out flows, keeping millions of merchants and consumers safe from financial crime. This role…",
+    "salary": null,
+    "tags": [
+      "sumup"
+    ],
+    "seniority": "senior",
+    "role_family": "other-analyst",
+    "posted_at": "2026-10-28T08:32:19.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Greenhouse"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/general-dynamics-information-technology/jobs/power-bi-developer",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/power-bi-developer",
+    "title": "Power BI Developer",
+    "company": "General Dynamics Information Technology",
+    "company_logo": "https://cdn-images.himalayas.app/ohvfbvkyra12vuhjr53nbj4t1ets",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/power-bi-developer?utm_source=api",
+    "description_snippet": "Type of Requisition:RegularClearance Level Must Currently Possess: NoneClearance Level Must Be Able to Obtain: NonePublic Trust/Other Required:BI Full 6C (T4)Job Family: Software EngineeringJob Qualifications:Skills:Business Intelligence (BI), Business Intelligence (BI) Solutions, Business…",
+    "salary": "$77k–$92k",
+    "tags": [
+      "power bi developer",
+      "business intelligence developer",
+      "bi developer",
+      "data analytics developer",
+      "power bi report developer",
+      "power bi development",
+      "power bi engineer",
+      "power bi specialist",
+      "mid level power bi developer",
+      "developer",
+      "full time"
+    ],
+    "seniority": "mid",
+    "role_family": "bi",
+    "posted_at": "2026-10-28T08:31:06.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/rubyplay/jobs/senior-data-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/rubyplay/jobs/senior-data-analyst",
+    "title": "Senior Data Analyst",
+    "company": "RubyPlay",
+    "company_logo": null,
+    "location": "Remote — Poland only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/rubyplay/jobs/senior-data-analyst?utm_source=api",
+    "description_snippet": "RubyPlay is a place where passion meets competence.",
+    "salary": null,
+    "tags": [
+      "data analyst",
+      "business intelligence analyst",
+      "analytics engineer",
+      "senior data analytics",
+      "senior level data analyst",
+      "senior staff data analyst",
+      "senior analytics analyst",
+      "senior data analyst jobs",
+      "senior bi and data analyst",
+      "senior data analyst roles",
+      "senior bi and analytics analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T08:09:51.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/mozilla/jobs/sr-data-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/mozilla/jobs/sr-data-analyst",
+    "title": "Sr Data Analyst",
+    "company": "Mozilla",
+    "company_logo": "https://cdn-images.himalayas.app/5nhwmjwruc9guodan3cbix30c58w",
+    "location": "Remote — Canada only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/mozilla/jobs/sr-data-analyst?utm_source=api",
+    "description_snippet": "The Gecko platform is the core engine of our product experience.",
+    "salary": "C$93k–C$125k",
+    "tags": [
+      "data analyst",
+      "analytics analyst",
+      "telemetry analysis",
+      "business intelligence analyst",
+      "senior level data analyst",
+      "senior data analytics",
+      "senior data analyst jobs",
+      "senior analytics analyst",
+      "senior bi and data analyst",
+      "senior bi analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T08:09:37.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/northbay-solutions/jobs/senior-business-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/northbay-solutions/jobs/senior-business-analyst",
+    "title": "Senior Business Analyst",
+    "company": "NorthBay Solutions",
+    "company_logo": "https://cdn-images.himalayas.app/0smd1iu4n559l048b49evlx8hkx3",
+    "location": "Remote — India only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/northbay-solutions/jobs/senior-business-analyst?utm_source=api",
+    "description_snippet": "Senior Business Analyst Work Arrangement: Remote (India) Employment Type: Full-Time Experience: 8+ years in IT Business Analysis Job OverviewWe are looking for an experienced Senior Business Analyst to lead business requirements gathering, requirements analysis, business process analysis, solution…",
+    "salary": null,
+    "tags": [
+      "business analyst",
+      "senior business analyst",
+      "requirements analyst",
+      "product analyst",
+      "process analyst",
+      "senior business analysis",
+      "senior staff business analyst",
+      "senior it business analyst",
+      "senior business systems analyst",
+      "senior business systems analysis",
+      "senior business process analyst",
+      "lead business analyst"
+    ],
+    "seniority": "senior",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T08:07:32.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/h1-insights/jobs/sr-strategic-insights-manager",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/h1-insights/jobs/sr-strategic-insights-manager",
+    "title": "Sr. Strategic Insights Manager",
+    "company": "H1 Insights",
+    "company_logo": "https://cdn-images.himalayas.app/6reijkarg0ebo638exljufqt34dx",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/h1-insights/jobs/sr-strategic-insights-manager?utm_source=api",
+    "description_snippet": "At H1, we believe access to the best healthcare information is a basic human right.",
+    "salary": "$130k–$160k",
+    "tags": [
+      "strategy and insights manager",
+      "insights manager",
+      "data analytics manager",
+      "life sciences consultant",
+      "business intelligence manager",
+      "marketing insights manager",
+      "strategic analytics manager",
+      "consumer insights manager",
+      "customer insights manager",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T08:05:50.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/ci-t/jobs/job-32415-senior-business-analyst-brazil",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/ci-t/jobs/job-32415-senior-business-analyst-brazil",
+    "title": "[Job-32415] Senior Business Analyst, Brazil",
+    "company": "CI&T",
+    "company_logo": "https://cdn-images.himalayas.app/gwceunf7j5byi79t5d5qq2yjvis9",
+    "location": "Remote — Brazil only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-32415-senior-business-analyst-brazil?utm_source=api",
+    "description_snippet": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
+    "salary": null,
+    "tags": [
+      "business analyst",
+      "senior business analyst",
+      "product owner",
+      "product analyst",
+      "digital product analyst",
+      "senior business analysis",
+      "remote senior business analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T08:02:05.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/ci-t/jobs/job-32414-senior-tech-business-analyst-brazil",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/ci-t/jobs/job-32414-senior-tech-business-analyst-brazil",
+    "title": "[Job-32414] Senior Tech Business Analyst, Brazil",
+    "company": "CI&T",
+    "company_logo": "https://cdn-images.himalayas.app/gwceunf7j5byi79t5d5qq2yjvis9",
+    "location": "Remote — Brazil only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-32414-senior-tech-business-analyst-brazil?utm_source=api",
+    "description_snippet": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
+    "salary": null,
+    "tags": [
+      "technical business analyst",
+      "business analyst",
+      "senior business analyst",
+      "digital marketing analyst",
+      "senior it business analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T07:59:35.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/atomic-hr/jobs/data-analytics-manager-remote-latam-performance-marketing-for-universiti",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/atomic-hr/jobs/data-analytics-manager-remote-latam-performance-marketing-for-universiti",
+    "title": "Data & Analytics Manager - Remote | LATAM | Performance Marketing for Universiti",
+    "company": "Atomic HR",
+    "company_logo": null,
+    "location": "Remote — Guatemala, Mexico",
+    "remote": true,
+    "url": "https://himalayas.app/companies/atomic-hr/jobs/data-analytics-manager-remote-latam-performance-marketing-for-universiti?utm_source=api",
+    "description_snippet": "🏢 About the RoleA mission-driven performance marketing agency is hiring a Data & Analytics Manager to lead reporting, analytics strategy, and performance insights across higher education and nonprofit partners.",
+    "salary": null,
+    "tags": [
+      "data analytics manager",
+      "analytics manager",
+      "marketing analytics manager",
+      "marketing data analyst",
+      "performance marketing manager",
+      "business intelligence and marketing analytics manager",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T07:55:34.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/vsp-vision/jobs/senior-business-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/vsp-vision/jobs/senior-business-analyst",
+    "title": "Senior Business Analyst",
+    "company": "VSP Vision",
+    "company_logo": "https://cdn-images.himalayas.app/qdbcj6l66q45f7l3wcdgcr4ub3pn",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/vsp-vision/jobs/senior-business-analyst?utm_source=api",
+    "description_snippet": "Develop, research, test, and implement business process improvements, procedures, and system changes.",
+    "salary": "$63k–$109k",
+    "tags": [
+      "senior business analyst",
+      "business analyst",
+      "process improvement analyst",
+      "requirements analyst",
+      "senior business analysis",
+      "senior staff business analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "business-analyst",
+    "posted_at": "2026-10-28T07:49:28.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/tailored-brands-inc/jobs/sr-data-analyst-store-analytics",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/tailored-brands-inc/jobs/sr-data-analyst-store-analytics",
+    "title": "Sr Data Analyst - Store Analytics",
+    "company": "Tailored Brands",
+    "company_logo": "https://cdn-images.himalayas.app/wq17prvbw7qlubr9as7oywsfhb4m",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/tailored-brands-inc/jobs/sr-data-analyst-store-analytics?utm_source=api",
+    "description_snippet": "Tailored Brands is a leading specialty retailer of menswear, including suits, formalwear, sportswear, and a broad selection of business casual offerings.",
+    "salary": "$107k–$145k",
+    "tags": [
+      "data analyst",
+      "business intelligence analyst",
+      "analytics consultant",
+      "store performance analyst",
+      "senior retail data analyst",
+      "retail data analyst",
+      "senior analytics analyst",
+      "senior data analytics",
+      "store operations analyst",
+      "senior level data analyst",
+      "senior data analyst jobs",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "data-analyst",
+    "posted_at": "2026-10-28T07:42:30.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/highmark-health/jobs/summer-2027-customer-experience-analyst-graduate-intern",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/highmark-health/jobs/summer-2027-customer-experience-analyst-graduate-intern",
+    "title": "Summer 2027 Customer Experience Analyst Graduate Intern",
+    "company": "Highmark Health",
+    "company_logo": "https://cdn-images.himalayas.app/hm0cxl7gpqm79vns491v5oz1s5zz",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/highmark-health/jobs/summer-2027-customer-experience-analyst-graduate-intern?utm_source=api",
+    "description_snippet": "Company :United Concordia DentalJob Description : Applicants must be authorized to work in the U.",
+    "salary": null,
+    "tags": [
+      "customer experience analyst",
+      "user experience analyst",
+      "analytics analyst",
+      "digital strategy analyst",
+      "customer insights analyst",
+      "customer experience intern",
+      "intern"
+    ],
+    "seniority": "entry",
+    "role_family": "other-analyst",
+    "posted_at": "2026-10-28T07:27:50.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
     "id": "greenhouse:agoda:8326303",
     "source": "greenhouse",
     "external_id": "agoda:8326303",
@@ -17,8 +620,98 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-28T05:33:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/blueprint-ai/jobs/power-bi-business-systems-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/blueprint-ai/jobs/power-bi-business-systems-analyst",
+    "title": "Power BI & Business Systems Analyst",
+    "company": "Blueprint",
+    "company_logo": "https://cdn-images.himalayas.app/crq41ytncp2keikumqp8jjklp59s",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/blueprint-ai/jobs/power-bi-business-systems-analyst?utm_source=api",
+    "description_snippet": "About BlueprintBlueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States.",
+    "salary": "$30–$33",
+    "tags": [
+      "business intelligence analyst",
+      "power bi analyst",
+      "business systems analyst",
+      "reporting analyst",
+      "analytics consultant",
+      "it business systems analyst",
+      "senior power bi developer",
+      "senior business systems analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "bi",
+    "posted_at": "2026-10-28T04:39:43.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-risk-adjustment-coding-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-risk-adjustment-coding-analyst",
+    "title": "Senior Risk Adjustment Coding Analyst",
+    "company": "CenterWell Senior Primary Care",
+    "company_logo": null,
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-risk-adjustment-coding-analyst?utm_source=api",
+    "description_snippet": "Become a part of our caring community The Senior Clinical Operations Professional designs and implements initiatives that optimize clinical operations and enhance care delivery across aligned area(s), or the organization.",
+    "salary": "$86k–$119k",
+    "tags": [
+      "risk adjustment analyst",
+      "risk adjustment specialist",
+      "clinical operations analyst",
+      "clinical operations specialist",
+      "health data analyst",
+      "risk adjustment coding specialist",
+      "risk adjustment coder",
+      "risk adjustment medical coder",
+      "senior coding audit analyst",
+      "senior medical coder",
+      "healthcare coding analyst",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "other-analyst",
+    "posted_at": "2026-10-28T04:37:53.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
+  },
+  {
+    "id": "himalayas:https://himalayas.app/companies/rtx/jobs/manager-project-cost-reporting-analyst",
+    "source": "himalayas",
+    "external_id": "https://himalayas.app/companies/rtx/jobs/manager-project-cost-reporting-analyst",
+    "title": "Manager - Project Cost Reporting Analyst",
+    "company": "RTX",
+    "company_logo": "https://cdn-images.himalayas.app/x5w7ff5sveyxb57w8jli1v0tu1bx",
+    "location": "Remote — United States only",
+    "remote": true,
+    "url": "https://himalayas.app/companies/rtx/jobs/manager-project-cost-reporting-analyst?utm_source=api",
+    "description_snippet": "Date Posted:2026-10-26Country:United States of AmericaLocation:US-IA-REMOTEPosition Role Type:RemoteU.",
+    "salary": "$108k–$205k",
+    "tags": [
+      "cost reporting analyst",
+      "project cost analyst",
+      "cost analyst",
+      "financial analyst",
+      "project controls analyst",
+      "cost reporting manager",
+      "cost analysis manager",
+      "project cost manager",
+      "full time"
+    ],
+    "seniority": "senior",
+    "role_family": "bi",
+    "posted_at": "2026-10-28T04:21:12.000Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Himalayas"
   },
   {
     "id": "arbeitnow:contract-senior-data-analyst-sqltelemetrybrowser-engine-448338",
@@ -38,7 +731,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-28T03:55:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -59,7 +752,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-28T03:55:18.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -82,7 +775,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-28T03:31:24.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -109,7 +802,7 @@
     "seniority": "mid",
     "role_family": "other-analyst",
     "posted_at": "2026-10-28T03:01:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -130,7 +823,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-28T02:30:21.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -161,7 +854,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-28T01:04:11.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -183,7 +876,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-28T00:40:16.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -206,7 +899,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-28T00:31:40.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -235,7 +928,7 @@
     "seniority": "mid",
     "role_family": "business-analyst",
     "posted_at": "2026-10-28T00:26:04.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -256,7 +949,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-28T00:05:27.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -284,7 +977,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T23:39:45.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -305,7 +998,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T21:55:17.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -337,58 +1030,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T21:43:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "arbeitnow:deals-analytics-value-capture-manager-london-402317",
-    "source": "arbeitnow",
-    "external_id": "deals-analytics-value-capture-manager-london-402317",
-    "title": "Deals Analytics/Value Capture Manager",
-    "company": "Unity Advisory",
-    "company_logo": null,
-    "location": "London, Mayfair",
-    "remote": false,
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/deals-analytics-value-capture-manager-london-402317",
-    "description_snippet": "About Unity Advisory Unity Advisory is a modern advisory business built for today's CFO, with connected solutions across finance, deals and tax. Focussed on client outcomes, seasoned experts lead every engagement, in an operating model powered by AI and free from audit conflict. The Role As a…",
-    "salary": null,
-    "tags": [
-      "deals",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T21:40:18.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Arbeitnow"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/exadel/jobs/data-analyst-sales-operations",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/exadel/jobs/data-analyst-sales-operations",
-    "title": "Data Analyst (Sales Operations)",
-    "company": "Exadel",
-    "company_logo": "https://cdn-images.himalayas.app/0l9or0sz8midtvrbv8stosd66xbh",
-    "location": "Remote — Bulgaria, Georgia, Poland, Romania +1 more",
-    "remote": true,
-    "url": "https://himalayas.app/companies/exadel/jobs/data-analyst-sales-operations?utm_source=api",
-    "description_snippet": "Why Join ExadelWe’re an AI-first global tech company with 25+ years of engineering leadership, 2,000+ team members, and 500+ active projects powering Fortune 500 clients, including HBO, Microsoft, Google, and Starbucks.",
-    "salary": null,
-    "tags": [
-      "data analyst",
-      "sales operations analyst",
-      "crm data analyst",
-      "sales operations specialist",
-      "sales operations data analyst",
-      "sales data analyst",
-      "operations data analyst",
-      "sales analyst",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T21:06:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -415,7 +1057,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T20:44:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -442,7 +1084,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T20:13:50.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -466,7 +1108,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T19:15:15.880Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -490,7 +1132,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T19:15:08.634Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -519,7 +1161,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T19:14:19.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -540,38 +1182,8 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T18:55:32.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/first-american/jobs/business-system-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/first-american/jobs/business-system-analyst",
-    "title": "Business System Analyst",
-    "company": "First American",
-    "company_logo": "https://cdn-images.himalayas.app/sqm26eqo5rjffqnrvv1vryo6rimz",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/first-american/jobs/business-system-analyst?utm_source=api",
-    "description_snippet": "Who We AreJoin a team that puts its People First!",
-    "salary": "$74k–$99k",
-    "tags": [
-      "business systems analyst",
-      "business analyst",
-      "systems analyst",
-      "requirements analyst",
-      "process analyst",
-      "it business systems analyst",
-      "systems business analyst",
-      "system business analyst",
-      "business system analysis",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-27T18:43:14.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
   },
   {
     "id": "arbeitnow:senior-business-analyst-deadline-03-11-2026-amsterdam-94749",
@@ -593,7 +1205,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T18:31:28.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -623,7 +1235,7 @@
     "seniority": "mid",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T18:18:57.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -644,7 +1256,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-27T17:34:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -672,7 +1284,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T15:41:00.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -694,7 +1306,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T15:40:33.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -716,7 +1328,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-27T15:37:03.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -745,7 +1357,7 @@
     "seniority": "entry",
     "role_family": "product-analytics",
     "posted_at": "2026-10-27T15:29:53.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -767,8 +1379,32 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T15:28:50.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
+  },
+  {
+    "id": "ashby:pleo:f7088170-f17d-4eb1-b6e8-cb947d2bb769",
+    "source": "ashby",
+    "external_id": "pleo:f7088170-f17d-4eb1-b6e8-cb947d2bb769",
+    "title": "Staff Analytics Engineer",
+    "company": "Pleo",
+    "company_logo": null,
+    "location": "Remote — United Kingdom; Denmark; Portugal; Spain",
+    "remote": true,
+    "url": "https://jobs.ashbyhq.com/pleo/f7088170-f17d-4eb1-b6e8-cb947d2bb769",
+    "description_snippet": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees…",
+    "salary": null,
+    "tags": [
+      "pleo",
+      "data",
+      "fulltime",
+      "remote"
+    ],
+    "seniority": "senior",
+    "role_family": "analytics-engineering",
+    "posted_at": "2026-10-27T15:26:25.925Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
+    "via": "Ashby"
   },
   {
     "id": "ashby:backmarket:fb5d65f8-3619-46fa-8397-43d9ec1450f6",
@@ -792,7 +1428,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T14:33:20.129Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -824,7 +1460,7 @@
     "seniority": "mid",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T14:29:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -848,7 +1484,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-27T14:18:44.005Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -869,7 +1505,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T14:07:53.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -892,7 +1528,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T14:02:33.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -918,7 +1554,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T13:59:58.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -942,7 +1578,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T13:27:12.194Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -966,7 +1602,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T13:26:24.045Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -990,7 +1626,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T13:17:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -1013,7 +1649,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T12:51:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -1043,7 +1679,7 @@
     "seniority": "mid",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T12:43:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -1070,7 +1706,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T12:16:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -1091,99 +1727,8 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T11:26:16.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/brown-university-health/jobs/sr-clinical-trials-data-and-technology-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/brown-university-health/jobs/sr-clinical-trials-data-and-technology-analyst",
-    "title": "Sr Clinical Trials Data and Technology Analyst",
-    "company": "Brown University Health",
-    "company_logo": "https://cdn-images.himalayas.app/gbupzrid9dvday9j6kczyepazccl",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/brown-university-health/jobs/sr-clinical-trials-data-and-technology-analyst?utm_source=api",
-    "description_snippet": "The Senior Clinical Trials Data and Technology Analyst serves as a senior technical resource for the clinical research applications, data integrations, analytics, and reporting solutions managed by the Center for Clinical Research Management (CCRM).",
-    "salary": "$86k–$143k",
-    "tags": [
-      "clinical data analyst",
-      "clinical research systems specialist",
-      "informatics analyst",
-      "business intelligence analyst",
-      "senior clinical data analyst",
-      "senior clinical data management specialist",
-      "clinical trials systems analyst",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T11:13:15.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/doit-international/jobs/analytics-engineer",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/doit-international/jobs/analytics-engineer",
-    "title": "Analytics Engineer",
-    "company": "DoiT International",
-    "company_logo": "https://cdn-images.himalayas.app/783hl6hojaixfjsg0zz0dj37u8x6",
-    "location": "Remote — Colombia, Mexico",
-    "remote": true,
-    "url": "https://himalayas.app/companies/doit-international/jobs/analytics-engineer?utm_source=api",
-    "description_snippet": "LocationAs an Analytics Engineer, you will join the Business Intelligence team within Business Systems Engineering, a group of several teams that builds and runs the systems the company operates on.",
-    "salary": null,
-    "tags": [
-      "analytics engineer",
-      "data engineer",
-      "business intelligence engineer",
-      "analytics software engineer",
-      "data analysis engineer",
-      "analytics engineering",
-      "analytics engineering jobs",
-      "business analytics engineer",
-      "analytics platform engineer",
-      "digital analytics engineer",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "analytics-engineering",
-    "posted_at": "2026-10-27T11:01:18.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/five-sigma/jobs/business-data-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/five-sigma/jobs/business-data-analyst",
-    "title": "Business & Data Analyst",
-    "company": "Five Sigma",
-    "company_logo": "https://cdn-images.himalayas.app/v4ufxgca7gmgkznsbw47rdam4kpa",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/five-sigma/jobs/business-data-analyst?utm_source=api",
-    "description_snippet": "DescriptionFive Sigma is an AI-native InsurTech company transforming the insurance claims management industry.",
-    "salary": null,
-    "tags": [
-      "business analyst",
-      "data analyst",
-      "business systems analyst",
-      "insurance technology analyst",
-      "implementation analyst",
-      "business data analyst",
-      "data business analyst",
-      "business information analyst",
-      "analytics business analyst",
-      "business intelligence analyst",
-      "data business analysis",
-      "business data analysis"
-    ],
-    "seniority": "mid",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T10:54:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
   },
   {
     "id": "jobicy:157327",
@@ -1204,7 +1749,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T09:51:24.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -1226,7 +1771,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T09:51:19.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -1247,7 +1792,7 @@
     "seniority": "unknown",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T09:36:03.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -1268,92 +1813,8 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T09:32:42.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/ci-t/jobs/job-32428-senior-data-analytics-specialist-brazil",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/ci-t/jobs/job-32428-senior-data-analytics-specialist-brazil",
-    "title": "[Job-32428] Senior Data & Analytics Specialist, Brazil",
-    "company": "CI&T",
-    "company_logo": "https://cdn-images.himalayas.app/gwceunf7j5byi79t5d5qq2yjvis9",
-    "location": "Remote — Brazil only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/ci-t/jobs/job-32428-senior-data-analytics-specialist-brazil?utm_source=api",
-    "description_snippet": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
-    "salary": null,
-    "tags": [
-      "analytics developer",
-      "analytics engineer",
-      "data engineer",
-      "business intelligence developer",
-      "data modeler",
-      "senior analytics specialist",
-      "senior data specialist",
-      "senior data analytics",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T09:32:10.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/consensus-cloud-solutions-inc/jobs/revenue-analytics-associate",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/consensus-cloud-solutions-inc/jobs/revenue-analytics-associate",
-    "title": "Revenue Analytics Associate",
-    "company": "Consensus Cloud Solutions",
-    "company_logo": "https://cdn-images.himalayas.app/bt0f8yns3aqy8yeza7p52n60i52i",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/consensus-cloud-solutions-inc/jobs/revenue-analytics-associate?utm_source=api",
-    "description_snippet": "Consensus Cloud Solutions is a publicly traded, leading digital cloud fax and interoperability solutions organization in the United States and globally, focusing on connecting and empowering healthcare providers, payers, care teams, and technology innovators to unify multiple systems that wouldn’t…",
-    "salary": "$118k–$130k",
-    "tags": [
-      "revenue analyst",
-      "revenue operations analyst",
-      "sales operations analyst",
-      "business analyst",
-      "analytics consultant",
-      "revenue analytics specialist",
-      "revenue strategy analyst",
-      "revenue business analyst",
-      "full time"
-    ],
-    "seniority": "entry",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T09:30:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/twilio/jobs/sr-director-marketing-strategy-analytics-innovation",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/twilio/jobs/sr-director-marketing-strategy-analytics-innovation",
-    "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
-    "company": "Twilio",
-    "company_logo": "https://cdn-images.himalayas.app/540gx6w3jpqpbhcthgz9624mrm98",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/twilio/jobs/sr-director-marketing-strategy-analytics-innovation?utm_source=api",
-    "description_snippet": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes.",
-    "salary": "$228k–$335k",
-    "tags": [
-      "strategic marketing director",
-      "marketing analytics director",
-      "marketing strategy director",
-      "marketing director",
-      "senior marketing director",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T09:23:29.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
   },
   {
     "id": "himalayas:https://himalayas.app/companies/thehivecareers/jobs/business-analyst-agile-5298847453",
@@ -1381,336 +1842,7 @@
     "seniority": "mid",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T09:13:55.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/prometeo-talent/jobs/data-analyst-100-remote-latam-ph",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/prometeo-talent/jobs/data-analyst-100-remote-latam-ph",
-    "title": "Data Analyst | 100% Remote | LATAM - PH",
-    "company": "Prometeo Talent",
-    "company_logo": "https://cdn-images.himalayas.app/co7b2em2ixev8tew9sigtkuxveqr",
-    "location": "Remote — Guatemala only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/prometeo-talent/jobs/data-analyst-100-remote-latam-ph?utm_source=api",
-    "description_snippet": "Data AnalystAbout UsPrometeo Talent is a recruitment agency with a strong presence across the Americas and Europe.",
-    "salary": null,
-    "tags": [
-      "data analyst",
-      "business intelligence analyst",
-      "reporting analyst",
-      "data analytics specialist",
-      "remote data analyst",
-      "full time"
-    ],
-    "seniority": "entry",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T09:01:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/the-helmsman-group-llc/jobs/business-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/the-helmsman-group-llc/jobs/business-analyst",
-    "title": "BUSINESS ANALYST",
-    "company": "The Helmsman Group",
-    "company_logo": "https://cdn-images.himalayas.app/cbho3ulpu2y78diogqdbwaofqf7w",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/the-helmsman-group-llc/jobs/business-analyst?utm_source=api",
-    "description_snippet": "Position: Business AnalystJob Type: (Remote)We are seeking a detail-oriented and analytical Business Analyst to join our team.",
-    "salary": null,
-    "tags": [
-      "business analyst",
-      "requirements analyst",
-      "systems analyst",
-      "process analyst",
-      "business analysis",
-      "is business analyst",
-      "business systems analyst",
-      "it business analysts",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "business-analyst",
-    "posted_at": "2026-10-27T06:52:17.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/ge-healthcare/jobs/digital-analytics-leader",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/ge-healthcare/jobs/digital-analytics-leader",
-    "title": "Digital Analytics Leader",
-    "company": "GE HealthCare",
-    "company_logo": "https://cdn-images.himalayas.app/osoon1pewm898snf9jspqkt8eyyz",
-    "location": "Remote — Brazil only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/ge-healthcare/jobs/digital-analytics-leader?utm_source=api",
-    "description_snippet": "Job Description SummaryThe Digital Analytics Leader serves as the analytics business partner for a key commercial area of GE HealthCare’s global marketing organization and owns the analytics products built for it.",
-    "salary": null,
-    "tags": [
-      "digital analytics manager",
-      "analytics product manager",
-      "business intelligence manager",
-      "marketing analytics manager",
-      "digital analytics lead",
-      "digital analytics director",
-      "senior digital analytics manager",
-      "analytics lead",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T06:49:27.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/vetsource/jobs/senior-business-analyst-enterprise-systems",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/vetsource/jobs/senior-business-analyst-enterprise-systems",
-    "title": "Senior Business Analyst - Enterprise Systems",
-    "company": "Vetsource",
-    "company_logo": "https://cdn-images.himalayas.app/bw91ajy8zq28lf5lxpv4zkfvauzj",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/vetsource/jobs/senior-business-analyst-enterprise-systems?utm_source=api",
-    "description_snippet": "Pets deserve the best care. At Vetsource, we build the foundation for success, enabling those in the pet healthcare profession and industry to thrive.",
-    "salary": "$120k–$140k",
-    "tags": [
-      "business analyst",
-      "erp business analyst",
-      "enterprise systems analyst",
-      "oracle erp analyst",
-      "financial systems analyst",
-      "enterprise systems business analyst",
-      "senior business systems analyst",
-      "senior business systems analysis",
-      "enterprise business analyst",
-      "senior business analyst",
-      "senior it business analyst",
-      "senior business analysis"
-    ],
-    "seniority": "senior",
-    "role_family": "business-analyst",
-    "posted_at": "2026-10-27T06:43:44.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/experity/jobs/data-analyst-lead-full-time",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/experity/jobs/data-analyst-lead-full-time",
-    "title": "Data Analyst Lead - Full Time",
-    "company": "Experity",
-    "company_logo": "https://cdn-images.himalayas.app/gy4fpii1f59j9g6zup3b2jkmsedy",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/experity/jobs/data-analyst-lead-full-time?utm_source=api",
-    "description_snippet": "Experity is a mission-driven team transforming on-demand healthcare across the U.",
-    "salary": "$95k–$124k",
-    "tags": [
-      "data analyst",
-      "business intelligence analyst",
-      "analytics engineer",
-      "data engineering manager",
-      "data analyst lead",
-      "data analytics lead",
-      "data analytics team lead",
-      "analytics lead",
-      "senior analytics lead",
-      "bi lead analyst",
-      "data analytics and insights lead",
-      "senior level data analyst"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T06:38:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/brown-university-health/jobs/clinical-trials-data-and-technology-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/brown-university-health/jobs/clinical-trials-data-and-technology-analyst",
-    "title": "Clinical Trials Data and Technology Analyst",
-    "company": "Brown University Health",
-    "company_logo": "https://cdn-images.himalayas.app/gbupzrid9dvday9j6kczyepazccl",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/brown-university-health/jobs/clinical-trials-data-and-technology-analyst?utm_source=api",
-    "description_snippet": "SUMMARY:The Clinical Trials Data and Technology Analyst plays a pivotal role specializing in the development and advancement of our data-driven applications (OnCore, eReg, OnCore/Epic interface, Fabric, Snowflake).",
-    "salary": "$78k–$129k",
-    "tags": [
-      "clinical data analyst",
-      "data analyst",
-      "data engineer",
-      "business intelligence analyst",
-      "clinical systems analyst",
-      "clinical research data analyst",
-      "clinical trials analyst",
-      "clinical trials systems analyst",
-      "clinical trial management analyst",
-      "clinical research data specialist",
-      "clinical research analyst",
-      "clinical trials it business analyst"
-    ],
-    "seniority": "mid",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T06:25:35.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/genesis-consulting-partners-llc/jobs/it-business-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/genesis-consulting-partners-llc/jobs/it-business-analyst",
-    "title": "IT Business Analyst",
-    "company": "Genesis Consulting Partners",
-    "company_logo": "https://cdn-images.himalayas.app/bez3pvfanhva128orkgd61bzt3xv",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/genesis-consulting-partners-llc/jobs/it-business-analyst?utm_source=api",
-    "description_snippet": "This is a remote position. Job Title:ITBusiness Analyst Job Location: Remote withtravel to client sites in Virginia / Marylandonoccasion.",
-    "salary": null,
-    "tags": [
-      "it business analysts",
-      "business analyst",
-      "requirements analyst",
-      "healthcare it analyst",
-      "its business analyst",
-      "it business systems analyst",
-      "it implementation business analyst",
-      "it business process analyst",
-      "technical business analyst",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "business-analyst",
-    "posted_at": "2026-10-27T06:25:35.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/norton-healthcare/jobs/business-application-systems-analyst-epic-hospital-billing-senior-is-patient",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/norton-healthcare/jobs/business-application-systems-analyst-epic-hospital-billing-senior-is-patient",
-    "title": "Business Application Systems Analyst Epic Hospital Billing - Senior, IS Patient",
-    "company": "Norton Healthcare",
-    "company_logo": "https://cdn-images.himalayas.app/1n2406gpam64a4mgno3e72r371ah",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/norton-healthcare/jobs/business-application-systems-analyst-epic-hospital-billing-senior-is-patient?utm_source=api",
-    "description_snippet": "Responsibilities Under minimal supervision, the Senior Business Applications Systems Analyst Epic - Hospital Billing (HB) defines system scope and objectives based on user needs.",
-    "salary": null,
-    "tags": [
-      "business systems analyst",
-      "systems application analyst",
-      "healthcare systems analyst",
-      "epic analyst",
-      "epic hospital billing analyst",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-27T06:25:05.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/guidehouse/jobs/automation-analytics-senior-consultant-healthcare-financial-transformation",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/guidehouse/jobs/automation-analytics-senior-consultant-healthcare-financial-transformation",
-    "title": "Automation & Analytics Senior Consultant - Healthcare Financial Transformation",
-    "company": "Guidehouse",
-    "company_logo": "https://cdn-images.himalayas.app/ks5m3qmjuhimg4pvxi9rfgdnavoh",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/guidehouse/jobs/automation-analytics-senior-consultant-healthcare-financial-transformation?utm_source=api",
-    "description_snippet": "Job Family:Finance & Accounting ConsultingTravel Required:Up to 75%+Clearance Required:NoneWhat You Will Do:As an Automation and Analytics Senior Consultant, you will be a member of our Healthcare Revenue Cycle Management practice and part of a team responsible for solving the most complex and…",
-    "salary": "$89k–$148k",
-    "tags": [
-      "senior consultant",
-      "healthcare consultant",
-      "financial consultant",
-      "analytics consultant",
-      "revenue cycle consultant",
-      "senior healthcare financial consultant",
-      "senior healthcare revenue cycle consultant",
-      "senior healthcare technology consultant",
-      "healthcare automation analyst",
-      "senior healthcare business intelligence specialist",
-      "senior data and analytics consultant",
-      "senior analytics consultant"
-    ],
-    "seniority": "senior",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T06:23:40.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/stord/jobs/bi-analytics-engineer",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/stord/jobs/bi-analytics-engineer",
-    "title": "BI Analytics Engineer",
-    "company": "Stord",
-    "company_logo": "https://cdn-images.himalayas.app/ww551tr3endzna98dakrkxhoe1mn",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/stord/jobs/bi-analytics-engineer?utm_source=api",
-    "description_snippet": "ABOUT STORD Stord is The Consumer Experience Company, powering seamless checkout through delivery for today's leading brands.",
-    "salary": null,
-    "tags": [
-      "business intelligence analyst",
-      "analytics engineer",
-      "data analyst",
-      "bi and analytics engineer",
-      "bi analytics engineering",
-      "business analytics engineer",
-      "bi data analytics engineering",
-      "business intelligence engineer",
-      "bi and analytics engineering",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "analytics-engineering",
-    "posted_at": "2026-10-27T05:35:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/great-minds/jobs/lead-operations-demand-planning-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/great-minds/jobs/lead-operations-demand-planning-analyst",
-    "title": "Lead Operations Demand Planning Analyst",
-    "company": "Great Minds",
-    "company_logo": "https://cdn-images.himalayas.app/0rsopavss1rvffgkyvnjfloefe6k",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/great-minds/jobs/lead-operations-demand-planning-analyst?utm_source=api",
-    "description_snippet": "Who We AreGreat Minds is a high-growth, mission-driven organization founded by educators in 2007.",
-    "salary": "$94k–$102k",
-    "tags": [
-      "demand planning analyst",
-      "supply chain analyst",
-      "operations analyst",
-      "business intelligence analyst",
-      "supply chain planning manager",
-      "lead operations analyst",
-      "supply chain planning lead",
-      "demand planning specialist",
-      "supply chain planning analyst",
-      "senior operations planner",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-27T04:51:04.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -1740,39 +1872,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-27T03:55:06.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/the-helmsman-group-llc/jobs/data-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/the-helmsman-group-llc/jobs/data-analyst",
-    "title": "DATA ANALYST",
-    "company": "The Helmsman Group",
-    "company_logo": "https://cdn-images.himalayas.app/cbho3ulpu2y78diogqdbwaofqf7w",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/the-helmsman-group-llc/jobs/data-analyst?utm_source=api",
-    "description_snippet": "POSITION: Data Entry ClerkJob Type: (Remote)We are seeking a detail-oriented and analytical Data Analyst to join our team.",
-    "salary": null,
-    "tags": [
-      "data analyst",
-      "data entry clerk",
-      "business intelligence analyst",
-      "reporting analyst",
-      "analytics analyst",
-      "data science analyst",
-      "financial data analyst",
-      "it data analyst",
-      "associate data analyst",
-      "data analytics specialist",
-      "research data analyst",
-      "data intelligence analyst"
-    ],
-    "seniority": "mid",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-27T03:52:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -1793,36 +1893,8 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-27T02:37:16.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/enlyte-group-llc/jobs/senior-strategy-planning-analyst",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/enlyte-group-llc/jobs/senior-strategy-planning-analyst",
-    "title": "Senior Strategy & Planning Analyst",
-    "company": "Enlyte Group",
-    "company_logo": "https://cdn-images.himalayas.app/xlwrknh67mcjoe36oh6brs4zxmqr",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/enlyte-group-llc/jobs/senior-strategy-planning-analyst?utm_source=api",
-    "description_snippet": "Company Overview At Enlyte, we combine innovative technology, clinical expertise, and human compassion to help people recover after workplace injuries or auto accidents.",
-    "salary": "$105k–$125k",
-    "tags": [
-      "strategy analyst",
-      "business strategy analyst",
-      "strategic planning analyst",
-      "market strategy analyst",
-      "business analyst",
-      "senior strategy analyst",
-      "senior planning analyst",
-      "full time"
-    ],
-    "seniority": "senior",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-27T02:00:03.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
   },
   {
     "id": "himalayas:https://himalayas.app/companies/social-discovery-ventures/jobs/senior-product-analyst-matchmaking",
@@ -1848,7 +1920,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-27T01:16:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -1870,7 +1942,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-27T00:40:11.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -1895,7 +1967,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-26T20:19:45.029Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -1916,7 +1988,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-26T20:00:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -1937,7 +2009,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T19:17:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -1958,7 +2030,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-26T17:54:03.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -1979,7 +2051,7 @@
     "seniority": "mid",
     "role_family": "business-analyst",
     "posted_at": "2026-10-26T17:54:01.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -2003,7 +2075,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-26T17:17:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2024,7 +2096,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-26T15:54:46.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -2048,7 +2120,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T14:01:12.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2070,7 +2142,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-26T13:16:32.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2098,7 +2170,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-26T13:15:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -2130,7 +2202,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-26T13:00:22.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Himalayas"
   },
   {
@@ -2151,7 +2223,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T12:55:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2173,7 +2245,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T12:40:12.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2198,7 +2270,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-26T12:03:01.434Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -2220,7 +2292,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T10:55:52.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2242,7 +2314,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-26T10:54:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2264,7 +2336,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T07:30:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2286,29 +2358,8 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-26T07:23:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
-  },
-  {
-    "id": "arbeitnow:consultant-data-analyst-marketing-f-h-paris-299001",
-    "source": "arbeitnow",
-    "external_id": "consultant-data-analyst-marketing-f-h-paris-299001",
-    "title": "Consultant Data Analyst Marketing - F/H",
-    "company": "Vmlenterprisesolutions",
-    "company_logo": null,
-    "location": "Paris",
-    "remote": false,
-    "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-data-analyst-marketing-f-h-paris-299001",
-    "description_snippet": "Who We Are WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization, connecting strategy directly to execution.…",
-    "salary": null,
-    "tags": [
-      "marketing effectiveness & intelligence"
-    ],
-    "seniority": "unknown",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-26T06:55:25.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Arbeitnow"
   },
   {
     "id": "jobicy:154067",
@@ -2329,7 +2380,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-26T04:20:15.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2351,72 +2402,8 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-26T04:15:30.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/medvidi/jobs/ai-product-analyst-automation-team-6420109969",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/medvidi/jobs/ai-product-analyst-automation-team-6420109969",
-    "title": "AI Product Analyst - Automation team",
-    "company": "MEDvidi",
-    "company_logo": "https://cdn-images.himalayas.app/ua7057sj57c1k5ygwyeqyi2lb3ht",
-    "location": "Remote — Spain only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/medvidi/jobs/ai-product-analyst-automation-team-6420109969?utm_source=api",
-    "description_snippet": "DescriptionAt MEDvidi, the Automation team builds and operates a mix of AI and conventional product features that automate clinical and operational workflows - from AI-drafted medical documentation to automated resolution of patient issues, intake verification flows, provider tooling, and the…",
-    "salary": null,
-    "tags": [
-      "ai product analyst",
-      "product analyst",
-      "data analyst",
-      "ai evaluation specialist",
-      "ai automation product management",
-      "ai product business analyst",
-      "ai product data analyst",
-      "automation and ai analyst",
-      "ai product analytics",
-      "product management (ai)",
-      "ai product management",
-      "full time"
-    ],
-    "seniority": "mid",
-    "role_family": "product-analytics",
-    "posted_at": "2026-10-25T20:15:48.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
-  },
-  {
-    "id": "himalayas:https://himalayas.app/companies/pdi-technologies/jobs/customer-service-analyst-mid-level",
-    "source": "himalayas",
-    "external_id": "https://himalayas.app/companies/pdi-technologies/jobs/customer-service-analyst-mid-level",
-    "title": "Customer Service Analyst (Mid-Level)",
-    "company": "PDI Technologies",
-    "company_logo": "https://cdn-images.himalayas.app/n3qdeln1ngtcirkk13sqr0n4wy0p",
-    "location": "Remote — United States only",
-    "remote": true,
-    "url": "https://himalayas.app/companies/pdi-technologies/jobs/customer-service-analyst-mid-level?utm_source=api",
-    "description_snippet": "At PDI Technologies, we empower some of the world's leading convenience retail and petroleum brands with cutting-edge technology solutions that drive growth and operational efficiency.",
-    "salary": null,
-    "tags": [
-      "customer service analyst",
-      "customer support specialist",
-      "technical support specialist",
-      "software support analyst",
-      "customer support analyst",
-      "customer care analyst",
-      "customer service quality analyst",
-      "client service analyst",
-      "contact center analyst",
-      "customer operations analyst",
-      "service center analyst",
-      "client support analyst"
-    ],
-    "seniority": "mid",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-25T14:57:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Himalayas"
   },
   {
     "id": "arbeitnow:meewerk-stage-continuous-improvement-power-bi-power-automate-oirschot-359031",
@@ -2438,7 +2425,7 @@
     "seniority": "unknown",
     "role_family": "bi",
     "posted_at": "2026-10-25T12:51:22.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2460,7 +2447,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-25T11:15:17.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2482,7 +2469,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-25T10:45:07.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2504,7 +2491,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-25T09:26:04.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2527,7 +2514,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-25T09:00:59.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2550,7 +2537,7 @@
     "seniority": "unknown",
     "role_family": "bi",
     "posted_at": "2026-10-25T09:00:56.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2572,7 +2559,7 @@
     "seniority": "unknown",
     "role_family": "product-analytics",
     "posted_at": "2026-10-25T04:15:30.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2595,7 +2582,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-25T03:31:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2618,7 +2605,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-25T03:31:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2640,7 +2627,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-25T03:31:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2663,54 +2650,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-25T03:31:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Arbeitnow"
-  },
-  {
-    "id": "arbeitnow:business-risk-analyst-trading-processes-bank-zurich-364666",
-    "source": "arbeitnow",
-    "external_id": "business-risk-analyst-trading-processes-bank-zurich-364666",
-    "title": "Business Risk Analyst Trading Processes Bank",
-    "company": "coni+partner AG",
-    "company_logo": null,
-    "location": "Zürich",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/business-risk-analyst-trading-processes-bank-zurich-364666",
-    "description_snippet": "coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as…",
-    "salary": null,
-    "tags": [
-      "business analyst",
-      "indefinite contract (unbefristeter arbeitsvertrag)",
-      "professional / experienced"
-    ],
-    "seniority": "unknown",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-24T06:30:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Arbeitnow"
-  },
-  {
-    "id": "arbeitnow:quantitative-risk-analyst-cisa-ucits-and-aif-funds-zurich-373956",
-    "source": "arbeitnow",
-    "external_id": "quantitative-risk-analyst-cisa-ucits-and-aif-funds-zurich-373956",
-    "title": "Quantitative Risk Analyst CISA, UCITS and AIF Funds",
-    "company": "coni+partner AG",
-    "company_logo": null,
-    "location": "Zürich",
-    "remote": false,
-    "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/quantitative-risk-analyst-cisa-ucits-and-aif-funds-zurich-373956",
-    "description_snippet": "coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as…",
-    "salary": null,
-    "tags": [
-      "asset",
-      "fonds management",
-      "indefinite contract (unbefristeter arbeitsvertrag)",
-      "professional / experienced"
-    ],
-    "seniority": "unknown",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-24T06:00:42.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2734,7 +2674,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-24T06:00:42.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2756,7 +2696,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-24T03:45:25.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2778,7 +2718,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-24T03:45:06.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2802,7 +2742,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-23T18:50:49.466Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -2826,7 +2766,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-23T18:12:11.794Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -2848,7 +2788,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-23T17:54:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -2873,7 +2813,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-23T17:17:16.626Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -2894,7 +2834,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-23T14:55:25.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Arbeitnow"
   },
   {
@@ -2915,7 +2855,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-23T14:22:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -2939,7 +2879,7 @@
     "seniority": "entry",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-23T14:11:57.564Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -2964,7 +2904,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-23T12:05:17.444Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -2989,29 +2929,8 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-23T10:59:06.489Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
-  },
-  {
-    "id": "greenhouse:agoda:8311792",
-    "source": "greenhouse",
-    "external_id": "agoda:8311792",
-    "title": "Data Analyst (Bangkok Based, Relocation Support Provided)",
-    "company": "Agoda",
-    "company_logo": null,
-    "location": "Bangkok",
-    "remote": false,
-    "url": "https://job-boards.greenhouse.io/agoda/jobs/8311792",
-    "description_snippet": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: BKNG], with a…",
-    "salary": null,
-    "tags": [
-      "agoda"
-    ],
-    "seniority": "unknown",
-    "role_family": "data-analyst",
-    "posted_at": "2026-10-23T07:20:10.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Greenhouse"
   },
   {
     "id": "jobicy:151318",
@@ -3032,7 +2951,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-23T03:45:11.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -3053,7 +2972,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-22T19:16:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "The Muse"
   },
   {
@@ -3078,7 +2997,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-22T18:01:02.076Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -3103,7 +3022,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-22T17:19:19.968Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -3124,7 +3043,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-22T14:35:22.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3145,7 +3064,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-22T13:45:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3166,7 +3085,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-22T13:20:04.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3187,7 +3106,7 @@
     "seniority": "unknown",
     "role_family": "product-analytics",
     "posted_at": "2026-10-22T13:18:50.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3208,7 +3127,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-22T05:33:07.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3229,7 +3148,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-22T05:05:56.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3251,7 +3170,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-22T04:35:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -3273,7 +3192,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-22T04:35:08.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Jobicy"
   },
   {
@@ -3297,7 +3216,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-21T23:27:40.118Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -3321,7 +3240,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-21T22:43:24.562Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -3342,30 +3261,8 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-21T19:39:48.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
-  },
-  {
-    "id": "jobicy:156243",
-    "source": "jobicy",
-    "external_id": "156243",
-    "title": "Operations Analyst",
-    "company": "Caylent",
-    "company_logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/9ed8d81b-221.jpg",
-    "location": "Remote — Argentina only",
-    "remote": true,
-    "url": "https://jobicy.com/jobs/156243-operations-analyst",
-    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and…",
-    "salary": null,
-    "tags": [
-      "product & operations",
-      "full-time"
-    ],
-    "seniority": "unknown",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-21T18:02:40.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Jobicy"
   },
   {
     "id": "greenhouse:okta:8304288",
@@ -3385,7 +3282,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-21T15:55:12.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3406,7 +3303,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-21T14:25:53.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3427,7 +3324,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-21T09:13:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3448,7 +3345,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-21T08:55:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3472,7 +3369,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-21T02:15:41.517Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -3496,7 +3393,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-21T02:15:28.987Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -3517,7 +3414,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-20T11:55:06.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3549,7 +3446,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-20T08:00:05.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Remote OK"
   },
   {
@@ -3574,7 +3471,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-20T07:31:17.043Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -3595,7 +3492,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-19T22:54:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3616,7 +3513,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-19T20:55:24.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3637,7 +3534,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-19T17:50:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3658,7 +3555,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-19T17:17:03.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3679,7 +3576,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-19T12:26:06.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3700,7 +3597,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-17T02:54:56.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3721,7 +3618,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T23:00:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3742,7 +3639,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T23:00:28.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3763,7 +3660,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T20:23:57.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3784,7 +3681,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T20:23:54.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3805,7 +3702,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T18:55:45.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3826,7 +3723,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T18:55:42.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3847,7 +3744,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T18:23:19.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3872,7 +3769,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-16T17:42:25.985Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -3896,7 +3793,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T16:03:50.696Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -3917,7 +3814,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T15:14:45.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3938,7 +3835,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T11:30:00.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3959,7 +3856,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T09:33:15.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -3980,7 +3877,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T09:11:52.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4001,7 +3898,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T09:11:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4025,7 +3922,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-16T08:30:12.136Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4048,7 +3945,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-16T08:25:16.702Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4069,7 +3966,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-16T08:16:28.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4094,7 +3991,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-15T19:11:17.579Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -4115,7 +4012,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-15T17:03:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4140,7 +4037,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-15T16:54:42.011Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -4161,7 +4058,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-15T16:02:17.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4182,7 +4079,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-15T15:14:03.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4203,7 +4100,7 @@
     "seniority": "entry",
     "role_family": "bi",
     "posted_at": "2026-10-15T12:46:30.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4227,7 +4124,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-15T11:04:39.114Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4251,7 +4148,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-15T11:04:39.111Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4275,7 +4172,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-15T08:57:29.931Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -4296,7 +4193,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-15T07:53:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4317,7 +4214,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-15T03:12:55.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4338,7 +4235,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T22:03:16.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4359,7 +4256,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-14T21:53:46.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4380,7 +4277,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-14T21:53:44.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4401,7 +4298,7 @@
     "seniority": "unknown",
     "role_family": "product-analytics",
     "posted_at": "2026-10-14T18:14:25.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4422,7 +4319,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T14:43:24.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4443,7 +4340,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T14:42:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4464,7 +4361,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T14:42:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4485,7 +4382,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T14:41:38.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4506,7 +4403,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T14:41:08.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4527,7 +4424,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-14T14:40:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4550,7 +4447,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-14T13:55:35.679Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4571,7 +4468,7 @@
     "seniority": "unknown",
     "role_family": "product-analytics",
     "posted_at": "2026-10-14T13:14:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4596,7 +4493,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-14T12:52:10.971Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4621,7 +4518,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-14T12:08:10.964Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4642,7 +4539,7 @@
     "seniority": "unknown",
     "role_family": "product-analytics",
     "posted_at": "2026-10-14T08:30:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4663,7 +4560,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-14T07:09:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4684,7 +4581,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-14T06:46:57.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4705,7 +4602,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-13T23:01:05.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4726,7 +4623,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-13T22:17:11.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4751,7 +4648,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-13T16:57:23.821Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4772,7 +4669,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-13T15:45:04.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4796,7 +4693,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-13T15:25:49.553Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4817,7 +4714,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-13T15:09:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4838,7 +4735,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-13T14:52:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4859,7 +4756,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-13T10:57:47.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4880,7 +4777,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-13T08:50:55.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4901,7 +4798,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-12T17:54:32.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4926,7 +4823,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-12T09:57:11.514Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -4947,7 +4844,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-10T14:07:43.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -4972,7 +4869,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-10T03:27:31.099Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -4993,7 +4890,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-09T20:43:50.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5018,7 +4915,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-10-09T20:28:57.556Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -5039,7 +4936,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-09T20:13:28.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5060,7 +4957,7 @@
     "seniority": "unknown",
     "role_family": "business-analyst",
     "posted_at": "2026-10-09T19:17:17.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5081,7 +4978,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-09T16:57:14.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5106,7 +5003,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-09T15:34:05.695Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -5131,7 +5028,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-09T14:54:19.876Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5152,7 +5049,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-09T12:54:35.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5173,7 +5070,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-09T09:36:14.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5194,7 +5091,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-09T05:30:49.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5215,7 +5112,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T20:12:06.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5236,7 +5133,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T17:54:28.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5261,7 +5158,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T17:07:05.148Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -5282,7 +5179,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T15:49:29.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5303,7 +5200,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T15:49:28.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5324,7 +5221,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T15:49:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5345,7 +5242,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-08T14:37:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5366,7 +5263,7 @@
     "seniority": "unknown",
     "role_family": "business-analyst",
     "posted_at": "2026-10-07T16:57:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5387,7 +5284,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-07T16:46:19.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5408,7 +5305,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-10-07T15:27:00.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5429,7 +5326,7 @@
     "seniority": "entry",
     "role_family": "other-analyst",
     "posted_at": "2026-10-07T14:02:20.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5450,7 +5347,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-06T22:16:15.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5475,7 +5372,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-06T21:31:18.201Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -5496,7 +5393,7 @@
     "seniority": "unknown",
     "role_family": "business-analyst",
     "posted_at": "2026-10-06T18:55:23.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5517,7 +5414,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-06T14:04:30.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5538,7 +5435,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-06T12:59:45.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5562,7 +5459,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-06T12:12:07.152Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5587,7 +5484,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-06T00:05:21.974Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5608,7 +5505,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-05T22:38:54.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5629,7 +5526,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-05T22:29:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5650,7 +5547,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-05T20:16:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5671,7 +5568,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-05T18:27:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5695,7 +5592,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-05T16:54:33.687Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5716,7 +5613,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-05T14:48:55.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5741,7 +5638,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-05T12:33:39.275Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5765,7 +5662,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-05T09:03:52.385Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5789,7 +5686,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-04T13:55:38.925Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5810,7 +5707,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-03T01:29:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5831,7 +5728,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-02T21:44:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5852,7 +5749,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-10-02T19:40:11.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5873,7 +5770,7 @@
     "seniority": "unknown",
     "role_family": "business-analyst",
     "posted_at": "2026-10-02T19:38:55.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5894,7 +5791,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-02T19:38:02.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5915,7 +5812,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-02T18:36:55.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5940,7 +5837,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-02T17:13:03.539Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -5961,7 +5858,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-02T14:54:35.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -5982,28 +5879,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-10-02T14:05:49.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
-    "via": "Greenhouse"
-  },
-  {
-    "id": "greenhouse:sumup:8860090002",
-    "source": "greenhouse",
-    "external_id": "sumup:8860090002",
-    "title": "Risk and anti-fraud analyst",
-    "company": "SumUp",
-    "company_logo": null,
-    "location": "Sofia, Bulgaria",
-    "remote": false,
-    "url": "https://sumup.com/careers/positions/8860090002?gh_jid=8860090002",
-    "description_snippet": "Team description Our Risk & Fraud team sits at the heart of keeping SumUp safe for millions of small businesses, spotting suspicious transactions and stopping fraud before it causes real harm. As a Risk and Anti-Fraud Analyst, you'll monitor transactions and merchant activity, follow up on fraud…",
-    "salary": null,
-    "tags": [
-      "sumup"
-    ],
-    "seniority": "unknown",
-    "role_family": "other-analyst",
-    "posted_at": "2026-10-02T13:57:00.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6027,7 +5903,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-01T23:43:01.805Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -6048,7 +5924,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-10-01T19:13:11.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6069,7 +5945,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-01T19:08:54.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6090,7 +5966,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-01T15:05:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6111,7 +5987,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-10-01T15:05:29.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6132,7 +6008,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-10-01T14:59:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6153,7 +6029,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-10-01T07:22:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6177,7 +6053,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-30T21:06:14.584Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -6198,7 +6074,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-30T21:01:38.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6222,7 +6098,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-09-30T20:55:55.608Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6243,7 +6119,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-30T18:53:58.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6264,7 +6140,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-30T16:45:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6285,7 +6161,7 @@
     "seniority": "unknown",
     "role_family": "bi",
     "posted_at": "2026-09-29T21:10:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6310,7 +6186,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-09-29T18:26:42.286Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -6331,7 +6207,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-29T17:22:14.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6352,7 +6228,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-29T15:28:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6373,7 +6249,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-09-29T13:52:54.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6398,7 +6274,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-29T12:18:42.403Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -6422,7 +6298,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-09-29T02:24:13.046Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6443,7 +6319,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-28T22:18:01.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6464,7 +6340,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-28T16:54:26.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6485,7 +6361,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-28T16:54:15.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6506,7 +6382,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-28T16:44:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6527,7 +6403,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T20:49:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6548,7 +6424,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T20:49:49.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6569,7 +6445,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T20:36:09.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6594,7 +6470,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-25T19:26:13.344Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6615,7 +6491,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T18:11:25.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6636,7 +6512,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-09-25T17:37:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6657,7 +6533,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T17:36:00.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6680,7 +6556,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T16:51:55.608Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -6701,7 +6577,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-09-25T09:09:47.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6725,7 +6601,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-09-25T06:37:59.209Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6746,7 +6622,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-25T00:11:24.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6767,7 +6643,7 @@
     "seniority": "senior",
     "role_family": "other-analyst",
     "posted_at": "2026-09-25T00:06:21.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6788,7 +6664,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-09-24T21:24:36.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6813,7 +6689,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-24T20:41:56.579Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6834,7 +6710,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-09-24T20:03:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6855,7 +6731,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-24T17:40:25.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6880,7 +6756,7 @@
     "seniority": "unknown",
     "role_family": "product-analytics",
     "posted_at": "2026-09-24T15:00:35.977Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6901,7 +6777,7 @@
     "seniority": "mid",
     "role_family": "other-analyst",
     "posted_at": "2026-09-24T06:51:22.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6922,7 +6798,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-24T02:38:51.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -6947,7 +6823,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-09-23T19:37:41.532Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6972,7 +6848,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-23T13:35:33.570Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -6996,7 +6872,7 @@
     "seniority": "entry",
     "role_family": "business-analyst",
     "posted_at": "2026-09-23T09:13:08.619Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7017,7 +6893,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-23T08:34:42.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7042,7 +6918,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-22T21:02:00.238Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7063,7 +6939,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-22T20:51:08.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7084,7 +6960,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-22T20:19:21.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7108,7 +6984,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-22T18:03:42.783Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -7129,7 +7005,7 @@
     "seniority": "senior",
     "role_family": "bi",
     "posted_at": "2026-09-22T16:50:24.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7150,7 +7026,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-22T12:25:34.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7171,7 +7047,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-09-22T01:42:16.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7192,7 +7068,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-21T23:53:50.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7213,7 +7089,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-21T21:57:33.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7234,7 +7110,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-21T21:54:58.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7255,7 +7131,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-21T21:17:57.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7276,7 +7152,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-21T19:45:22.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7297,7 +7173,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-21T14:59:19.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7321,7 +7197,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-09-21T13:33:03.719Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7346,7 +7222,7 @@
     "seniority": "entry",
     "role_family": "data-analyst",
     "posted_at": "2026-09-21T09:39:50.796Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -7367,7 +7243,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-09-21T07:24:38.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7388,7 +7264,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-09-21T07:22:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7409,7 +7285,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-09-21T07:22:05.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7430,7 +7306,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-21T06:03:00.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7454,7 +7330,7 @@
     "seniority": "senior",
     "role_family": "bi",
     "posted_at": "2026-09-19T07:20:33.470Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7479,7 +7355,7 @@
     "seniority": "senior",
     "role_family": "bi",
     "posted_at": "2026-09-18T20:58:28.783Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7500,7 +7376,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-18T17:13:05.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7521,7 +7397,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-18T16:28:21.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7545,7 +7421,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-18T14:58:18.982Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7566,7 +7442,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-18T13:48:31.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7587,7 +7463,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-17T17:16:47.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7608,7 +7484,7 @@
     "seniority": "senior",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-17T16:08:50.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7633,7 +7509,7 @@
     "seniority": "senior",
     "role_family": "business-analyst",
     "posted_at": "2026-09-17T15:46:46.924Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7658,7 +7534,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-09-17T14:33:56.813Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7679,7 +7555,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-16T18:23:40.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7703,7 +7579,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-16T17:43:56.068Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7724,7 +7600,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-16T14:06:13.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7745,7 +7621,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-16T03:59:37.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7766,7 +7642,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-15T20:39:54.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7791,7 +7667,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-15T18:40:47.426Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7816,7 +7692,7 @@
     "seniority": "unknown",
     "role_family": "data-analyst",
     "posted_at": "2026-09-15T18:21:32.726Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7837,7 +7713,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-15T08:43:27.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7861,7 +7737,7 @@
     "seniority": "unknown",
     "role_family": "analytics-engineering",
     "posted_at": "2026-09-14T21:14:57.759Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Ashby"
   },
   {
@@ -7882,7 +7758,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-14T19:57:27.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7903,7 +7779,7 @@
     "seniority": "unknown",
     "role_family": "other-analyst",
     "posted_at": "2026-09-14T18:44:41.000Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Greenhouse"
   },
   {
@@ -7928,7 +7804,7 @@
     "seniority": "senior",
     "role_family": "data-analyst",
     "posted_at": "2026-09-14T09:45:22.265Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   },
   {
@@ -7953,7 +7829,7 @@
     "seniority": "senior",
     "role_family": "product-analytics",
     "posted_at": "2026-09-14T05:54:37.573Z",
-    "fetched_at": "2026-10-28T05:51:32.518Z",
+    "fetched_at": "2026-10-28T13:06:20.538Z",
     "via": "Lever"
   }
 ]
